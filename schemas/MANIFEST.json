@@ -1,0 +1,806 @@
+{
+  "origin": "Unmodified SDT Paramdex XML snapshot from the local WitchyBND installation",
+  "upstream": "https://github.com/soulsmods/Paramdex",
+  "files": [
+    {
+      "path": "schemas/SDT/Defs/ActionButtonParam.xml",
+      "sha256": "22DCFB3476E9E86C54396382F841361694A2999A35F17F6AF6DCFB56CE675B2F",
+      "bytes": 13575
+    },
+    {
+      "path": "schemas/SDT/Defs/ActionGuideParam.xml",
+      "sha256": "DA784EECF3CFDEEDEDB0C9E9BC37D37D258A764711A8FCA85CAF6185C4D90AF8",
+      "bytes": 1032
+    },
+    {
+      "path": "schemas/SDT/Defs/ActionUnlockParam.xml",
+      "sha256": "B6F58AC78486FDD75CB74F4784CC8DA733EA2BBE8E4CD351DF3AB45BC80AB5C5",
+      "bytes": 9411
+    },
+    {
+      "path": "schemas/SDT/Defs/AiAnimTblParam.xml",
+      "sha256": "D5501FF729F312712CA4C457EE292D1B8336019F3F4039A1691F33420E907604",
+      "bytes": 28740
+    },
+    {
+      "path": "schemas/SDT/Defs/AIAttackParam.xml",
+      "sha256": "D9D01645E92A0D275511B8F63C78125AE73129528396D5FA1F2DF45DE66B0C67",
+      "bytes": 13368
+    },
+    {
+      "path": "schemas/SDT/Defs/AiOddsParam.xml",
+      "sha256": "F8AEAEBFBC496DC6B41BCD100B962719B55701F64018C37D072DBBE1E72B6BD0",
+      "bytes": 21590
+    },
+    {
+      "path": "schemas/SDT/Defs/AiSoundParam.xml",
+      "sha256": "364600640CAF5F938CB533D16EAFD316ED11FCAF3F2E89DBC5046B2D5DF6F0FD",
+      "bytes": 3117
+    },
+    {
+      "path": "schemas/SDT/Defs/AiStandardInfo.xml",
+      "sha256": "0672E7EBAE8AB8500268FDF99AE8EDC784D7FD621A40327E7378376DD0330EB3",
+      "bytes": 10233
+    },
+    {
+      "path": "schemas/SDT/Defs/AtkParam.xml",
+      "sha256": "84CE3A502DA2F7BF10AE5CE7E9D91BE6743F6D6FDF2E358C3C19A14A2E7AF6D4",
+      "bytes": 65627
+    },
+    {
+      "path": "schemas/SDT/Defs/AttackElementCorrectParam.xml",
+      "sha256": "34F6D5F68D43B82B0CB2705F6359C84D159D1E3A29E5D456AE6085BCF7F21080",
+      "bytes": 19414
+    },
+    {
+      "path": "schemas/SDT/Defs/BehaviorParam.xml",
+      "sha256": "DF481690CE4DD6B57C8D4AF07E4E5883C87EDC42D94DD42FA581BF8864A911C8",
+      "bytes": 4082
+    },
+    {
+      "path": "schemas/SDT/Defs/BonfireWarpParam.xml",
+      "sha256": "5000671D0A021B453B49F5EFDFDDCC0AD294311B54F37A3E7F0394B2F7C19D54",
+      "bytes": 2945
+    },
+    {
+      "path": "schemas/SDT/Defs/BudgetParam.xml",
+      "sha256": "735BE12AA2B6E387039D1FE446D8C73F0B88F701B0689FA2FB27FCCCCE382300",
+      "bytes": 9614
+    },
+    {
+      "path": "schemas/SDT/Defs/BulletCreateLimitParam.xml",
+      "sha256": "344AFE462B36A13AF629629D7FD24F8A657F5A632F5D5CED7FA580B985DEAA35",
+      "bytes": 662
+    },
+    {
+      "path": "schemas/SDT/Defs/BulletParam.xml",
+      "sha256": "A49722ADE3C946042E7A77FF98AA4284D38D181C915C1536FF0795C81F6C175A",
+      "bytes": 36518
+    },
+    {
+      "path": "schemas/SDT/Defs/CalcCorrectGraph.xml",
+      "sha256": "32809C818E14E612DD2339F243E2E8CCB2D621E4FB1E1AB6D955CED4FE42B34C",
+      "bytes": 6006
+    },
+    {
+      "path": "schemas/SDT/Defs/CameraParam.xml",
+      "sha256": "7EF74FF65309BA80C6BB4FE6D24236F01DCCAD93CE9D973311F6661FD822796F",
+      "bytes": 45203
+    },
+    {
+      "path": "schemas/SDT/Defs/CameraSetParam.xml",
+      "sha256": "D8B73CBBDFC30D8CDFEF7D6B16713B2D9114C87CFE5A22B128EDDA45BAEF3CBE",
+      "bytes": 70219
+    },
+    {
+      "path": "schemas/SDT/Defs/CeremonyParam.xml",
+      "sha256": "3D1232A67E5637BA24875ED5F25BCC421CF497F613B7DD0FE57E56F2735587C9",
+      "bytes": 3012
+    },
+    {
+      "path": "schemas/SDT/Defs/CharaInitParam.xml",
+      "sha256": "7806BAD160C1938A928BB8AE04787A97A0885D52EF3041B067E133223EE19CD5",
+      "bytes": 46241
+    },
+    {
+      "path": "schemas/SDT/Defs/CharMakeMenuListItemParam.xml",
+      "sha256": "6D96492BC5BFDEF08D00751164BBB14A4B315AE571B9C05B902857880FA81B2B",
+      "bytes": 1053
+    },
+    {
+      "path": "schemas/SDT/Defs/CharMakeMenuTopParam.xml",
+      "sha256": "06B107913B50F2EF4F6683B9BBE1A6DA30749725C52BDA7A3415A1BC89CBDDC1",
+      "bytes": 1993
+    },
+    {
+      "path": "schemas/SDT/Defs/ChrPhysicsHomingParam.xml",
+      "sha256": "7ABD040161AA0207717A5EA7B89C28830D1F671D3B7573EB501434DFD4EF522D",
+      "bytes": 5009
+    },
+    {
+      "path": "schemas/SDT/Defs/ChrPhysicsVelocityChangeParam.xml",
+      "sha256": "ADFA59D10ED63A50200CA4F901A761799D48EF92F8C6B03BF699CCBEF8CDF564",
+      "bytes": 4195
+    },
+    {
+      "path": "schemas/SDT/Defs/ClearCountCorrectParam.xml",
+      "sha256": "D06486FC18BE8027B7B0C2B046349DA3A326F7035EAF2C757672ACF915A7000F",
+      "bytes": 10240
+    },
+    {
+      "path": "schemas/SDT/Defs/CoolTimeParam.xml",
+      "sha256": "18325A96224B5C839692A66375109239884423F296876394DC60A6D7B81F91DA",
+      "bytes": 4212
+    },
+    {
+      "path": "schemas/SDT/Defs/CultSettingParam.xml",
+      "sha256": "0E3483F158BCBB76BE2E08FF9F1D4387701E2969C79DC359B881033D81E27034",
+      "bytes": 2333
+    },
+    {
+      "path": "schemas/SDT/Defs/CutsceneParam.xml",
+      "sha256": "974982811E0B7A8CAF1BF01997641887E2BCBC4B1BDAA974005A75A43D38E607",
+      "bytes": 1293
+    },
+    {
+      "path": "schemas/SDT/Defs/DecalParam.xml",
+      "sha256": "0B06249A113C3F0E5C74A502280D11C6DE9500563C9DAA5BE81F1883E9CD3FDF",
+      "bytes": 27165
+    },
+    {
+      "path": "schemas/SDT/Defs/DefaultKeyAssignParam.xml",
+      "sha256": "3C83BB0CF1B31D14869438B663F48341092922FCC556C3365C7D8F8F8D711EAB",
+      "bytes": 2065
+    },
+    {
+      "path": "schemas/SDT/Defs/DirectionCameraParam.xml",
+      "sha256": "C60C355CBE136149D1EB02DBA316F46F9F40A1B9AD09A452A4339C5AEDF95811",
+      "bytes": 917
+    },
+    {
+      "path": "schemas/SDT/Defs/DofBank.xml",
+      "sha256": "202957C95FCF0BC0CE21A878402A08D79D4ED31912F2DC23FEE18E6A120B41C2",
+      "bytes": 3061
+    },
+    {
+      "path": "schemas/SDT/Defs/DyingEffectParam.xml",
+      "sha256": "C6E15D398F1E8EAC4AB87D516409AA6CA2C6DE91DDA69F03D492306FEE968954",
+      "bytes": 2108
+    },
+    {
+      "path": "schemas/SDT/Defs/EnemyCommonParam.xml",
+      "sha256": "BDA63EFA5A62EBCE9A5EAEB7C4CAE3F80AA3BA89CF4A9BFE071E37C36E8AAEC1",
+      "bytes": 16200
+    },
+    {
+      "path": "schemas/SDT/Defs/EnemyStandardInfo.xml",
+      "sha256": "CD17EAB4F3F1A86784FCD04D60D5EFFA1F423F0AC83FE2E623898EB8CF01311D",
+      "bytes": 5881
+    },
+    {
+      "path": "schemas/SDT/Defs/EnvLightTexBank.xml",
+      "sha256": "41EAC98FB762B0C09DDBDA06AD097755447D794C9C8B945A2F41A047B180E30D",
+      "bytes": 25186
+    },
+    {
+      "path": "schemas/SDT/Defs/EquipMtrlSetParam.xml",
+      "sha256": "1D743F357B365741F51AC4548F219D6AE1AF2493ED34264601A5CDB22FB67DF6",
+      "bytes": 6199
+    },
+    {
+      "path": "schemas/SDT/Defs/EquipParamAccessory.xml",
+      "sha256": "1827DA02AB6525C1A8DB9626222BF5F36B7B52633DC473260873BE2F4B2915EA",
+      "bytes": 11599
+    },
+    {
+      "path": "schemas/SDT/Defs/EquipParamGoods.xml",
+      "sha256": "177FFA3702B115709FC714610B1185EB3AA0F53D47D57B83F7AD8A5A8EB4247F",
+      "bytes": 34754
+    },
+    {
+      "path": "schemas/SDT/Defs/EquipParamProtector.xml",
+      "sha256": "5C39DB5FF1D44C75886CA0EC87D6DCA9DA949B3B1CEE06B1F67FB335FE6B0A38",
+      "bytes": 87584
+    },
+    {
+      "path": "schemas/SDT/Defs/EquipParamWeapon.xml",
+      "sha256": "7F92507FCAAB75484F58E22B74711B2FADFB98F0550BE02D63FA7D094CE0686E",
+      "bytes": 84718
+    },
+    {
+      "path": "schemas/SDT/Defs/EstusFlaskRecoveryParam.xml",
+      "sha256": "45741D9DE96C3F7770728E129CCC6711971F7A16DE0B5FE9237DE3A556DB7736",
+      "bytes": 4650
+    },
+    {
+      "path": "schemas/SDT/Defs/FaceGenParam.xml",
+      "sha256": "33BD7A6BB74DE4F2B3F7BC5D6E808E166BF95EC5149E8455F7CCD8A43B5EC1AE",
+      "bytes": 28621
+    },
+    {
+      "path": "schemas/SDT/Defs/FaceParam.xml",
+      "sha256": "FE22F98CE01AE170A03E6B4351077B1CDB0B68B3C04D523235A12C01276E1A73",
+      "bytes": 38207
+    },
+    {
+      "path": "schemas/SDT/Defs/FaceRangeParam.xml",
+      "sha256": "6B36E9EC2AF75AFA6C6FB9C1E856ECF13503DE2B3D67012A7F7232CB2048BEBD",
+      "bytes": 45703
+    },
+    {
+      "path": "schemas/SDT/Defs/FarModelParam.xml",
+      "sha256": "6E030E24EAFF2368605AEAD4454CAAE4AAEE369FF3531606D84A55483D4821B0",
+      "bytes": 3246
+    },
+    {
+      "path": "schemas/SDT/Defs/FogBank.xml",
+      "sha256": "97F9223772E8662B8A595F311A96B718DD72895B1481D5FC6938969630DB969F",
+      "bytes": 8412
+    },
+    {
+      "path": "schemas/SDT/Defs/FootSfxParam.xml",
+      "sha256": "8A6B0A861F13E01EBAAA6379269A11156217E7B35B91DBA4E5C7A45BA7042EF6",
+      "bytes": 94771
+    },
+    {
+      "path": "schemas/SDT/Defs/GameAreaParam.xml",
+      "sha256": "0F341D7C253E456B9F55008ECF15C59D19FEA511DED2ED0FD26C55EFC62BA086",
+      "bytes": 5033
+    },
+    {
+      "path": "schemas/SDT/Defs/GameInfoParam.xml",
+      "sha256": "0AD607F5871ECD0117C594B26015F2F8196419C9517C6A24BFF1993F17AF8823",
+      "bytes": 1625
+    },
+    {
+      "path": "schemas/SDT/Defs/GameProgressParam.xml",
+      "sha256": "36BD789160C03CD630EFE4D5998E2FB08B5BE7E651D1BD2AEF66B7B6FDB73A06",
+      "bytes": 918
+    },
+    {
+      "path": "schemas/SDT/Defs/GameSystemParam.xml",
+      "sha256": "2D4876F051BB029560FD9389D7FA5DFE7CB0C2BEB2FD1D3AE368AEB32646C6E6",
+      "bytes": 50380
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_AAQuality.xml",
+      "sha256": "5D099F0C5C8A95CD6A2ED2A370DAB1FB61DAE44B36D0243609ECEF0F625CE642",
+      "bytes": 645
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_DecalQuality.xml",
+      "sha256": "005279C2585454845DC87D0153D14304F6D6024D7793587541F343873BAAF078",
+      "bytes": 672
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_DOFQuality.xml",
+      "sha256": "641756A3A74BFCB8CCF1AABA94F4E9C242792D895F3002A4ACA69E153BD7CB21",
+      "bytes": 1395
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_EffectQuality.xml",
+      "sha256": "BC22B8E26410994F00BC63BBD8729F646AA9732F6FE0B63FE8B000B9DE3C3782",
+      "bytes": 4128
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_LightingQuality.xml",
+      "sha256": "CA3E127BAF36F714F8871757F7A7E1094C1043ABC534A6BA7D9460708741484C",
+      "bytes": 1495
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_MotionBlurQuality.xml",
+      "sha256": "BFC2B169039AB04ED2027FB72BFB18E8C1B73CE76489E9BC15576E8ECBCAC285",
+      "bytes": 3082
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_ReflectionQuality.xml",
+      "sha256": "47C521839D14A8294022CF95FE97B67F209D349B2D4ADB03D73256BBA20A0EAE",
+      "bytes": 3882
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_ShaderQuality.xml",
+      "sha256": "10605702EDD12EC82B5D227DEF65F53CB024706D77A598067B42FBF45003B868",
+      "bytes": 1539
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_ShadowQuality.xml",
+      "sha256": "F94B29D919082B7D76654DC8D10D1432542639CB9DA080E6791BD17458A731FE",
+      "bytes": 2945
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_SSAOQuality.xml",
+      "sha256": "5D12D40E10EB283FF30F96A01B60769DCC5CA62F8300ED384036E55EBEB83173",
+      "bytes": 1726
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_TextureFilterQuality.xml",
+      "sha256": "1F5126B76FC71A89C9586DDBD18DB7487969229CA993AB91BBD6E161683BAC63",
+      "bytes": 1005
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_VolumetricEffectQuality.xml",
+      "sha256": "CCBD0C34CDFDB2531F2FD648F5FC399F404B231E7D8665F89C53739E9426FE57",
+      "bytes": 2635
+    },
+    {
+      "path": "schemas/SDT/Defs/Gconfig_WaterQuality.xml",
+      "sha256": "FD41BD5AB03EA3E3198DF1D128FBD2D4281CFA3EF7B0906AC9AFFC47BDEE5AF8",
+      "bytes": 707
+    },
+    {
+      "path": "schemas/SDT/Defs/GemCategoryParam.xml",
+      "sha256": "6F530C6DFFCEB21ED468C873F8158BE5D8B850722E41D6D6CBE82FF6DE827C73",
+      "bytes": 5962
+    },
+    {
+      "path": "schemas/SDT/Defs/GemDropDopingParam.xml",
+      "sha256": "44A2023FC651A1CD513756670D430EE17CBF3F04A4E455C26550EB90AD782FAE",
+      "bytes": 6209
+    },
+    {
+      "path": "schemas/SDT/Defs/GemDropModifyParam.xml",
+      "sha256": "C679CDFF710459CEE6AC5DFDDF2CC32090CA8307009C5A92EACA3DD6EB49EF1C",
+      "bytes": 10098
+    },
+    {
+      "path": "schemas/SDT/Defs/GemeffectParam.xml",
+      "sha256": "6B6D3BAE3DAEFD10E596C328268AA8C0953B80F495C7DBD7E50655176D5BDAE5",
+      "bytes": 2203
+    },
+    {
+      "path": "schemas/SDT/Defs/GemGenParam.xml",
+      "sha256": "E9CF6E2AADF14CBF8E333CAB209FD0ADCAD63EBE6EC5628A215B681079DFAF25",
+      "bytes": 10887
+    },
+    {
+      "path": "schemas/SDT/Defs/GraphicsConfig.xml",
+      "sha256": "1043083A5DECF369D42B7B46DA9F70B25236A9650F3535614DCCCF7C57766993",
+      "bytes": 5063
+    },
+    {
+      "path": "schemas/SDT/Defs/GraphicsConfig_ver2.xml",
+      "sha256": "5E268C719DEDA8F9AA6C354EC8467243BDDF597988788154A02A1C339111B093",
+      "bytes": 4811
+    },
+    {
+      "path": "schemas/SDT/Defs/GraphicsParam.xml",
+      "sha256": "E9133AB789F5571AC9C7ED70AF8164F647F094F65C8DB06D23C7EEB8948B3A53",
+      "bytes": 16782
+    },
+    {
+      "path": "schemas/SDT/Defs/GrassLodRangeParam.xml",
+      "sha256": "B2DF4CED3E4179C282D942141E58342D81C56F3C25C0518059FC507B7A395BAC",
+      "bytes": 2031
+    },
+    {
+      "path": "schemas/SDT/Defs/GrassTypeParam.xml",
+      "sha256": "AF0BB1DD2F1E25C63DF0E54E4626E376892C0C68975F5A9DEB32E4B118D241B5",
+      "bytes": 8984
+    },
+    {
+      "path": "schemas/SDT/Defs/HitEffectSeParam.xml",
+      "sha256": "787FD14D75B0020134F423972686D63325D658C9417CA9CC84C7E231A1217F1E",
+      "bytes": 35074
+    },
+    {
+      "path": "schemas/SDT/Defs/HitEffectSfxAngleParam.xml",
+      "sha256": "F2853DDF0B436B1BD856BBA73DE712BDC1A9FA7F9396688EFEF5F13F77AE44E0",
+      "bytes": 5445
+    },
+    {
+      "path": "schemas/SDT/Defs/HitEffectSfxConceptParam.xml",
+      "sha256": "794697687D335DFCBF32D4884633BF5BDF7408F02DC9A88988FB976C5A8555E6",
+      "bytes": 9370
+    },
+    {
+      "path": "schemas/SDT/Defs/HitEffectSfxParam.xml",
+      "sha256": "FC2C913BE81C798628D1B9BA44CD7120BD58F4E32BA3D06640B58B1FABD01EBC",
+      "bytes": 3888
+    },
+    {
+      "path": "schemas/SDT/Defs/HitMaterialSpecialSettingParam.xml",
+      "sha256": "BC80D8117090E804F4FB91D3941A1FEFF59BC9C9C8DB7EF2C3D72C74A6250934",
+      "bytes": 452
+    },
+    {
+      "path": "schemas/SDT/Defs/HitMtrlParam.xml",
+      "sha256": "255262E5A09BC95C2DD7F17BB9B2B581EC2F3BF256AF9C029B255485B2217CC1",
+      "bytes": 10176
+    },
+    {
+      "path": "schemas/SDT/Defs/ItemLotParam.xml",
+      "sha256": "C48F8871F2D4B14E5ED20C4F81D8CD90CA49B396E2D353B33B979DAF4C5DDB5A",
+      "bytes": 20835
+    },
+    {
+      "path": "schemas/SDT/Defs/KnockBackParam.xml",
+      "sha256": "CD6FDEA8CC41FABFB7E57DE2E259A069F87296796F00BAB7B7D91586C33285CC",
+      "bytes": 11433
+    },
+    {
+      "path": "schemas/SDT/Defs/KnowledgeLoadScreenItemParam.xml",
+      "sha256": "2024E505897AE33C8F89876A9730467D2F29175684F5337CCBC08F8C8FB76EDE",
+      "bytes": 1332
+    },
+    {
+      "path": "schemas/SDT/Defs/LensFlareBank.xml",
+      "sha256": "7F505FE73A823555F1B2F2E9C27923C4B690DBE4F2D46202E37EFBB5A2143473",
+      "bytes": 2854
+    },
+    {
+      "path": "schemas/SDT/Defs/LensFlareExBank.xml",
+      "sha256": "551EEE32B44E07CBD91D9F3EA9357CBA681C59B4B2EC26573CBA8CE846104D2E",
+      "bytes": 2187
+    },
+    {
+      "path": "schemas/SDT/Defs/LightBank.xml",
+      "sha256": "196E76F481609226014ABC1DF10B80DCEE61D3D05ED2150C02597C6E851D1941",
+      "bytes": 12894
+    },
+    {
+      "path": "schemas/SDT/Defs/LightScatteringBank.xml",
+      "sha256": "A21ABF5B931EE15FE1819CB98665E1A76DFA69B73AAA672D67948B8B05CF8525",
+      "bytes": 4849
+    },
+    {
+      "path": "schemas/SDT/Defs/LoadBalancerDrawDistScaleParam.xml",
+      "sha256": "17B382C34169EAC142CB9825C75381E3E69B9CF576A3E29FCB706708395E0A2B",
+      "bytes": 6259
+    },
+    {
+      "path": "schemas/SDT/Defs/LoadBalancerParam.xml",
+      "sha256": "79458535D9982A0887369D7DC8B84674364DE4FB2E3C8E469F254A0EF6C3760C",
+      "bytes": 8832
+    },
+    {
+      "path": "schemas/SDT/Defs/LockCamParam.xml",
+      "sha256": "0057C4FF74F171579058E03D7EB4EFFF93F4087B3EA15FBD19F89A735C524B1B",
+      "bytes": 7575
+    },
+    {
+      "path": "schemas/SDT/Defs/LodBank.xml",
+      "sha256": "99CB155FAABF1657F5C4F334F9FB191987488084C3115690C4412B28D79FE353",
+      "bytes": 5632
+    },
+    {
+      "path": "schemas/SDT/Defs/LodPlatform.xml",
+      "sha256": "410DD30A45774E34382FAF9E38A8198788856D79371C8C2FBAEC0311FBAD91DC",
+      "bytes": 2976
+    },
+    {
+      "path": "schemas/SDT/Defs/MagicParam.xml",
+      "sha256": "F506896AEC16464F565F0858E9EFA10AF7786E88BAB65D0E4DB186D6C6743394",
+      "bytes": 22476
+    },
+    {
+      "path": "schemas/SDT/Defs/MapMimicryEstablishmentParam.xml",
+      "sha256": "621FE29448F0954C51443E038AD79E333669A4F5015001D69295C3553FDBF50A",
+      "bytes": 3536
+    },
+    {
+      "path": "schemas/SDT/Defs/MapPartsParam.xml",
+      "sha256": "B39ED0EEB8CB8897EE16BB4C049C16F4387DA3E7C46E2576A8B729FE02C053A9",
+      "bytes": 1468
+    },
+    {
+      "path": "schemas/SDT/Defs/MaterialEx.xml",
+      "sha256": "2D1987451B4EDA27A2D702CA13D5C165DF3540785D8A49C58E72834AC4997115",
+      "bytes": 1225
+    },
+    {
+      "path": "schemas/SDT/Defs/MenuOffscrRendParam.xml",
+      "sha256": "02FFE13A9BEEAC010EB22A937987E8939DA5CFA2F6D10FACE7E15E8D2B19C12A",
+      "bytes": 3718
+    },
+    {
+      "path": "schemas/SDT/Defs/MenuParam.xml",
+      "sha256": "0A17C4ECE7104CCDF17FC91321DD0C6FA8C408843F974BE9EDB783CB8A839971",
+      "bytes": 25526
+    },
+    {
+      "path": "schemas/SDT/Defs/MenuParamColorTable.xml",
+      "sha256": "81056EBE9A09AA856C32FE53988A837DFE97E253C7C7F96FBDD69F2D30DC3B12",
+      "bytes": 997
+    },
+    {
+      "path": "schemas/SDT/Defs/MenuPropertyLayoutParam.xml",
+      "sha256": "5354CE18671C4C3F60229514EE220EAC85ACE1C3BB88C0062184DDBEF7047F15",
+      "bytes": 1621
+    },
+    {
+      "path": "schemas/SDT/Defs/MenuPropertySpecParam.xml",
+      "sha256": "C42D0E683E93AC72A2AC3B38507A1F81F7A1172FE30E11B8A6810A984F225472",
+      "bytes": 1479
+    },
+    {
+      "path": "schemas/SDT/Defs/MenuTutorialParam.xml",
+      "sha256": "8AE3E7901C3440BBC098B170CB0BAF12E94B9D8E09450704FA5697EF10D4A18B",
+      "bytes": 2302
+    },
+    {
+      "path": "schemas/SDT/Defs/MenuValueTableSpecParam.xml",
+      "sha256": "1E15C59338DEEAA399F386FC433B6D156814DA82BB507ABC27ED2384EEF1BB64",
+      "bytes": 1361
+    },
+    {
+      "path": "schemas/SDT/Defs/MissileParam.xml",
+      "sha256": "2BCCB800ECA2A4064909986D4DBC371000FA268A58D431BCC810DF6FD49EE7C4",
+      "bytes": 4447
+    },
+    {
+      "path": "schemas/SDT/Defs/ModelSfxParam.xml",
+      "sha256": "D24C1B0D9D6D2AACBC0B622AA35243975540A0031CA5FEC7F541BCF12C9912EF",
+      "bytes": 5382
+    },
+    {
+      "path": "schemas/SDT/Defs/MoveParam.xml",
+      "sha256": "F56F1123B01C5D133CB1AE15605CC5F94F692D0424105AD09F371FB51D1D9099",
+      "bytes": 10264
+    },
+    {
+      "path": "schemas/SDT/Defs/MultiEstusFlaskBonusParam.xml",
+      "sha256": "62565371BF701838D0C8117510445F86F4A9C97AA794F0DD4ADFBA87F59AA962",
+      "bytes": 3590
+    },
+    {
+      "path": "schemas/SDT/Defs/MultiPlayCorrectionParam.xml",
+      "sha256": "72870A23492BF650126588A70268BD12B8A3539CB0B20EBE30E121E35224FF3E",
+      "bytes": 1674
+    },
+    {
+      "path": "schemas/SDT/Defs/MultiSoulBonusRateParam.xml",
+      "sha256": "FE5271BA7197B4B10B71C191D5892AB5CA7395AA8214EDD15C0461D7DF59CEF8",
+      "bytes": 4947
+    },
+    {
+      "path": "schemas/SDT/Defs/NetworkAreaParam.xml",
+      "sha256": "836EEAFE7E764089A716F3E1E7010E2BDD378BFB07E769D174069116BB0AE560",
+      "bytes": 4612
+    },
+    {
+      "path": "schemas/SDT/Defs/NetworkMsgParam.xml",
+      "sha256": "FDDBD14C9A979FC43C32D7F2535A0CDD6B9EB6B3A365694E9368B6F63DEE3386",
+      "bytes": 7607
+    },
+    {
+      "path": "schemas/SDT/Defs/NetworkParam.xml",
+      "sha256": "897C2DC87930B319744324B7166D22F089D2F83A94365F99D9CA51CAC01945A3",
+      "bytes": 62467
+    },
+    {
+      "path": "schemas/SDT/Defs/NpcAiActionParam.xml",
+      "sha256": "6590918298C9F9E50CE712590E4523C0BD3C9D5A25E3A4BB60AE8BD4FB82DCE3",
+      "bytes": 2991
+    },
+    {
+      "path": "schemas/SDT/Defs/NpcParam.xml",
+      "sha256": "DC4BE2DA242FC9E79B2298126DFAF78070DA873314F15E3D03FAA5553CC9DF34",
+      "bytes": 114562
+    },
+    {
+      "path": "schemas/SDT/Defs/NpcThinkParam.xml",
+      "sha256": "CD0525E23A6044289F357ADC7DA3A31D23F41EBC806A98C56AAAB058AB7FAF22",
+      "bytes": 27450
+    },
+    {
+      "path": "schemas/SDT/Defs/ObjActParam.xml",
+      "sha256": "DDBFBC5A7A75B6B65BD581C392D5B3E3D10B57A342E731E66D59EDDC69BD80F2",
+      "bytes": 5737
+    },
+    {
+      "path": "schemas/SDT/Defs/ObjectMaterialSfxParam.xml",
+      "sha256": "4F9DA5B7E698FA7F8BD86E9985D2D98027509322E9C5C5C865C9E53B5EA19375",
+      "bytes": 9401
+    },
+    {
+      "path": "schemas/SDT/Defs/ObjectParam.xml",
+      "sha256": "AE2C934F5ED95A55813E38836C005AF7B580614197EF6EF9308C5448ABC34614",
+      "bytes": 32045
+    },
+    {
+      "path": "schemas/SDT/Defs/PhantomParam.xml",
+      "sha256": "5102A33E4DB6C001ECE8B860DDE51F97EE982CCDBEAC2CD7AB061C0E8FAF8A58",
+      "bytes": 8151
+    },
+    {
+      "path": "schemas/SDT/Defs/PlayRegionParam.xml",
+      "sha256": "ECDBA12D134BEFD014CDFDF9C4DD4D3A7202BCFBB90EE1D783C52F4B835F6994",
+      "bytes": 9317
+    },
+    {
+      "path": "schemas/SDT/Defs/PointLightBank.xml",
+      "sha256": "4EFC19E329B2432AEDD307218937886FBA026DBEF16178BD835E234561726A83",
+      "bytes": 2329
+    },
+    {
+      "path": "schemas/SDT/Defs/ProtectorGenParam.xml",
+      "sha256": "FD93B409A95FC1422349ED0D361DF39248C608FC50886C7F868C36A72D95C8A0",
+      "bytes": 3343
+    },
+    {
+      "path": "schemas/SDT/Defs/QwcChangeParam.xml",
+      "sha256": "15503A6EE263AF37362DFEEC647481F37366C29540A25C9CA813B9A6DB068192",
+      "bytes": 2161
+    },
+    {
+      "path": "schemas/SDT/Defs/QwcJudgeParam.xml",
+      "sha256": "CD043C70825D72EA65E0880AB10A3D001C6A813FE6D7A6CBDC3AD0D22FB7914D",
+      "bytes": 2524
+    },
+    {
+      "path": "schemas/SDT/Defs/RagdollParam.xml",
+      "sha256": "BCBCB31DAA37971067AE616A55C442C38C9027CD743128CF21753E9FB7C19797",
+      "bytes": 3812
+    },
+    {
+      "path": "schemas/SDT/Defs/ReinforceParamProtector.xml",
+      "sha256": "659C1329054C7433B9C75A83BAEC160484FF93C58BDE4840251D188C7EBE1F5D",
+      "bytes": 5090
+    },
+    {
+      "path": "schemas/SDT/Defs/ReinforceParamWeapon.xml",
+      "sha256": "E67CCD070A1DAA38688AA5736AA9DC7E33968E18CB061CC6D986B85F4C13CDFA",
+      "bytes": 10842
+    },
+    {
+      "path": "schemas/SDT/Defs/RematchWarpParam.xml",
+      "sha256": "77599C358186F4B1FF7C18FBC327F221AA929FAD81C5869123E81603D1A2E2E5",
+      "bytes": 1809
+    },
+    {
+      "path": "schemas/SDT/Defs/ResourceItemLotParam.xml",
+      "sha256": "8A742754DEEF52D008F71CD6C29A17AF4CE03BB40A8C4115D39E298E45BADABC",
+      "bytes": 12815
+    },
+    {
+      "path": "schemas/SDT/Defs/ResourceItemParam.xml",
+      "sha256": "DA09647BC69226294294AA90BFE1D3F3572D46C8482F0EFB10BE7DA80255A83D",
+      "bytes": 4259
+    },
+    {
+      "path": "schemas/SDT/Defs/RoleParam.xml",
+      "sha256": "6A4C4F1669836730D692CAE029A0111C21A51ADE2782CE309C6273BFAD3CBC3A",
+      "bytes": 8594
+    },
+    {
+      "path": "schemas/SDT/Defs/SeMaterialConvertParam.xml",
+      "sha256": "444CEA0FDBABA7EBA41085E182CF3FB2B65301C1C14ABB3E6A3CD2E909A1430F",
+      "bytes": 681
+    },
+    {
+      "path": "schemas/SDT/Defs/ShadowBank.xml",
+      "sha256": "87146DA67D684BA14D3001AFFBBB68FBA2D318E5144F336EA0137A6C76E0273C",
+      "bytes": 7133
+    },
+    {
+      "path": "schemas/SDT/Defs/ShopLineupParam.xml",
+      "sha256": "B1E0C24D63E736BA0858E7170CF4C733C732742BA9B85AE2F9F40B8A3370CEAC",
+      "bytes": 3511
+    },
+    {
+      "path": "schemas/SDT/Defs/SkeletonParam.xml",
+      "sha256": "53D29BE4C6DC8E7D528D2F23E41172B27818D766DD222A0B4A0E1B765EF4B7B4",
+      "bytes": 8087
+    },
+    {
+      "path": "schemas/SDT/Defs/SkillParam.xml",
+      "sha256": "0B62C67D1BDD4F270C2E2D71D10CD450374CDA4DC54CFC1553391AAF1F195AAF",
+      "bytes": 8399
+    },
+    {
+      "path": "schemas/SDT/Defs/SpEffect.xml",
+      "sha256": "F191AB691478C34040B90DC5FA940739D269ACF9626DC1874DE8ED2E330ABC93",
+      "bytes": 136214
+    },
+    {
+      "path": "schemas/SDT/Defs/SpEffectVfx.xml",
+      "sha256": "D007D637C2F30EA1E429E0CFEE1C945308F64DDD55011BCBFA4F5732DA83202B",
+      "bytes": 25177
+    },
+    {
+      "path": "schemas/SDT/Defs/StaminaControlParam.xml",
+      "sha256": "3D1CD17B8EBF64F3B6338BEA61C5406C12BA75DDC4CA15CE7BEE2E247C318CC0",
+      "bytes": 15480
+    },
+    {
+      "path": "schemas/SDT/Defs/SwordArtsParam.xml",
+      "sha256": "743843A2FA606CE392BDABFFFFC4287521DF82380C1AD117E4FE5293D26C355D",
+      "bytes": 4442
+    },
+    {
+      "path": "schemas/SDT/Defs/TalkParam.xml",
+      "sha256": "E074FF59015EFC84A0FD9EA97C8B27978D61B42BB00652EF35BA67FD7DAC3D5D",
+      "bytes": 20361
+    },
+    {
+      "path": "schemas/SDT/Defs/TentativePlayerParam.xml",
+      "sha256": "850F7B4A666EE8045FC055C9436B62F7FEFEBCFCD15039D65042A7E4105EB346",
+      "bytes": 27147
+    },
+    {
+      "path": "schemas/SDT/Defs/ThrowDirectionDecalParam.xml",
+      "sha256": "210064CA7620156137231E8DA95751A169DEC62FF5D1A3C9E6F401787363462E",
+      "bytes": 21783
+    },
+    {
+      "path": "schemas/SDT/Defs/ThrowDirectionSeParam.xml",
+      "sha256": "FC41DD8D991BFB89C257847CBDFB54466A34E0FD2DE60EB53BFC91CC7CB7ECE0",
+      "bytes": 20340
+    },
+    {
+      "path": "schemas/SDT/Defs/ThrowDirectionSfxParam.xml",
+      "sha256": "070FC3769BEC401A344A5CE4992EC695C15BB77E69953241D35ECD76D8202B66",
+      "bytes": 20701
+    },
+    {
+      "path": "schemas/SDT/Defs/ThrowKindParam.xml",
+      "sha256": "5A29FA55E32E528002A0C2550CDE44DF967AFC7F14B4579901D3EAAD64A4D72B",
+      "bytes": 8174
+    },
+    {
+      "path": "schemas/SDT/Defs/ThrowParam.xml",
+      "sha256": "181180029C044F228E9F235B2F104D08FBF37F4AB528CC42DE3704F3B754364C",
+      "bytes": 18699
+    },
+    {
+      "path": "schemas/SDT/Defs/ToneCorrectBank.xml",
+      "sha256": "38D18B88B4F2A5D8ACD24D8EEF79B4A558E70B4FB11443965E62C0592096A6A6",
+      "bytes": 2357
+    },
+    {
+      "path": "schemas/SDT/Defs/ToneMapBank.xml",
+      "sha256": "3539936FF659AF3401199668C2AB2074B55CA3B588B53E93AFF722940BFE6909",
+      "bytes": 5021
+    },
+    {
+      "path": "schemas/SDT/Defs/ToughnessParam.xml",
+      "sha256": "4F883A6D509021B5A41F007DDCEE5F6528A9F3C4CB1CAD1F3CFE910E38E393AD",
+      "bytes": 1979
+    },
+    {
+      "path": "schemas/SDT/Defs/UpperArmParam.xml",
+      "sha256": "5030AD4C5FC53585D03A04622DE3C2D1487D3542C825EC0512150793F9109A28",
+      "bytes": 6300
+    },
+    {
+      "path": "schemas/SDT/Defs/WeaponGenParam.xml",
+      "sha256": "9E19DFB7DC41A377168D2A764FDD8D54CB94A726541436C1A1E5DCFA229AE95A",
+      "bytes": 3340
+    },
+    {
+      "path": "schemas/SDT/Defs/WepAbsorpPosParam.xml",
+      "sha256": "56004C890223492F02AAB2061B3EDC15C986DBEC2C506B8A12EB8BCAA4D5B115",
+      "bytes": 26828
+    },
+    {
+      "path": "schemas/SDT/Defs/WetAspectParam.xml",
+      "sha256": "4A653E9A127AF1BDF487029F6739EE5B86C751BA36C9BB592A88EA0F521543B8",
+      "bytes": 3728
+    },
+    {
+      "path": "schemas/SDT/Defs/WhiteSignCoolTimeParam.xml",
+      "sha256": "5F844EA7EA5CFBA2960FA14219F86C3244DE07F7AF1A3E6595627EB897528839",
+      "bytes": 2013
+    },
+    {
+      "path": "schemas/SDT/Defs/WirePointSearchParam.xml",
+      "sha256": "B04D61CD1D219E2B4F7FC23A69B008B078A3A7908E39B70F95A2125E604BCBC5",
+      "bytes": 4318
+    },
+    {
+      "path": "schemas/SDT/Defs/WireSetParam.xml",
+      "sha256": "2342F701DA20D8AA323DA93729C265DC2B841E692EB649942C9ECF34A38A00AB",
+      "bytes": 6202
+    },
+    {
+      "path": "schemas/SDT/Defs/WireVariationParam.xml",
+      "sha256": "3C7E414CD9331A0C1F00B138089465B6D03F115176BE5BC75584D26FFFD7603A",
+      "bytes": 3607
+    },
+    {
+      "path": "schemas/SDT/Defs/YebisBank.xml",
+      "sha256": "1E4D291D6DD953D1A8B1651AC6FD5167C291781F2DC143C74A27DE201C74BB51",
+      "bytes": 45000
+    }
+  ]
+}
