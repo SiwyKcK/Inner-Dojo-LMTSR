@@ -1,0 +1,21 @@
+EVENT 11504504 rest=Restart instructions=13 parameters=0
+000 4[37] IF Number of Character Health Bars: Result Condition Group=1; Target Entity ID=2502447; Comparison Type=0; Target Number of Health Bars=1; Comparison Type=0; Number of Target Characters=1 HEX=010000002F2F26000000000001000000000000000000803F
+001 0[0] IF Condition Group: Result Condition Group=0; Desired Condition Group State=1; Target Condition Group=1 HEX=00010100
+002 1001[1] WAIT Fixed Time (Frames): Time (Frames)=20 HEX=14000000
+003 2004[26] Change Character DispMask: Entity ID=2502447; Bit Number=3; Switch Type=0 HEX=2F2F260003000000
+004 2004[26] Change Character DispMask: Entity ID=2502447; Bit Number=4; Switch Type=0 HEX=2F2F260004000000
+005 2004[26] Change Character DispMask: Entity ID=2502447; Bit Number=0; Switch Type=1 HEX=2F2F260000010000
+006 2004[26] Change Character DispMask: Entity ID=2502447; Bit Number=8; Switch Type=1 HEX=2F2F260008010000
+007 2004[21] Clear SpEffect: Entity ID=2502447; SpEffect ID=200032 HEX=2F2F2600600D0300
+008 2004[8] Set SpEffect: Entity ID=2502447; SpEffect ID=200030 HEX=2F2F26005E0D0300
+009 2004[21] Clear SpEffect: Entity ID=2502447; SpEffect ID=3137058 HEX=2F2F260022DE2F00
+010 2004[8] Set SpEffect: Entity ID=2502447; SpEffect ID=3137055 HEX=2F2F26001FDE2F00
+011 2004[19] Set Character AI ID: Entity ID=2502447; AI ID=13100000 HEX=2F2F2600E0E3C700
+012 1000[4] END Unconditionally: Execution End Type=0 HEX=00000000
+
+EVENT 11504505 rest=Restart instructions=4 parameters=0
+000 4[37] IF Number of Character Health Bars: Result Condition Group=1; Target Entity ID=2502447; Comparison Type=0; Target Number of Health Bars=2; Comparison Type=0; Number of Target Characters=1 HEX=010000002F2F26000000000002000000000000000000803F
+001 0[0] IF Condition Group: Result Condition Group=0; Desired Condition Group State=1; Target Condition Group=1 HEX=00010100
+002 2004[8] Set SpEffect: Entity ID=2502447; SpEffect ID=3137058 HEX=2F2F260022DE2F00
+003 1000[4] END Unconditionally: Execution End Type=0 HEX=00000000
+

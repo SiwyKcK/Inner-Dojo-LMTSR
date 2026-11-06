@@ -1,0 +1,18 @@
+[
+  {
+    "key": "Arashi",
+    "source": 11504504,
+    "target": 11012202,
+    "instructions": 44,
+    "originalInstructions": 13,
+    "release": "INNER_DOJO_SALA_A_B_28_BOSSOW_V14_ARASHI_PADMA_2026-10-20"
+  },
+  {
+    "key": "Arashi",
+    "source": 11504505,
+    "target": 11012203,
+    "instructions": 11,
+    "originalInstructions": 4,
+    "release": "INNER_DOJO_SALA_A_B_28_BOSSOW_V14_ARASHI_PADMA_2026-10-20"
+  }
+]

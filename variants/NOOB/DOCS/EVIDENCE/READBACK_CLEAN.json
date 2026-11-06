@@ -1,0 +1,24 @@
+{
+  "textChanges": 193,
+  "param": {
+    "tables": [
+      "ActionButtonParam",
+      "EquipParamGoods",
+      "RematchWarpParam"
+    ],
+    "addedRows": 44,
+    "allOriginalRowsUnchanged": true,
+    "otherBinderMembersUnchanged": true
+  },
+  "worldAddedEvent": 11011983,
+  "saveWritten": false,
+  "worldChangedEvents": [
+    50
+  ],
+  "unrelatedTextUnchanged": true,
+  "runtime": "NOT_TESTED_ON_CLEAN_NOOB",
+  "status": "STATIC_READBACK_PASS",
+  "modFiles": 17,
+  "gameWritten": false,
+  "dojoIdenticalR4": true
+}

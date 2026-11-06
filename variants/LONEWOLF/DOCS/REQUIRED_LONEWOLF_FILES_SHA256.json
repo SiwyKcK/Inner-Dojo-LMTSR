@@ -1,0 +1,92 @@
+[
+  {
+    "path": "mods/action/eventnameid.txt",
+    "sha256": "DF3637295F7BD1063B6DA7F1CCCFF7E2E8FDA1B54A94E8A46D1A24B906E94536",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/action/script/c0000.hks",
+    "sha256": "27C34B118975555FE21C67EF4FA87B1255862327F0E7E6E089BF5A3F31169EC1",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/action/script/c0000_cmsg.hks",
+    "sha256": "9F935FE708444390AC3637C774616F8F17B97F50D99778DE3D1BA1B3DC9B0A0E",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/action/script/c0000_define.hks",
+    "sha256": "058055A3BAA410975595C784A7E69B0E1EE68F9E438052669FED8EBA76FFB1C1",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/action/script/c0000_transition.hks",
+    "sha256": "859C8867A101EDDEE3302398E4460534D8B591A3127A167ADFE862316A1181CD",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/action/script/cxxxx.hks",
+    "sha256": "4221FDF19A42F78F2F687FA9CD48692FF5BF318D14CBE880FBF3E32FE5BCEB3A",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/action/script/modifier.hks",
+    "sha256": "1EF648C5B717FDF27B9A89E484FC89B42695BBB752BFA9840A318A88E28AB7DC",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/action/statenameid.txt",
+    "sha256": "E9CF3223CBB0092572BBF4837DEB0DD608BEA35ED4F98AB76A945E25A86302A4",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/action/variablenameid.txt",
+    "sha256": "3E9DE69DFA81DB6FD3AB85A0AEF540FADB3A0A2EF49C270A4EA88486532DB821",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/chr/c0000.anibnd.dcx",
+    "sha256": "5A7746A65FB3B65B9D99FABA00D514F9782AFBBD85466853759ECEEECE70FAA7",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/chr/c0000.behbnd.dcx",
+    "sha256": "669F9CC4B157FF826B0E975167F28A3ECEF3BEE3AC504A275E0823499FD51EE6",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/chr/c0000_a000_hi.anibnd.dcx",
+    "sha256": "67E7A60A1E30F5A25A81C6E98F7985DD381DEA99B78F5FB07E55B6523B950C8F",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/chr/c0000_a05x.anibnd.dcx",
+    "sha256": "F37D4C0FC541896E9DF54733A7A484DDB1B0837B958F8F95F913EFE2A998E423",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/chr/c0000_a07x.anibnd.dcx",
+    "sha256": "B634E87926F35079246AEBECDA0C06955D1B45F1CA6048A3A8563923DC067813",
+    "deliveredByThisOverlay": false
+  },
+  {
+    "path": "mods/msg/engus/item.msgbnd.dcx",
+    "sha256": "34362174B9F20A5BB87D4E6E02E0F5D2CEE060FA592946292A670BC3CB1DE6E7",
+    "deliveredByThisOverlay": true
+  },
+  {
+    "path": "mods/msg/engus/menu.msgbnd.dcx",
+    "sha256": "16EF1B842923EDE0A153C576F7F18082B97A1552968AA259F45FF8340569DE0F",
+    "deliveredByThisOverlay": true
+  },
+  {
+    "path": "mods/param/gameparam/gameparam.parambnd.dcx",
+    "sha256": "5D9D25AA0139C40EF9D966F458086AE2DAEF3298FDB1F5F247B6BC7C8A9A352D",
+    "deliveredByThisOverlay": true
+  },
+  {
+    "path": "mods/sfx/sfxbnd_commoneffects.ffxbnd.dcx",
+    "sha256": "16CFB396D6232087E49C23F85BF50A0F11F4CF4D7BEDC78CE892AAF40DAB73A5",
+    "deliveredByThisOverlay": true
+  }
+]

@@ -1,0 +1,158 @@
+{
+  "missing": [
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000002,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980062,
+      "field": "spEffectId0"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000023,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980060,
+      "field": "spEffectId0"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000028,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980060,
+      "field": "spEffectId0"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000029,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980060,
+      "field": "spEffectId0"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000042,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980060,
+      "field": "spEffectId2"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000043,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980060,
+      "field": "spEffectId2"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000044,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980060,
+      "field": "spEffectId1"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000044,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 104019,
+      "field": "spEffectId2"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000045,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980060,
+      "field": "spEffectId1"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000045,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 104019,
+      "field": "spEffectId2"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000046,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980060,
+      "field": "spEffectId1"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000046,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 104019,
+      "field": "spEffectId2"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000047,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980060,
+      "field": "spEffectId0"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 5000048,
+      "fromTable": "AtkParam_Pc",
+      "targetID": 3980060,
+      "field": "spEffectId0"
+    },
+    {
+      "targetTables": [
+        "SpEffectParam"
+      ],
+      "presentInAuthor": [],
+      "fromID": 855,
+      "fromTable": "SpEffectParam",
+      "targetID": 1065353216,
+      "field": "counterSpEffectId"
+    }
+  ],
+  "unsupported": [],
+  "edges": 1147,
+  "rowsVisited": 933,
+  "scope": "Conditional Paramdex Meta Refs from all authored changed/new rows and their reachable parameter references; positive IDs only, recognized simple conditions; no TAE/HKS/runtime reachability proof"
+}

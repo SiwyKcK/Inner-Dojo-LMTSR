@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-24",
+  "base": "Original LMTSR NOOB20.43",
+  "baseRecord": {
+    "date": "2026-10-24",
+    "requiredMod": "LMTSR NOOB 20.43",
+    "sourceArchive": "E:/PRACA AI CAŁY FOLDER/SEKIRO/VANILLA_WORKFILES_BASE/Nowy folder/Sekiro Long May the Shadows Reflect Mod Noob-603-20-43-1720288156.rar",
+    "archiveSHA256": "B781BE2F0D74D082D1DA1440373045067C0B2C621F86043C42DE0F33D8317B92",
+    "archiveBytes": 588692160,
+    "nexus": "https://www.nexusmods.com/sekiro/mods/603?tab=files",
+    "dojoLineage": [
+      "E:/PRACA AI CAŁY FOLDER/INNER DOJO/CREATE NEW FILES/INNER_DOJO_SALA_A_B_43_BOSSOW_V20_R2_FLAGI_SERII_2026-10-22",
+      "E:/PRACA AI CAŁY FOLDER/INNER DOJO/CREATE NEW FILES/INNER_DOJO_V20_R4_PATCH_ONGYOKI_START_2026-10-24"
+    ],
+    "scope": "Only Inner Dojo changes on original NOOB; not base-game vanilla Sekiro",
+    "runtime": "NOT_TESTED_ON_CLEAN_NOOB",
+    "previousRuntime": "User reports one successful prior R4 trial; no exhaustive testing"
+  },
+  "loneWolf": {
+    "name": "Lone Wolf Master LMTSR Hardcore",
+    "version": "1.0",
+    "author": "MinNuez",
+    "nexus": "https://www.nexusmods.com/sekiro/mods/2400",
+    "mainUpload": "2025-10-18",
+    "requiredFixes": [
+      {
+        "name": "Hot fix Execution Lady Butterfly",
+        "version": "1.0",
+        "upload": "2025-11-03",
+        "path": "chr/c0000.anibnd.dcx",
+        "sha256": "5A7746A65FB3B65B9D99FABA00D514F9782AFBBD85466853759ECEEECE70FAA7"
+      },
+      {
+        "name": "Fix Hitbox",
+        "version": "1",
+        "upload": "2026-09-02",
+        "path": "param/gameparam/gameparam.parambnd.dcx",
+        "sha256": "5D9D25AA0139C40EF9D966F458086AE2DAEF3298FDB1F5F247B6BC7C8A9A352D"
+      }
+    ],
+    "sourceFolder": "E:/PRACA AI CAŁY FOLDER/SEKIRO/VANILLA_WORKFILES_BASE/LMTSR_Lone_Wolf_Master_Hardcore_V1.0",
+    "fixesComparedToUserFiles": true
+  },
+  "previousWorkingMergeUsedOnlyForComparison": "E:/PRACA AI CAŁY FOLDER/SEKIRO/VANILLA_WORKFILES_BASE/LMTSR_NOOB_PATCH_01_60S_PLUS_LONE_WOLF_MASTER_NOOB_V.1",
+  "excludedPrivatePatch": "E:/PRACA AI CAŁY FOLDER/SEKIRO/VANILLA_WORKFILES_BASE/Nowy folder/LMTSR_NOOB_PATCH_all items 60 s blurial blis.zip",
+  "excludedPrivatePatchSHA256": "34342296391A1279776CC093023787A9B765A50145B6E7F0F47474B0BA056E49",
+  "scope": "Compatibility overlay: original NOOB + separately downloaded LoneWolf main/fixes + this overlay last. No old private60S/NPC patch.",
+  "runtime": "NOT_TESTED_IN_GAME",
+  "gameWritten": false
+}

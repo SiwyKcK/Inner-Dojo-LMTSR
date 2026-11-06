@@ -1,0 +1,421 @@
+[
+  {
+    "sala": "A",
+    "nazwa": "Juzou the Drunkard",
+    "key": "Juzou",
+    "real": 1010800,
+    "selector": 1010802,
+    "start": 11009044,
+    "win": 11009045
+  },
+  {
+    "sala": "A",
+    "nazwa": "Snake Eyes Shirafuji",
+    "key": "Shirafuji",
+    "real": 1010804,
+    "selector": 1010806,
+    "start": 11009046,
+    "win": 11009047
+  },
+  {
+    "sala": "A",
+    "nazwa": "General Kuranosuke Matsumoto",
+    "key": "Matsumoto",
+    "real": 1010808,
+    "selector": 1010810,
+    "start": 11009053,
+    "win": 11009054
+  },
+  {
+    "sala": "A",
+    "nazwa": "Takamine Kodou",
+    "key": "Kodou",
+    "real": 1010812,
+    "selector": 1010814,
+    "start": 11009055,
+    "win": 11009056
+  },
+  {
+    "sala": "A",
+    "nazwa": "Ashina Elite - Itousai Kami-izumi",
+    "key": "Itousai",
+    "real": 1010816,
+    "selector": 1010818,
+    "start": 11009057,
+    "win": 11009058
+  },
+  {
+    "sala": "A",
+    "nazwa": "Homa Spirit Fall - Skanda the Pure Flame",
+    "key": "Skanda",
+    "real": 1010820,
+    "selector": 1010822,
+    "start": 11009059,
+    "win": 11009060
+  },
+  {
+    "sala": "A",
+    "nazwa": "Shinobi Hunter Sila of Rin-nouji",
+    "key": "Sila",
+    "real": 1010824,
+    "selector": 1010826,
+    "start": 11009062,
+    "win": 11009063
+  },
+  {
+    "sala": "A",
+    "nazwa": "Vajra",
+    "key": "Vajra",
+    "real": 1010828,
+    "selector": 1010830,
+    "start": 11009065,
+    "win": 11009066
+  },
+  {
+    "sala": "B",
+    "nazwa": "Okami Great Leader Karma",
+    "key": "Karma",
+    "real": 1010832,
+    "selector": 1010834,
+    "start": 11009068,
+    "win": 11009069
+  },
+  {
+    "sala": "B",
+    "nazwa": "Takamine Hirachika",
+    "key": "Hirachika",
+    "real": 1010840,
+    "selector": 1010842,
+    "start": 11009076,
+    "win": 11009077
+  },
+  {
+    "sala": "B",
+    "nazwa": "Lone Shadow Ryuya the Crimson Feather",
+    "key": "Ryuya",
+    "real": 1010844,
+    "selector": 1010846,
+    "start": 11009079,
+    "win": 11009080
+  },
+  {
+    "sala": "B",
+    "nazwa": "Demon Bite Asakura Danjyou-Shouhitsu Yoshikiyo",
+    "key": "Asakura",
+    "real": 1010848,
+    "selector": 1010850,
+    "start": 11009082,
+    "win": 11009083
+  },
+  {
+    "sala": "B",
+    "nazwa": "Sadistic Headless",
+    "key": "Headless",
+    "real": 1010852,
+    "selector": 1010854,
+    "start": 11009085,
+    "win": 11009086
+  },
+  {
+    "sala": "B",
+    "nazwa": "Oboro, the Throat-Sealing Blade",
+    "key": "Oboro",
+    "real": 1010856,
+    "selector": 1010858,
+    "start": 11009088,
+    "win": 11009089
+  },
+  {
+    "sala": "B",
+    "nazwa": "Terukuni Konoe-Chujyou Kyoemon",
+    "key": "Terukuni",
+    "real": 1010862,
+    "selector": 1010864,
+    "start": 11009092,
+    "win": 11009093
+  },
+  {
+    "sala": "B",
+    "nazwa": "Ashina Elite - Ujinari Mizuo",
+    "key": "Ujinari",
+    "real": 1010866,
+    "selector": 1010868,
+    "start": 11009095,
+    "win": 11009096
+  },
+  {
+    "sala": "B",
+    "nazwa": "Yukari the Tatari Kami",
+    "key": "Yukari",
+    "real": 1010870,
+    "selector": 1010872,
+    "start": 11009098,
+    "win": 11009099
+  },
+  {
+    "sala": "A",
+    "nazwa": "Usui Ukonzaemon",
+    "key": "Usui",
+    "real": 1010874,
+    "selector": 1010876,
+    "start": 11009151,
+    "win": 11009152
+  },
+  {
+    "sala": "A",
+    "nazwa": "Red Guard Sato Uwemon Kenosuke",
+    "key": "Sato",
+    "real": 1010878,
+    "selector": 1010880,
+    "start": 11009154,
+    "win": 11009155
+  },
+  {
+    "sala": "B",
+    "nazwa": "Snake Eyes Kohaku",
+    "key": "Kohaku",
+    "real": 1010882,
+    "selector": 1010884,
+    "start": 11009157,
+    "win": 11009158
+  },
+  {
+    "sala": "A",
+    "nazwa": "Maheshvara",
+    "key": "Maheshvara",
+    "real": 1010886,
+    "selector": 1010888,
+    "start": 11009160,
+    "win": 11009161
+  },
+  {
+    "sala": "B",
+    "nazwa": "Homa Spirit Fall - Vajrabhairava",
+    "key": "Vajrabhairava",
+    "real": 1010890,
+    "selector": 1010892,
+    "start": 11009163,
+    "win": 11009164
+  },
+  {
+    "sala": "A",
+    "nazwa": "Shinobi Hunter Kokujou of Dairenji",
+    "key": "Kokujou",
+    "real": 1010894,
+    "selector": 1010896,
+    "start": 11009166,
+    "win": 11009167
+  },
+  {
+    "sala": "B",
+    "nazwa": "Jizo the Massacre",
+    "key": "Jizo",
+    "real": 1010898,
+    "selector": 1010900,
+    "start": 11009169,
+    "win": 11009170
+  },
+  {
+    "sala": "A",
+    "nazwa": "Ashina Seigen, the Deity of Calamity",
+    "key": "Seigen",
+    "real": 1010902,
+    "selector": 1010904,
+    "start": 11009172,
+    "win": 11009173
+  },
+  {
+    "sala": "B",
+    "nazwa": "Red Kasa Enenra",
+    "key": "Enenra",
+    "real": 1010906,
+    "selector": 1010908,
+    "start": 11009175,
+    "win": 11009176
+  },
+  {
+    "sala": "A",
+    "nazwa": "Okami Leader Arashi",
+    "key": "Arashi",
+    "real": 1010910,
+    "selector": 1010912,
+    "start": 11009178,
+    "win": 11009179
+  },
+  {
+    "sala": "B",
+    "nazwa": "Padma Rakshasa",
+    "key": "Padma",
+    "real": 1010914,
+    "selector": 1010916,
+    "start": 11009181,
+    "win": 11009182
+  },
+  {
+    "sala": "A",
+    "nazwa": "Lone Shadow Masaomi the Crow Feather",
+    "key": "Masaomi",
+    "real": 1010918,
+    "selector": 1010920,
+    "start": 11009184,
+    "win": 11009185
+  },
+  {
+    "sala": "B",
+    "nazwa": "Enmado Juzaemon",
+    "key": "Juzaemon",
+    "real": 1010922,
+    "selector": 1010924,
+    "start": 11009187,
+    "win": 11009188
+  },
+  {
+    "sala": "A",
+    "nazwa": "Lone Shadow Masatake the Vilefoot",
+    "key": "Masatake",
+    "real": 1010926,
+    "selector": 1010928,
+    "start": 11009190,
+    "win": 11009191
+  },
+  {
+    "sala": "B",
+    "nazwa": "Lone Shadow Fierce Fang Hisaya",
+    "key": "Hisaya",
+    "real": 1010930,
+    "selector": 1010932,
+    "start": 11009193,
+    "win": 11009194
+  },
+  {
+    "sala": "A",
+    "nazwa": "Gennosuke",
+    "key": "Gennosuke",
+    "real": 1010938,
+    "encounter": "Gennosuke",
+    "stage": null,
+    "npc": 14707700,
+    "think": 14701000,
+    "model": "c1470"
+  },
+  {
+    "sala": "B",
+    "nazwa": "Kinki",
+    "key": "Kinki",
+    "real": 1010942,
+    "encounter": "ForestSeries",
+    "stage": 1,
+    "npc": 11803600,
+    "think": 11800100,
+    "model": "c1180",
+    "active": 11009909
+  },
+  {
+    "sala": "B",
+    "nazwa": "Fuki",
+    "key": "Fuki",
+    "real": 1010944,
+    "encounter": "ForestSeries",
+    "stage": 2,
+    "npc": 10706000,
+    "think": 10700000,
+    "model": "c1070",
+    "active": 11009910
+  },
+  {
+    "sala": "B",
+    "nazwa": "Suiki",
+    "key": "Suiki",
+    "real": 1010946,
+    "encounter": "ForestSeries",
+    "stage": 3,
+    "npc": 70009500,
+    "think": 70009000,
+    "model": "c7000",
+    "active": 11009911
+  },
+  {
+    "sala": "B",
+    "nazwa": "Ongyoki",
+    "key": "Ongyoki",
+    "real": 1010948,
+    "encounter": "ForestSeries",
+    "stage": 4,
+    "npc": 14505700,
+    "think": 14500000,
+    "model": "c1450",
+    "active": 11009912
+  },
+  {
+    "sala": "A",
+    "nazwa": "Okami Great Leader Sagara",
+    "key": "Sagara",
+    "real": 1010960,
+    "selector": 1010962,
+    "start": 11012630,
+    "win": 11012631,
+    "npc": 13102700,
+    "think": 13100000,
+    "model": "c1310"
+  },
+  {
+    "sala": "B",
+    "nazwa": "Children of Izayoi Taijyo Kakuryo",
+    "key": "Kakuryo",
+    "real": 1010964,
+    "selector": 1010966,
+    "start": 11012633,
+    "win": 11012634,
+    "npc": 10707000,
+    "think": 10700000,
+    "model": "c1070"
+  },
+  {
+    "sala": "A",
+    "nazwa": "Children of Izayoi Moritane Tamura",
+    "key": "Tamura",
+    "real": 1010968,
+    "selector": 1010970,
+    "start": 11012850,
+    "win": 11012851,
+    "npc": 10218800,
+    "think": 10204001,
+    "model": "c1021"
+  },
+  {
+    "sala": "B",
+    "nazwa": "Children of Izayoi Masakuni Tarao",
+    "key": "Tarao",
+    "real": 1010972,
+    "selector": 1010974,
+    "start": 11012853,
+    "win": 11012854,
+    "npc": 14708800,
+    "think": 14701000,
+    "model": "c1470"
+  },
+  {
+    "sala": "A",
+    "nazwa": "Children of Izayoi Kidomaru",
+    "key": "Kidomaru",
+    "real": 1010976,
+    "selector": 1010978,
+    "start": 11013100,
+    "win": 11013101,
+    "npc": 13609700,
+    "think": 13600002,
+    "model": "c1360"
+  },
+  {
+    "sala": "B",
+    "nazwa": "Children of Izayoi Gochin Aimonoya",
+    "key": "Aimonoya",
+    "real": 1010980,
+    "selector": 1010982,
+    "start": 11013103,
+    "win": 11013104,
+    "npc": 17008850,
+    "think": 17000100,
+    "model": "c1700"
+  }
+]

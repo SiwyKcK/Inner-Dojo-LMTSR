@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-24",
+  "folder": "E:/PRACA AI CAŁY FOLDER/SEKIRO/VANILLA_WORKFILES_BASE/LMTSR_Lone_Wolf_Master_Hardcore_V1.0",
+  "files": [
+    {
+      "path": "param/gameparam/gameparam.parambnd.dcx",
+      "sha256": "5D9D25AA0139C40EF9D966F458086AE2DAEF3298FDB1F5F247B6BC7C8A9A352D",
+      "equalsSuppliedFix": true
+    },
+    {
+      "path": "chr/c0000.anibnd.dcx",
+      "sha256": "5A7746A65FB3B65B9D99FABA00D514F9782AFBBD85466853759ECEEECE70FAA7",
+      "equalsSuppliedFix": true
+    }
+  ],
+  "gameWritten": false
+}

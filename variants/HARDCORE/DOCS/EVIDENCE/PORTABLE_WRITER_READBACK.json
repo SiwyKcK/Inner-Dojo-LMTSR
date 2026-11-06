@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "scope": "Saved-file round-trip; not game runtime",
+  "sha256": "22904BAEA6BCDEE86F4AC11274132892CB9343D0E7E4EDF9EC5247928A944F4C",
+  "equalsShipped": true
+}

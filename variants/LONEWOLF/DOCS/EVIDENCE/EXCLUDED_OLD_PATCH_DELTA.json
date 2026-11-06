@@ -1,0 +1,305 @@
+{
+  "edits": [
+    {
+      "id": 2497,
+      "table": "EquipParamGoods",
+      "new": true
+    },
+    {
+      "id": 2498,
+      "table": "EquipParamGoods",
+      "new": true
+    },
+    {
+      "id": 2699,
+      "table": "EquipParamGoods",
+      "new": true
+    },
+    {
+      "id": 9458,
+      "table": "EquipParamGoods",
+      "new": true
+    },
+    {
+      "id": 9850,
+      "table": "EquipParamGoods",
+      "new": true
+    },
+    {
+      "cells": [
+        {
+          "clean": 5002,
+          "patch": 5021,
+          "field": "behaviorVariationId"
+        },
+        {
+          "clean": -1,
+          "patch": 140501,
+          "field": "residentSpEffectId1"
+        },
+        {
+          "clean": 0,
+          "patch": 1,
+          "field": "resourceItemA"
+        }
+      ],
+      "id": 5200,
+      "table": "EquipParamWeapon",
+      "new": false
+    },
+    {
+      "cells": [
+        {
+          "clean": 5002,
+          "patch": 5021,
+          "field": "behaviorVariationId"
+        },
+        {
+          "clean": -1,
+          "patch": 140501,
+          "field": "residentSpEffectId1"
+        },
+        {
+          "clean": 0,
+          "patch": 5,
+          "field": "resourceItemA"
+        }
+      ],
+      "id": 7000,
+      "table": "EquipParamWeapon",
+      "new": false
+    },
+    {
+      "id": 75500,
+      "table": "EquipParamWeapon",
+      "new": true
+    },
+    {
+      "id": 650500,
+      "table": "EquipParamWeapon",
+      "new": true
+    },
+    {
+      "id": 661500,
+      "table": "EquipParamWeapon",
+      "new": true
+    },
+    {
+      "id": 661700,
+      "table": "EquipParamWeapon",
+      "new": true
+    },
+    {
+      "id": 755000,
+      "table": "EquipParamWeapon",
+      "new": true
+    },
+    {
+      "id": 90018000,
+      "table": "ItemLotParam",
+      "new": true
+    },
+    {
+      "id": 90034000,
+      "table": "ItemLotParam",
+      "new": true
+    },
+    {
+      "id": 90038000,
+      "table": "ItemLotParam",
+      "new": true
+    },
+    {
+      "id": 90039000,
+      "table": "ItemLotParam",
+      "new": true
+    },
+    {
+      "id": 90043000,
+      "table": "ItemLotParam",
+      "new": true
+    },
+    {
+      "id": 14709999,
+      "table": "NpcParam",
+      "new": true
+    },
+    {
+      "id": 50608900,
+      "table": "NpcParam",
+      "new": true
+    },
+    {
+      "id": 54003300,
+      "table": "NpcParam",
+      "new": true
+    },
+    {
+      "id": 696,
+      "table": "SkillParam",
+      "new": true
+    },
+    {
+      "id": 697,
+      "table": "SkillParam",
+      "new": true
+    },
+    {
+      "id": 698,
+      "table": "SkillParam",
+      "new": true
+    },
+    {
+      "id": 755,
+      "table": "SkillParam",
+      "new": true
+    },
+    {
+      "id": 10505,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 10506,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 21429,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 30302,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 30303,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 30304,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "cells": [
+        {
+          "clean": 24.0,
+          "patch": 60.0,
+          "field": "effectEndurance"
+        }
+      ],
+      "id": 51413,
+      "table": "SpEffectParam",
+      "new": false
+    },
+    {
+      "cells": [
+        {
+          "clean": 24.0,
+          "patch": 60.0,
+          "field": "effectEndurance"
+        }
+      ],
+      "id": 51414,
+      "table": "SpEffectParam",
+      "new": false
+    },
+    {
+      "id": 63017,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 63018,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 100561,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 100562,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 100563,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 100571,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 100572,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 100573,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 105181,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 105182,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 105183,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 105184,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 105185,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 105190,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 105197,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 105198,
+      "table": "SpEffectParam",
+      "new": true
+    },
+    {
+      "id": 105199,
+      "table": "SpEffectParam",
+      "new": true
+    }
+  ],
+  "tables": [
+    "EquipParamGoods",
+    "EquipParamWeapon",
+    "ItemLotParam",
+    "NpcParam",
+    "SkillParam",
+    "SpEffectParam"
+  ]
+}

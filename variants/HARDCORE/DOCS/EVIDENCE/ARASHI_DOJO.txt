@@ -1,0 +1,59 @@
+EVENT 11012202 rest=Restart instructions=44 parameters=0
+000 3[0] IF Event Flag: Result Condition Group=15; Desired Flag State=1; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=0F0100009CFCA700
+001 4[45] IF Entity Loaded: Result Condition Group=15; Target Entity ID=1010910; Is Loaded=1; Comparison Type=0; Number of Target Characters=1 HEX=0F000000DE6C0F00010000000000803F
+002 3[2] IF In/Outside Area: Result Condition Group=15; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0F01000010270000FE740F0001000000
+003 0[0] IF Condition Group: Result Condition Group=0; Desired Condition Group State=1; Target Condition Group=15 HEX=00010F00
+004 4[37] IF Number of Character Health Bars: Result Condition Group=1; Target Entity ID=1010910; Comparison Type=0; Target Number of Health Bars=1; Comparison Type=0; Number of Target Characters=1 HEX=01000000DE6C0F000000000001000000000000000000803F
+005 0[0] IF Condition Group: Result Condition Group=0; Desired Condition Group State=1; Target Condition Group=1 HEX=00010100
+006 1001[1] WAIT Fixed Time (Frames): Time (Frames)=20 HEX=14000000
+007 1003[2] END IF Event Flag: Execution End Type=1; Desired Flag State=0; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=010000009CFCA700
+008 1003[202] SKIP IF Player In/Outside Area: Number Of Skipped Lines=1; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0101000010270000FE740F0001000000
+009 1000[4] END Unconditionally: Execution End Type=1 HEX=01000000
+010 2004[26] Change Character DispMask: Entity ID=1010910; Bit Number=3; Switch Type=0 HEX=DE6C0F0003000000
+011 1003[2] END IF Event Flag: Execution End Type=1; Desired Flag State=0; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=010000009CFCA700
+012 1003[202] SKIP IF Player In/Outside Area: Number Of Skipped Lines=1; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0101000010270000FE740F0001000000
+013 1000[4] END Unconditionally: Execution End Type=1 HEX=01000000
+014 2004[26] Change Character DispMask: Entity ID=1010910; Bit Number=4; Switch Type=0 HEX=DE6C0F0004000000
+015 1003[2] END IF Event Flag: Execution End Type=1; Desired Flag State=0; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=010000009CFCA700
+016 1003[202] SKIP IF Player In/Outside Area: Number Of Skipped Lines=1; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0101000010270000FE740F0001000000
+017 1000[4] END Unconditionally: Execution End Type=1 HEX=01000000
+018 2004[26] Change Character DispMask: Entity ID=1010910; Bit Number=0; Switch Type=1 HEX=DE6C0F0000010000
+019 1003[2] END IF Event Flag: Execution End Type=1; Desired Flag State=0; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=010000009CFCA700
+020 1003[202] SKIP IF Player In/Outside Area: Number Of Skipped Lines=1; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0101000010270000FE740F0001000000
+021 1000[4] END Unconditionally: Execution End Type=1 HEX=01000000
+022 2004[26] Change Character DispMask: Entity ID=1010910; Bit Number=8; Switch Type=1 HEX=DE6C0F0008010000
+023 1003[2] END IF Event Flag: Execution End Type=1; Desired Flag State=0; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=010000009CFCA700
+024 1003[202] SKIP IF Player In/Outside Area: Number Of Skipped Lines=1; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0101000010270000FE740F0001000000
+025 1000[4] END Unconditionally: Execution End Type=1 HEX=01000000
+026 2004[21] Clear SpEffect: Entity ID=1010910; SpEffect ID=200032 HEX=DE6C0F00600D0300
+027 1003[2] END IF Event Flag: Execution End Type=1; Desired Flag State=0; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=010000009CFCA700
+028 1003[202] SKIP IF Player In/Outside Area: Number Of Skipped Lines=1; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0101000010270000FE740F0001000000
+029 1000[4] END Unconditionally: Execution End Type=1 HEX=01000000
+030 2004[8] Set SpEffect: Entity ID=1010910; SpEffect ID=200030 HEX=DE6C0F005E0D0300
+031 1003[2] END IF Event Flag: Execution End Type=1; Desired Flag State=0; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=010000009CFCA700
+032 1003[202] SKIP IF Player In/Outside Area: Number Of Skipped Lines=1; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0101000010270000FE740F0001000000
+033 1000[4] END Unconditionally: Execution End Type=1 HEX=01000000
+034 2004[21] Clear SpEffect: Entity ID=1010910; SpEffect ID=3137058 HEX=DE6C0F0022DE2F00
+035 1003[2] END IF Event Flag: Execution End Type=1; Desired Flag State=0; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=010000009CFCA700
+036 1003[202] SKIP IF Player In/Outside Area: Number Of Skipped Lines=1; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0101000010270000FE740F0001000000
+037 1000[4] END Unconditionally: Execution End Type=1 HEX=01000000
+038 2004[8] Set SpEffect: Entity ID=1010910; SpEffect ID=3137055 HEX=DE6C0F001FDE2F00
+039 1003[2] END IF Event Flag: Execution End Type=1; Desired Flag State=0; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=010000009CFCA700
+040 1003[202] SKIP IF Player In/Outside Area: Number Of Skipped Lines=1; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0101000010270000FE740F0001000000
+041 1000[4] END Unconditionally: Execution End Type=1 HEX=01000000
+042 2004[19] Set Character AI ID: Entity ID=1010910; AI ID=13100000 HEX=DE6C0F00E0E3C700
+043 1000[4] END Unconditionally: Execution End Type=0 HEX=00000000
+
+EVENT 11012203 rest=Restart instructions=11 parameters=0
+000 3[0] IF Event Flag: Result Condition Group=15; Desired Flag State=1; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=0F0100009CFCA700
+001 4[45] IF Entity Loaded: Result Condition Group=15; Target Entity ID=1010910; Is Loaded=1; Comparison Type=0; Number of Target Characters=1 HEX=0F000000DE6C0F00010000000000803F
+002 3[2] IF In/Outside Area: Result Condition Group=15; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0F01000010270000FE740F0001000000
+003 0[0] IF Condition Group: Result Condition Group=0; Desired Condition Group State=1; Target Condition Group=15 HEX=00010F00
+004 4[37] IF Number of Character Health Bars: Result Condition Group=1; Target Entity ID=1010910; Comparison Type=0; Target Number of Health Bars=2; Comparison Type=0; Number of Target Characters=1 HEX=01000000DE6C0F000000000002000000000000000000803F
+005 0[0] IF Condition Group: Result Condition Group=0; Desired Condition Group State=1; Target Condition Group=1 HEX=00010100
+006 1003[2] END IF Event Flag: Execution End Type=1; Desired Flag State=0; Target Event Flag Type=0; Target Event Flag ID=11009180 HEX=010000009CFCA700
+007 1003[202] SKIP IF Player In/Outside Area: Number Of Skipped Lines=1; Desired State=1; Target Entity ID=10000; Area Entity ID=1012990; Number of Target Characters=1 HEX=0101000010270000FE740F0001000000
+008 1000[4] END Unconditionally: Execution End Type=1 HEX=01000000
+009 2004[8] Set SpEffect: Entity ID=1010910; SpEffect ID=3137058 HEX=DE6C0F0022DE2F00
+010 1000[4] END Unconditionally: Execution End Type=0 HEX=00000000
+

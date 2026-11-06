@@ -1,0 +1,479 @@
+[
+  {
+    "path": "chr/c1020.anibnd.dcx",
+    "clean": "C1A61D1BD5296CBFC14EE208D7009ED09F998E6FB256FB91D023EDF0FD83F094",
+    "donor": "C1A61D1BD5296CBFC14EE208D7009ED09F998E6FB256FB91D023EDF0FD83F094",
+    "dojo": "C1A61D1BD5296CBFC14EE208D7009ED09F998E6FB256FB91D023EDF0FD83F094",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1021.chrbnd.dcx",
+    "clean": "F8139F5591B6E8F219E0D8B49CD8C9016C8F249E981FC554398557EFDFC1DC18",
+    "donor": "F8139F5591B6E8F219E0D8B49CD8C9016C8F249E981FC554398557EFDFC1DC18",
+    "dojo": "F8139F5591B6E8F219E0D8B49CD8C9016C8F249E981FC554398557EFDFC1DC18",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1050.anibnd.dcx",
+    "clean": "291429715B7527B6102F50DA24BD7705A948BFA20B691D9CB0095BDC4C2BFABB",
+    "donor": "291429715B7527B6102F50DA24BD7705A948BFA20B691D9CB0095BDC4C2BFABB",
+    "dojo": "291429715B7527B6102F50DA24BD7705A948BFA20B691D9CB0095BDC4C2BFABB",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1060.anibnd.dcx",
+    "clean": "CEDCCC7572863F131960726A04F36D0AFFCD861F7273E862C3AB2AE702E195A1",
+    "donor": "CEDCCC7572863F131960726A04F36D0AFFCD861F7273E862C3AB2AE702E195A1",
+    "dojo": "CEDCCC7572863F131960726A04F36D0AFFCD861F7273E862C3AB2AE702E195A1",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1070.anibnd.dcx",
+    "clean": "149BDD7EDC08066F64822B78ECFFAA5F81D0E9063024A3BE2F263781703DB6A3",
+    "donor": "149BDD7EDC08066F64822B78ECFFAA5F81D0E9063024A3BE2F263781703DB6A3",
+    "dojo": "149BDD7EDC08066F64822B78ECFFAA5F81D0E9063024A3BE2F263781703DB6A3",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1150.anibnd.dcx",
+    "clean": "0783D547EAE905B7A56C680DFED292040DAA516752B9B046443615F7F651773B",
+    "donor": "0783D547EAE905B7A56C680DFED292040DAA516752B9B046443615F7F651773B",
+    "dojo": "0783D547EAE905B7A56C680DFED292040DAA516752B9B046443615F7F651773B",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1180.anibnd.dcx",
+    "clean": "4E7CECDF8F7B1B24451D81D813E437FBFF6361FEA447C6BC548D632F0760D580",
+    "donor": "4E7CECDF8F7B1B24451D81D813E437FBFF6361FEA447C6BC548D632F0760D580",
+    "dojo": "4E7CECDF8F7B1B24451D81D813E437FBFF6361FEA447C6BC548D632F0760D580",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1190.anibnd.dcx",
+    "clean": "72037A1D1B8743CDCBC12F637BFCEFBBE376278EDF7613D757F4E95293099727",
+    "donor": "72037A1D1B8743CDCBC12F637BFCEFBBE376278EDF7613D757F4E95293099727",
+    "dojo": "72037A1D1B8743CDCBC12F637BFCEFBBE376278EDF7613D757F4E95293099727",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1310.anibnd.dcx",
+    "clean": "AFB00D8DABF6269EA35AEC5D32D0DD3643BF5A321106989E781BF47C469488E6",
+    "donor": "AFB00D8DABF6269EA35AEC5D32D0DD3643BF5A321106989E781BF47C469488E6",
+    "dojo": "AFB00D8DABF6269EA35AEC5D32D0DD3643BF5A321106989E781BF47C469488E6",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1360.anibnd.dcx",
+    "clean": "32D6A8C190FAD3C34A8C9CA2CE4E2C50B0DE8AE6A590154A9CC2AD093771E5B5",
+    "donor": "32D6A8C190FAD3C34A8C9CA2CE4E2C50B0DE8AE6A590154A9CC2AD093771E5B5",
+    "dojo": "32D6A8C190FAD3C34A8C9CA2CE4E2C50B0DE8AE6A590154A9CC2AD093771E5B5",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1360.chrbnd.dcx",
+    "clean": "D6C118FAC576E1BF70EB75CC709600A5A6341FE55CC13C40C0274A1660C42AA8",
+    "donor": "D6C118FAC576E1BF70EB75CC709600A5A6341FE55CC13C40C0274A1660C42AA8",
+    "dojo": "D6C118FAC576E1BF70EB75CC709600A5A6341FE55CC13C40C0274A1660C42AA8",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1400.anibnd.dcx",
+    "clean": "BA1F235B97E2FB261645F730D8DDEBB7360934532D7E4CD529EB2EC5D5C89AA9",
+    "donor": "BA1F235B97E2FB261645F730D8DDEBB7360934532D7E4CD529EB2EC5D5C89AA9",
+    "dojo": "BA1F235B97E2FB261645F730D8DDEBB7360934532D7E4CD529EB2EC5D5C89AA9",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1400.chrbnd.dcx",
+    "clean": "0875129EF945B2F85E8F568F702DFB2EF0185942313129D6A81DC093A0A1B9EA",
+    "donor": "0875129EF945B2F85E8F568F702DFB2EF0185942313129D6A81DC093A0A1B9EA",
+    "dojo": "0875129EF945B2F85E8F568F702DFB2EF0185942313129D6A81DC093A0A1B9EA",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1450.anibnd.dcx",
+    "clean": "B90AC84C5B9606BE1405EE56C7545C6EC0F2D7E527F3E86651A4C2A6717A2A13",
+    "donor": "B90AC84C5B9606BE1405EE56C7545C6EC0F2D7E527F3E86651A4C2A6717A2A13",
+    "dojo": "B90AC84C5B9606BE1405EE56C7545C6EC0F2D7E527F3E86651A4C2A6717A2A13",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1470.anibnd.dcx",
+    "clean": "CA7247F62B11DF1E2825A6AAD81CA868607383C85FBA850E3FE3D36B95B2D36A",
+    "donor": "CA7247F62B11DF1E2825A6AAD81CA868607383C85FBA850E3FE3D36B95B2D36A",
+    "dojo": "CA7247F62B11DF1E2825A6AAD81CA868607383C85FBA850E3FE3D36B95B2D36A",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1700.anibnd.dcx",
+    "clean": "ED3B0D34B5DD7284C6BA98F473C928A68E5034A87F77FE10CA45AA8B10270860",
+    "donor": "ED3B0D34B5DD7284C6BA98F473C928A68E5034A87F77FE10CA45AA8B10270860",
+    "dojo": "ED3B0D34B5DD7284C6BA98F473C928A68E5034A87F77FE10CA45AA8B10270860",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c1700.chrbnd.dcx",
+    "clean": "233FFEDB6AE590D3A8CFA310C6A379D037EE2501189E3822A3BCEF1260EF4BD0",
+    "donor": "233FFEDB6AE590D3A8CFA310C6A379D037EE2501189E3822A3BCEF1260EF4BD0",
+    "dojo": "233FFEDB6AE590D3A8CFA310C6A379D037EE2501189E3822A3BCEF1260EF4BD0",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c5060.anibnd.dcx",
+    "clean": "99752BF3D47C4213233DA1FCEAA338F773AFB88139C97BF4DBA0DD21C51F9BCC",
+    "donor": "99752BF3D47C4213233DA1FCEAA338F773AFB88139C97BF4DBA0DD21C51F9BCC",
+    "dojo": "99752BF3D47C4213233DA1FCEAA338F773AFB88139C97BF4DBA0DD21C51F9BCC",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c7000.anibnd.dcx",
+    "clean": "F477D135A5A91EB0452B68D3B4968EBE2DC094CFC01F8E78357172BBF3108F29",
+    "donor": "F477D135A5A91EB0452B68D3B4968EBE2DC094CFC01F8E78357172BBF3108F29",
+    "dojo": "F477D135A5A91EB0452B68D3B4968EBE2DC094CFC01F8E78357172BBF3108F29",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c7110.anibnd.dcx",
+    "clean": "4A325D8C1FC44066C1E1986D85A098B902EAAFB2E00FF28AC5DA81E0721C8069",
+    "donor": "4A325D8C1FC44066C1E1986D85A098B902EAAFB2E00FF28AC5DA81E0721C8069",
+    "dojo": "4A325D8C1FC44066C1E1986D85A098B902EAAFB2E00FF28AC5DA81E0721C8069",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c7400.anibnd.dcx",
+    "clean": "F9D8F226803BBC9C68FBCEACD829120FF740DDA6074AAAB69B6FD15C5F17CF42",
+    "donor": "F9D8F226803BBC9C68FBCEACD829120FF740DDA6074AAAB69B6FD15C5F17CF42",
+    "dojo": "F9D8F226803BBC9C68FBCEACD829120FF740DDA6074AAAB69B6FD15C5F17CF42",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "chr/c7400.chrbnd.dcx",
+    "clean": "E5C4C559E935801D7E490F6A9560F548BF1EAA74C51D6531999E137AD8D7A3AB",
+    "donor": "E5C4C559E935801D7E490F6A9560F548BF1EAA74C51D6531999E137AD8D7A3AB",
+    "dojo": "E5C4C559E935801D7E490F6A9560F548BF1EAA74C51D6531999E137AD8D7A3AB",
+    "cleanEqualsDojo": true,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "event/common.emevd.dcx",
+    "clean": "AB82F31863485D6D2485A792A418F1342AD650AF30701BAEDB3FDDB863857D76",
+    "donor": "54C05721A4F1B06D5932A360ACED759226C65A5D09D104886F09A218645813E0",
+    "dojo": "54C05721A4F1B06D5932A360ACED759226C65A5D09D104886F09A218645813E0",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "event/m10_00_00_00.emevd.dcx",
+    "clean": "3815BC837E52691116483891EAEC3175BAE13F7914542DE4DF355E568A535C96",
+    "donor": "D5DAE3B749E8B2DB53CC0E0B8F4BAF775EBC932BBEF8CA4C80011C6B1B26B2E4",
+    "dojo": "D13FBC34DF03629731B4A0EA3A441D5A8D0EFB7EEAEBF10007C6F14B77FA4012",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "event/m10_00_50_91.emevd.dcx",
+    "clean": null,
+    "donor": null,
+    "dojo": "EF2CA0F6D4FD10A9D831C221EFE3BECC2D1C7DD30BBD5B2B7F1D1AEF92D9EA95",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "map/m10_00_00_00/m10_00_00_00.nva.dcx",
+    "clean": null,
+    "donor": null,
+    "dojo": "5399455AC385E146E343D1303DEFC38C4E959AAC228BB272E21C27305DEA5EE4",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "map/m10_00_00_00/m10_00_00_00.nvmhktbnd.dcx",
+    "clean": null,
+    "donor": null,
+    "dojo": "BA8D824D0131ACCDF60A33A256D23EAE696BEF81A35D649AA1A27F8209322D2A",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "map/mapstudio/m10_00_00_00.msb.dcx",
+    "clean": "F31890D64DAA7AB5A1312C60B68E0EAE8FE5B64B71DC6B641C5B248483BE0821",
+    "donor": "CACF1CB3FCB6D0811AE3A5BA23071A6C1DA31D79E55D2D5DC5E03FACA8DF75BF",
+    "dojo": "ACB5AB754167316C728F0B0ABC06FF6ABC1BE0F694C4529D97993F5A7A236A37",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/01_000_fe.gfx",
+    "clean": null,
+    "donor": "2A83FC1DD76A2AF7B7BB78278E92D9FADDAE25B633622C7CB0E11EDFDDF08D9E",
+    "dojo": "2A83FC1DD76A2AF7B7BB78278E92D9FADDAE25B633622C7CB0E11EDFDDF08D9E",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/01_012_itemquantityselect.gfx",
+    "clean": null,
+    "donor": "2AFAEC644BAD99BE92C8788F761476B0008051B5D91EE9E71479A60143952C06",
+    "dojo": "2AFAEC644BAD99BE92C8788F761476B0008051B5D91EE9E71479A60143952C06",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/02_200_mainmenu.gfx",
+    "clean": null,
+    "donor": "7F39FE210EAE3D64372BD0283A1E57CEC044AF239403E21F80D6B8FE4BA06162",
+    "dojo": "7F39FE210EAE3D64372BD0283A1E57CEC044AF239403E21F80D6B8FE4BA06162",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/02_205_bossselect.gfx",
+    "clean": null,
+    "donor": null,
+    "dojo": "B8476527A62FB0860A7EAEFEF56481311608943F7431A8A3708D4A970DC04028",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "menu/02_280_getitem.gfx",
+    "clean": null,
+    "donor": "F40252353EFB39A7561F9D8D359323DF70F6B5E9DD81DC68624861156BC7589E",
+    "dojo": "F40252353EFB39A7561F9D8D359323DF70F6B5E9DD81DC68624861156BC7589E",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/02_281_getitem_middle.gfx",
+    "clean": null,
+    "donor": "2BC8690ABFC288ACC5B177B8766F77F09A2DF497BD910164F288A2FA9710DBA8",
+    "dojo": "2BC8690ABFC288ACC5B177B8766F77F09A2DF497BD910164F288A2FA9710DBA8",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/02_282_getitem_high.gfx",
+    "clean": null,
+    "donor": "6129FEED00531AED146CCB7F81F163EF1C3E639187C10C29B35BECA06C34FE95",
+    "dojo": "6129FEED00531AED146CCB7F81F163EF1C3E639187C10C29B35BECA06C34FE95",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/02_284_getitem_event.gfx",
+    "clean": null,
+    "donor": "BE1F95C297B79484A929DD2D0C30F6FB97DF1DE6A049640C0DBABE95DEF8488C",
+    "dojo": "BE1F95C297B79484A929DD2D0C30F6FB97DF1DE6A049640C0DBABE95DEF8488C",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/03_001_shop.gfx",
+    "clean": null,
+    "donor": "B5932028D1DB33C4EB00A29D9B660F782C0A05ADABFF56A9333D5EAD4B9C50B2",
+    "dojo": "B5932028D1DB33C4EB00A29D9B660F782C0A05ADABFF56A9333D5EAD4B9C50B2",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/03_202_bonfire.gfx",
+    "clean": null,
+    "donor": "6D1F73D451B6C34D143A015818D088314EE19EA20856B4E9359263AD84720512",
+    "dojo": "6D1F73D451B6C34D143A015818D088314EE19EA20856B4E9359263AD84720512",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/hi/01_common.sblytbnd.dcx",
+    "clean": "B275C8361D6F8AF804579A189C26666E407C45912907092B06FA9E7BF9D412BD",
+    "donor": "51471AE44B710E6F50ADAFC7DF75902ADF1C6DC62CED005A4C409B7EBCF3F80D",
+    "dojo": "51471AE44B710E6F50ADAFC7DF75902ADF1C6DC62CED005A4C409B7EBCF3F80D",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/hi/01_common.tpf.dcx",
+    "clean": "B9D0EAF4C2F8ED880BFD10FF072DC786F3D52B344D6A9BC93F663E5213314671",
+    "donor": "4C2D83761761CCFA7E1EFD4FF8697E78854C80C2369E94CDFF35FF3CCE8587DB",
+    "dojo": "4C2D83761761CCFA7E1EFD4FF8697E78854C80C2369E94CDFF35FF3CCE8587DB",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "menu/hi/menu_boss_11490.tpf.dcx",
+    "clean": null,
+    "donor": null,
+    "dojo": "8E79C583B2A1F87BFBDF5E66018B7868C5043F92D9A840537E3B73643C9D0409",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "msg/engus/item.msgbnd.dcx",
+    "clean": "4516A7572F74E75870E829E5C465D8722CE1AA3EC90C691361346E2DF0EB28A9",
+    "donor": "0C8A0FFF745332130E16C131D32ADDB2F0A0347906D1E695ED99AEB739263D41",
+    "dojo": "E0D5A479F853CEF77C8148F4BF1B361EE4E63EC9991F03D6B29B797D424E89A9",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "msg/engus/menu.msgbnd.dcx",
+    "clean": "16EF1B842923EDE0A153C576F7F18082B97A1552968AA259F45FF8340569DE0F",
+    "donor": "16EF1B842923EDE0A153C576F7F18082B97A1552968AA259F45FF8340569DE0F",
+    "dojo": "941976BFB69409E9AA30E56643DD5890690A94866C1F3FA9983BB1B9394B7D30",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "msg/jpnjp/item.msgbnd.dcx",
+    "clean": "D3557ADF38A86A7856573DFC57B7CD890A4AADB17FF414AE0E91142A00B6A346",
+    "donor": "5487B221CA3C068F0223E211BF99C62955D572DD29D6E1A1EE045C2A453244C1",
+    "dojo": "EE260E0D6BF3CBD666584D6981A9800DE69C6145326B426810D68E4ACA6A3458",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "msg/jpnjp/menu.msgbnd.dcx",
+    "clean": "ABFAEE2C2BF1CE2165B75F2394ADE871633EDC6316154F48F1B4A21FF4BF231B",
+    "donor": "ABFAEE2C2BF1CE2165B75F2394ADE871633EDC6316154F48F1B4A21FF4BF231B",
+    "dojo": "80C8D46E971C91AD6D9871E729A1BCE3B5D274164BF3B90818F477DC6E43873C",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "msg/polpl/item.msgbnd.dcx",
+    "clean": null,
+    "donor": "0308B20579A55334C8884B186C685BBBC04F6B01C01768EBA28E08B16863D758",
+    "dojo": "0308B20579A55334C8884B186C685BBBC04F6B01C01768EBA28E08B16863D758",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "msg/zhocn/item.msgbnd.dcx",
+    "clean": "94ECB8AEFC62040ED2F24866480969EB893E29ED31805DF2909500BFD4E82745",
+    "donor": "FAADF8F9D650AB8355545BF3086A8C9B9BFAC6A34EDB0646F327505DA2800E7B",
+    "dojo": "2E6332FB9FE9938E88FB5E0CB93E4739D1BFC8C10F25CEFA35F6EF414D11C07D",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "msg/zhocn/menu.msgbnd.dcx",
+    "clean": "9ABB2DAD3AC13622F1F50A7C6EE6B6B243572BFA026555FBADABFD0A1F2EDD77",
+    "donor": "9ABB2DAD3AC13622F1F50A7C6EE6B6B243572BFA026555FBADABFD0A1F2EDD77",
+    "dojo": "24CC87062EAC312E3DFF4DA858666B6E36145A0FD95AE56F6B432ACB15162108",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "msg/zhotw/item.msgbnd.dcx",
+    "clean": "13650DC4918AD84AB8FB41640FCDCB7BE0BAB051448907A5114D05B085136282",
+    "donor": "2B23129EC26BF4FD759757A32327182EB87196A77C64CF4D3AD97DCE923E6292",
+    "dojo": "9034964A722A4142958F57DFAC70194C0716055D8D618082FEBB65A2132A680B",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "msg/zhotw/menu.msgbnd.dcx",
+    "clean": "F30B8C97918C7ECEC555A3823D77337CE63EFAF47DE0DF646CC0AAC189712F40",
+    "donor": "F30B8C97918C7ECEC555A3823D77337CE63EFAF47DE0DF646CC0AAC189712F40",
+    "dojo": "FBA5859A66F035C43E912117F06C3C035AE8F39526F262CDF73D189C8E2E314C",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "param/gameparam/gameparam.parambnd.dcx",
+    "clean": "3F768D73697F7CB3E76B5280DC6C73F3B49BFB75F38E2F2BA18C4E6EC0C7F2BC",
+    "donor": "9E7A744E79EBA9FEE93B9695E0C84E73E0348C1681A4615FD68FC51971B072D9",
+    "dojo": "B82929E49B11CD0B474B71E6E5439645DBB3E7B1287341F918C56E62B4C26BA1",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": false
+  },
+  {
+    "path": "script/m10_00_00_00.luabnd.dcx",
+    "clean": "627B4F82C457A7A40F2FD44DDF3FEC12F522BF4D47905066C6B2421CDCB0A76F",
+    "donor": "627B4F82C457A7A40F2FD44DDF3FEC12F522BF4D47905066C6B2421CDCB0A76F",
+    "dojo": "6073A0440C40EE35BA3B6901A6B2FAEC6FD78209E7A24045FCC14A17E47BA1DA",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": false,
+    "cleanEqualsDonor": true
+  },
+  {
+    "path": "sfx/sfxbnd_commoneffects.ffxbnd.dcx",
+    "clean": "46EA1766BD568BEAC411A344DCB16CBED4D03FB031C28FDAC16182BF69BFA12A",
+    "donor": "47A5443905A2FB0573380954E071A6772E2EE8197CC3A33D8A9D34E0BCFFE836",
+    "dojo": "47A5443905A2FB0573380954E071A6772E2EE8197CC3A33D8A9D34E0BCFFE836",
+    "cleanEqualsDojo": false,
+    "donorEqualsDojo": true,
+    "cleanEqualsDonor": false
+  }
+]

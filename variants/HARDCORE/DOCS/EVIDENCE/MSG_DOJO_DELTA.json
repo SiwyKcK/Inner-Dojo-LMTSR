@@ -1,0 +1,1160 @@
+[
+  {
+    "id": 11490,
+    "text": "Inner Dojo",
+    "member": "アイテム名.fmg",
+    "file": "msg\\engus\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903400,
+    "text": "Kinki",
+    "member": "NPC名.fmg",
+    "file": "msg\\engus\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903401,
+    "text": "Fuki",
+    "member": "NPC名.fmg",
+    "file": "msg\\engus\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903402,
+    "text": "Suiki",
+    "member": "NPC名.fmg",
+    "file": "msg\\engus\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903403,
+    "text": "Ongyoki",
+    "member": "NPC名.fmg",
+    "file": "msg\\engus\\item.msgbnd.dcx"
+  },
+  {
+    "id": 11490,
+    "text": "Location: Somewhere in Ashina, in the past",
+    "member": "アイテム説明.fmg",
+    "file": "msg\\engus\\item.msgbnd.dcx"
+  },
+  {
+    "id": 0,
+    "text": null,
+    "member": "アイテムうんちく.fmg",
+    "file": "msg\\engus\\item.msgbnd.dcx"
+  },
+  {
+    "id": 15119947,
+    "text": "General Kuranosuke Matsumoto",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119948,
+    "text": "Takamine Kodou",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119949,
+    "text": "Snake Eyes Shirafuji",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119950,
+    "text": "Juzou the Drunkard",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119951,
+    "text": "Ashina Elite - Itousai Kami-izumi",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119952,
+    "text": "Homa Spirit Fall - Skanda the Pure Flame",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119953,
+    "text": "Shinobi Hunter Sila of Rin-nouji",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119954,
+    "text": "Vajra",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119955,
+    "text": "Okami Great Leader Karma",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119956,
+    "text": "Sala B",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119957,
+    "text": "Sala A",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119958,
+    "text": "Takamine Hirachika",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119959,
+    "text": "Lone Shadow Ryuya the Crimson Feather",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119960,
+    "text": "Demon Bite Asakura Danjyou-Shouhitsu Yoshikiyo",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119961,
+    "text": "Sadistic Headless",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119962,
+    "text": "Oboro, the Throat-Sealing Blade",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119963,
+    "text": "Terukuni Konoe-Chujyou Kyoemon",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119964,
+    "text": "Ashina Elite - Ujinari Mizuo",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119965,
+    "text": "Yukari the Tatari Kami",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119966,
+    "text": "Usui Ukonzaemon",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119967,
+    "text": "Red Guard Sato Uwemon Kenosuke",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119968,
+    "text": "Snake Eyes Kohaku",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119969,
+    "text": "Maheshvara",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119970,
+    "text": "Homa Spirit Fall - Vajrabhairava",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119971,
+    "text": "Shinobi Hunter Kokujou of Dairenji",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119972,
+    "text": "Jizo the Massacre",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119973,
+    "text": "Ashina Seigen, the Deity of Calamity",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119974,
+    "text": "Red Kasa Enenra",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119975,
+    "text": "Okami Leader Arashi",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119976,
+    "text": "Padma Rakshasa",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119977,
+    "text": "Lone Shadow Masaomi the Crow Feather",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119978,
+    "text": "Enmado Juzaemon",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119979,
+    "text": "Lone Shadow Masatake the Vilefoot",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119980,
+    "text": "Lone Shadow Fierce Fang Hisaya",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119981,
+    "text": "Lone Shadow Lightning Gennosuke",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119982,
+    "text": "Kinki, Fuki, Suiki, Ongyoki",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119983,
+    "text": "Okami Great Leader Sagara",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119984,
+    "text": "Children of Izayoi Taijyo Kakuryo",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119985,
+    "text": "Children of Izayoi Moritane Tamura",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119986,
+    "text": "Children of Izayoi Masakuni Tarao",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119987,
+    "text": "Children of Izayoi Kidomaru",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119988,
+    "text": "Children of Izayoi Gochin Aimonoya",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\engus\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 11490,
+    "text": "心中の道場",
+    "member": "アイテム名.fmg",
+    "file": "msg\\jpnjp\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903400,
+    "text": "金鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\jpnjp\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903401,
+    "text": "風鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\jpnjp\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903402,
+    "text": "水鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\jpnjp\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903403,
+    "text": "隠形鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\jpnjp\\item.msgbnd.dcx"
+  },
+  {
+    "id": 11490,
+    "text": "戦いの場\n古の記憶　葦名のどこか",
+    "member": "アイテム説明.fmg",
+    "file": "msg\\jpnjp\\item.msgbnd.dcx"
+  },
+  {
+    "id": 15119947,
+    "text": "侍大将　松本内蔵佑",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119948,
+    "text": "高峯虎道",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119949,
+    "text": "蛇の目　シラフジ",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119950,
+    "text": "うわばみの重蔵",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119951,
+    "text": "葦名流　上泉一刀斎",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119952,
+    "text": "護摩の御霊降ろし　刹火の韋駄天",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119953,
+    "text": "忍び狩り　輪王寺尸羅",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119954,
+    "text": "伐折羅",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119955,
+    "text": "淤加美の大族長　羯磨",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119956,
+    "text": "部屋B",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119957,
+    "text": "部屋A",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119958,
+    "text": "高峯比良近",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119959,
+    "text": "孤影衆　赤羽竜也",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119960,
+    "text": "鬼咬衆　朝倉弾正少弼義清",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119961,
+    "text": "癲狂の首無し",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119962,
+    "text": "封喉剣　おぼろ",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119963,
+    "text": "照國近衛中将狂右衛門",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119964,
+    "text": "葦名流　水生氏成",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119965,
+    "text": "祟り神　紫",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119966,
+    "text": "薄井右近左衛門",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119967,
+    "text": "赤備軍　佐藤右衛門剣之介",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119968,
+    "text": "蛇の目　コハク",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119969,
+    "text": "摩醯首羅",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119970,
+    "text": "護摩の御霊降ろし　怖畏金剛",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119971,
+    "text": "忍び狩り　大蓮寺黒縄",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119972,
+    "text": "鏖殺地蔵",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119973,
+    "text": "禍津神　葦名清弦",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119974,
+    "text": "赤笠衆 煙々羅",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119975,
+    "text": "淤加美の長　嵐",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119976,
+    "text": "紅蓮羅刹",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119977,
+    "text": "孤影衆　鴉羽正臣",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119978,
+    "text": "閻魔堂重左衛門",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119979,
+    "text": "孤影衆　忌み足正武",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119980,
+    "text": "孤影衆　凶牙久弥",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119981,
+    "text": "孤影衆　雷煌弦之介",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119982,
+    "text": "金鬼、風鬼、水鬼、隠形鬼",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119983,
+    "text": "淤加美の大族長　娑伽羅",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119984,
+    "text": "十六夜の子　鶴竜太裳",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119985,
+    "text": "十六夜の子　田村盛胤",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119986,
+    "text": "十六夜の子　多羅尾正国",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119987,
+    "text": "十六夜の子　鬼童丸",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119988,
+    "text": "十六夜の子　四十物谷勾陳",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\jpnjp\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 11490,
+    "text": "Inner Dojo",
+    "member": "アイテム名.fmg",
+    "file": "msg\\zhocn\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903400,
+    "text": "金鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\zhocn\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903401,
+    "text": "风鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\zhocn\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903402,
+    "text": "水鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\zhocn\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903403,
+    "text": "隐形鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\zhocn\\item.msgbnd.dcx"
+  },
+  {
+    "id": 11490,
+    "text": "Location: Somewhere in Ashina, in the past",
+    "member": "アイテム説明.fmg",
+    "file": "msg\\zhocn\\item.msgbnd.dcx"
+  },
+  {
+    "id": 15119947,
+    "text": "武士大将 松本内藏佑",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119948,
+    "text": "高峰虎道",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119949,
+    "text": "蛇眼 白藤",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119950,
+    "text": "蚺蛇重藏",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119951,
+    "text": "苇名流 上泉一刀斋",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119952,
+    "text": "护摩降灵 刹火韦驮天",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119953,
+    "text": "忍者猎人 轮王寺尸罗",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119954,
+    "text": "伐折罗",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119955,
+    "text": "淤加美大首领 羯磨",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119956,
+    "text": "B室",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119957,
+    "text": "A室",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119958,
+    "text": "高峰比良近",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119959,
+    "text": "孤影众 赤羽龙也",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119960,
+    "text": "鬼咬众 朝仓弹正少弼义清",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119961,
+    "text": "癫狂无首",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119962,
+    "text": "封喉剑 胧",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119963,
+    "text": "照国近卫中将狂右卫门",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119964,
+    "text": "苇名流 水生氏成",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119965,
+    "text": "崇神 紫",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119966,
+    "text": "薄井右近左卫门",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119967,
+    "text": "赤备军 佐藤右卫门剑之介",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119968,
+    "text": "蛇眼 黑白",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119969,
+    "text": "摩酰首罗",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119970,
+    "text": "护摩降灵 怖畏金刚",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119971,
+    "text": "忍者猎人 大莲寺黑绳",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119972,
+    "text": "鏖杀地藏",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119973,
+    "text": "祸津神 苇名清弦",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119974,
+    "text": "赤笠众 烟烟罗",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119975,
+    "text": "淤加美长老 岚",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119976,
+    "text": "红莲罗刹",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119977,
+    "text": "孤影众 鸦羽正臣",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119978,
+    "text": "阎魔堂重左卫门",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119979,
+    "text": "孤影众 忌足正武",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119980,
+    "text": "孤影众 凶牙久弥",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119981,
+    "text": "孤影众 雷煌弦之介",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119982,
+    "text": "金鬼、风鬼、水鬼、隐形鬼",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119983,
+    "text": "淤迦美大首领 娑伽罗",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119984,
+    "text": "十六夜之子 鹤龙太裳",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119985,
+    "text": "十六夜之子 田村盛胤",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119986,
+    "text": "十六夜之子 多罗尾正国",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119987,
+    "text": "十六夜之子 鬼童丸",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119988,
+    "text": "十六夜之子 四十物谷勾陈",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhocn\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 11490,
+    "text": "Inner Dojo",
+    "member": "アイテム名.fmg",
+    "file": "msg\\zhotw\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903400,
+    "text": "金鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\zhotw\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903401,
+    "text": "風鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\zhotw\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903402,
+    "text": "水鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\zhotw\\item.msgbnd.dcx"
+  },
+  {
+    "id": 903403,
+    "text": "隱形鬼",
+    "member": "NPC名.fmg",
+    "file": "msg\\zhotw\\item.msgbnd.dcx"
+  },
+  {
+    "id": 11490,
+    "text": "Location: Somewhere in Ashina, in the past",
+    "member": "アイテム説明.fmg",
+    "file": "msg\\zhotw\\item.msgbnd.dcx"
+  },
+  {
+    "id": 15119947,
+    "text": "武士大將　松本內藏佑",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119948,
+    "text": "高峰虎道",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119949,
+    "text": "蛇眼　白富士",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119950,
+    "text": "蟒蛇重藏",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119951,
+    "text": "葦名流　上泉一刀齋",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119952,
+    "text": "護摩降靈　剎火韋馱天",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119953,
+    "text": "忍者獵手　輪王寺尸羅",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119954,
+    "text": "伐折羅",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119955,
+    "text": "淤加美大首領　羯磨",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119956,
+    "text": "B室",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119957,
+    "text": "A室",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119958,
+    "text": "高峰比良近",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119959,
+    "text": "孤影眾　赤羽龍也",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119960,
+    "text": "鬼咬眾　朝倉彈正少弼義清",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119961,
+    "text": "癲狂無頭人",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119962,
+    "text": "封喉劍　朧",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119963,
+    "text": "照國近衛中將狂右衛門",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119964,
+    "text": "葦名流　水生氏成",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119965,
+    "text": "崇神　紫",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119966,
+    "text": "薄井右近左衛門",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119967,
+    "text": "赤備軍  佐藤右衛門劍之介",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119968,
+    "text": "蛇眼　黑白",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119969,
+    "text": "摩醯首羅",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119970,
+    "text": "護摩降靈　怖畏金剛",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119971,
+    "text": "忍者獵手　大蓮寺黑繩",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119972,
+    "text": "鏖殺地藏",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119973,
+    "text": "禍津神　葦名清弦",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119974,
+    "text": "赤笠眾　煙煙羅",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119975,
+    "text": "淤加美首領　嵐",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119976,
+    "text": "紅蓮羅剎",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119977,
+    "text": "孤影眾  鴉羽正臣",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119978,
+    "text": "閻魔堂重左衛門",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119979,
+    "text": "孤影眾　忌足正武",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119980,
+    "text": "孤影眾　凶牙久彌",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119981,
+    "text": "孤影眾　雷煌弦之介",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119982,
+    "text": "金鬼、風鬼、水鬼、隱形鬼",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119983,
+    "text": "淤迦美大首領　娑伽羅",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119984,
+    "text": "十六夜之子　鶴龍太裳",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119985,
+    "text": "十六夜之子　田村盛胤",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119986,
+    "text": "十六夜之子 多羅尾正國",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119987,
+    "text": "十六夜之子 鬼童丸",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  },
+  {
+    "id": 15119988,
+    "text": "十六夜之子　四十物谷勾陳",
+    "member": "イベントテキスト.fmg",
+    "file": "msg\\zhotw\\menu.msgbnd.dcx"
+  }
+]

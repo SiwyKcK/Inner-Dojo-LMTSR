@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "output": "E:/PRACA AI CAŁY FOLDER/INNER DOJO/Working/2026-10-24/CLEAN_NOOB_MAIN_PACKAGE/build/WRITER_ROUNDTRIP.emevd.dcx",
+  "sha256": "693085D2D5BF0D9C4964EA5F4538BF86B12D27CEAFD70AAA24243E90F3B51F35",
+  "equalsShippedR4": true,
+  "scope": "Portable writer round-trip, not game runtime"
+}

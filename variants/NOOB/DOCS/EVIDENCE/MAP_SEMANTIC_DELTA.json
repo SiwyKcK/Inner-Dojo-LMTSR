@@ -1,0 +1,4754 @@
+{
+  "note": "Compare duplicate names by per-type ordinal. Ignore serialized Index/Indices fields recomputed by SoulsFormats writer from names.",
+  "lists": [
+    {
+      "list": "MapPieces",
+      "section": "Models",
+      "dojo": 499,
+      "donor": 499,
+      "clean": 499
+    },
+    {
+      "list": "Objects",
+      "section": "Models",
+      "dojo": 171,
+      "donor": 171,
+      "clean": 171
+    },
+    {
+      "list": "Enemies",
+      "section": "Models",
+      "dojo": 47,
+      "donor": 38,
+      "clean": 38
+    },
+    {
+      "list": "Players",
+      "section": "Models",
+      "dojo": 0,
+      "donor": 0,
+      "clean": 0
+    },
+    {
+      "list": "Collisions",
+      "section": "Models",
+      "dojo": 146,
+      "donor": 146,
+      "clean": 146
+    },
+    {
+      "list": "Treasures",
+      "section": "Events",
+      "dojo": 63,
+      "donor": 63,
+      "clean": 63
+    },
+    {
+      "list": "Generators",
+      "section": "Events",
+      "dojo": 14,
+      "donor": 14,
+      "clean": 14
+    },
+    {
+      "list": "ObjActs",
+      "section": "Events",
+      "dojo": 9,
+      "donor": 9,
+      "clean": 9
+    },
+    {
+      "list": "MapOffsets",
+      "section": "Events",
+      "dojo": 1,
+      "donor": 1,
+      "clean": 1
+    },
+    {
+      "list": "PatrolInfo",
+      "section": "Events",
+      "dojo": 43,
+      "donor": 43,
+      "clean": 43
+    },
+    {
+      "list": "PlatoonInfo",
+      "section": "Events",
+      "dojo": 5,
+      "donor": 5,
+      "clean": 5
+    },
+    {
+      "list": "ResourceItemInfo",
+      "section": "Events",
+      "dojo": 9,
+      "donor": 9,
+      "clean": 9
+    },
+    {
+      "list": "GrassLodParams",
+      "section": "Events",
+      "dojo": 0,
+      "donor": 0,
+      "clean": 0
+    },
+    {
+      "list": "SkitInfo",
+      "section": "Events",
+      "dojo": 4,
+      "donor": 4,
+      "clean": 4
+    },
+    {
+      "list": "PlacementGroups",
+      "section": "Events",
+      "dojo": 2,
+      "donor": 2,
+      "clean": 2
+    },
+    {
+      "list": "PartsGroups",
+      "section": "Events",
+      "dojo": 8,
+      "donor": 8,
+      "clean": 8
+    },
+    {
+      "list": "Talks",
+      "section": "Events",
+      "dojo": 30,
+      "donor": 29,
+      "clean": 29
+    },
+    {
+      "list": "AutoDrawGroupCollisions",
+      "section": "Events",
+      "dojo": 1,
+      "donor": 1,
+      "clean": 1
+    },
+    {
+      "list": "Others",
+      "section": "Events",
+      "dojo": 1,
+      "donor": 1,
+      "clean": 1
+    },
+    {
+      "list": "InvasionPoints",
+      "section": "Regions",
+      "dojo": 15,
+      "donor": 15,
+      "clean": 15
+    },
+    {
+      "list": "EnvironmentMapPoints",
+      "section": "Regions",
+      "dojo": 144,
+      "donor": 142,
+      "clean": 142
+    },
+    {
+      "list": "Sounds",
+      "section": "Regions",
+      "dojo": 63,
+      "donor": 63,
+      "clean": 63
+    },
+    {
+      "list": "SFX",
+      "section": "Regions",
+      "dojo": 339,
+      "donor": 322,
+      "clean": 322
+    },
+    {
+      "list": "WindSFX",
+      "section": "Regions",
+      "dojo": 11,
+      "donor": 11,
+      "clean": 11
+    },
+    {
+      "list": "SpawnPoints",
+      "section": "Regions",
+      "dojo": 10,
+      "donor": 9,
+      "clean": 9
+    },
+    {
+      "list": "PatrolRoutes",
+      "section": "Regions",
+      "dojo": 258,
+      "donor": 258,
+      "clean": 258
+    },
+    {
+      "list": "WarpPoints",
+      "section": "Regions",
+      "dojo": 0,
+      "donor": 0,
+      "clean": 0
+    },
+    {
+      "list": "ActivationAreas",
+      "section": "Regions",
+      "dojo": 0,
+      "donor": 0,
+      "clean": 0
+    },
+    {
+      "list": "Events",
+      "section": "Regions",
+      "dojo": 429,
+      "donor": 257,
+      "clean": 257
+    },
+    {
+      "list": "Logic",
+      "section": "Regions",
+      "dojo": 0,
+      "donor": 0,
+      "clean": 0
+    },
+    {
+      "list": "EnvironmentMapEffectBoxes",
+      "section": "Regions",
+      "dojo": 144,
+      "donor": 142,
+      "clean": 142
+    },
+    {
+      "list": "WindAreas",
+      "section": "Regions",
+      "dojo": 11,
+      "donor": 11,
+      "clean": 11
+    },
+    {
+      "list": "MufflingBoxes",
+      "section": "Regions",
+      "dojo": 51,
+      "donor": 51,
+      "clean": 51
+    },
+    {
+      "list": "MufflingPortals",
+      "section": "Regions",
+      "dojo": 51,
+      "donor": 51,
+      "clean": 51
+    },
+    {
+      "list": "SoundSpaceOverrides",
+      "section": "Regions",
+      "dojo": 18,
+      "donor": 18,
+      "clean": 18
+    },
+    {
+      "list": "MufflingPlanes",
+      "section": "Regions",
+      "dojo": 0,
+      "donor": 0,
+      "clean": 0
+    },
+    {
+      "list": "PartsGroupAreas",
+      "section": "Regions",
+      "dojo": 51,
+      "donor": 51,
+      "clean": 51
+    },
+    {
+      "list": "AutoDrawGroupPoints",
+      "section": "Regions",
+      "dojo": 10,
+      "donor": 10,
+      "clean": 10
+    },
+    {
+      "list": "Others",
+      "section": "Regions",
+      "dojo": 86,
+      "donor": 86,
+      "clean": 86
+    },
+    {
+      "list": "MapPieces",
+      "section": "Parts",
+      "dojo": 5726,
+      "donor": 5403,
+      "clean": 5403
+    },
+    {
+      "list": "Objects",
+      "section": "Parts",
+      "dojo": 1554,
+      "donor": 1545,
+      "clean": 1545
+    },
+    {
+      "list": "Enemies",
+      "section": "Parts",
+      "dojo": 329,
+      "donor": 240,
+      "clean": 239
+    },
+    {
+      "list": "Players",
+      "section": "Parts",
+      "dojo": 9,
+      "donor": 9,
+      "clean": 9
+    },
+    {
+      "list": "Collisions",
+      "section": "Parts",
+      "dojo": 147,
+      "donor": 144,
+      "clean": 144
+    },
+    {
+      "list": "DummyObjects",
+      "section": "Parts",
+      "dojo": 20,
+      "donor": 20,
+      "clean": 20
+    },
+    {
+      "list": "DummyEnemies",
+      "section": "Parts",
+      "dojo": 9,
+      "donor": 9,
+      "clean": 9
+    },
+    {
+      "list": "ConnectCollisions",
+      "section": "Parts",
+      "dojo": 0,
+      "donor": 0,
+      "clean": 0
+    },
+    {
+      "list": "MufflingPortalLinks",
+      "section": "Routes",
+      "dojo": 0,
+      "donor": 0,
+      "clean": 0
+    },
+    {
+      "list": "MufflingBoxLinks",
+      "section": "Routes",
+      "dojo": 33,
+      "donor": 33,
+      "clean": 33
+    }
+  ],
+  "baseDifferences": [
+    {
+      "list": "Enemies",
+      "key": "c1470_Codex_HirataWellWall_0003#0",
+      "section": "Parts",
+      "onlyInDonor": true
+    }
+  ],
+  "changes": [
+    {
+      "list": "Enemies",
+      "index": 38,
+      "section": "Models",
+      "new": true,
+      "name": "c1020"
+    },
+    {
+      "list": "Enemies",
+      "index": 39,
+      "section": "Models",
+      "new": true,
+      "name": "c1191"
+    },
+    {
+      "list": "Enemies",
+      "index": 40,
+      "section": "Models",
+      "new": true,
+      "name": "c1310"
+    },
+    {
+      "list": "Enemies",
+      "index": 41,
+      "section": "Models",
+      "new": true,
+      "name": "c1060"
+    },
+    {
+      "list": "Enemies",
+      "index": 42,
+      "section": "Models",
+      "new": true,
+      "name": "c1021"
+    },
+    {
+      "list": "Enemies",
+      "index": 43,
+      "section": "Models",
+      "new": true,
+      "name": "c1350"
+    },
+    {
+      "list": "Enemies",
+      "index": 44,
+      "section": "Models",
+      "new": true,
+      "name": "c1361"
+    },
+    {
+      "list": "Enemies",
+      "index": 45,
+      "section": "Models",
+      "new": true,
+      "name": "c5020"
+    },
+    {
+      "list": "Enemies",
+      "index": 46,
+      "section": "Models",
+      "new": true,
+      "name": "c1360"
+    },
+    {
+      "list": "Talks",
+      "index": 29,
+      "section": "Events",
+      "new": true,
+      "name": "Talk_鬼仏_06_InnerDojo_V5"
+    },
+    {
+      "list": "EnvironmentMapPoints",
+      "index": 142,
+      "section": "Regions",
+      "new": true,
+      "name": "Env_Point250_InnerDojo_V8"
+    },
+    {
+      "list": "EnvironmentMapPoints",
+      "index": 143,
+      "section": "Regions",
+      "new": true,
+      "name": "Env_Point251_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 322,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス屋根】_SFXID810118_9001_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 323,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス屋根】_SFXID810118_9002_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 324,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス前面下】_SFXID810124_9451_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 325,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス前面下】_SFXID810124_9452_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 326,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス前面上】_SFXID810123_9401_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 327,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス前面上】_SFXID810123_9402_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 328,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス側面下】_SFXID810122_9351_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 329,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス側面下】_SFXID810122_9352_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 330,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス側面上】_SFXID810121_9301_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 331,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス側面上】_SFXID810121_9302_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 332,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス柱横短】_SFXID810120_9201_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 333,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス柱横長】_SFXID810119_9101_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 334,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス柱横長】_SFXID810119_9102_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 335,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス柱横長】_SFXID810119_9103_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 336,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス柱横長】_SFXID810119_9104_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 337,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス柱縦短】_SFXID810125_9501_InnerDojo_V8"
+    },
+    {
+      "list": "SFX",
+      "index": 338,
+      "section": "Regions",
+      "new": true,
+      "name": "【ボス柱縦長】_SFXID810126_9551_InnerDojo_V8"
+    },
+    {
+      "list": "SpawnPoints",
+      "index": 9,
+      "section": "Regions",
+      "new": true,
+      "name": "ボス撃破CS用_復帰地点_InnerDojo_V5"
+    },
+    {
+      "list": "Events",
+      "index": 257,
+      "section": "Regions",
+      "new": true,
+      "name": "初期位置_ＰＣボス戦開始_InnerDojo_V5"
+    },
+    {
+      "list": "Events",
+      "index": 258,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Kawarada_EnemyStart_TEST016_InnerDojo_V5"
+    },
+    {
+      "list": "Events",
+      "index": 259,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_V5_IsolatedSpace"
+    },
+    {
+      "list": "Events",
+      "index": 260,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_HisayaHelper1_PARK_V16"
+    },
+    {
+      "list": "Events",
+      "index": 261,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_HisayaHelper2_PARK_V16"
+    },
+    {
+      "list": "Events",
+      "index": 262,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_HisayaHelper3_PARK_V16"
+    },
+    {
+      "list": "Events",
+      "index": 263,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_HisayaHelper4_PARK_V16"
+    },
+    {
+      "list": "Events",
+      "index": 264,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702550_V17"
+    },
+    {
+      "list": "Events",
+      "index": 265,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702551_V17"
+    },
+    {
+      "list": "Events",
+      "index": 266,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702552_V17"
+    },
+    {
+      "list": "Events",
+      "index": 267,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702553_V17"
+    },
+    {
+      "list": "Events",
+      "index": 268,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702554_V17"
+    },
+    {
+      "list": "Events",
+      "index": 269,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702555_V17"
+    },
+    {
+      "list": "Events",
+      "index": 270,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702556_V17"
+    },
+    {
+      "list": "Events",
+      "index": 271,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702557_V17"
+    },
+    {
+      "list": "Events",
+      "index": 272,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702558_V17"
+    },
+    {
+      "list": "Events",
+      "index": 273,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702559_V17"
+    },
+    {
+      "list": "Events",
+      "index": 274,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702560_V17"
+    },
+    {
+      "list": "Events",
+      "index": 275,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702561_V17"
+    },
+    {
+      "list": "Events",
+      "index": 276,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702562_V17"
+    },
+    {
+      "list": "Events",
+      "index": 277,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702563_V17"
+    },
+    {
+      "list": "Events",
+      "index": 278,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702564_V17"
+    },
+    {
+      "list": "Events",
+      "index": 279,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702565_V17"
+    },
+    {
+      "list": "Events",
+      "index": 280,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702566_V17"
+    },
+    {
+      "list": "Events",
+      "index": 281,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702567_V17"
+    },
+    {
+      "list": "Events",
+      "index": 282,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702568_V17"
+    },
+    {
+      "list": "Events",
+      "index": 283,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702569_V17"
+    },
+    {
+      "list": "Events",
+      "index": 284,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702570_V17"
+    },
+    {
+      "list": "Events",
+      "index": 285,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702571_V17"
+    },
+    {
+      "list": "Events",
+      "index": 286,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702572_V17"
+    },
+    {
+      "list": "Events",
+      "index": 287,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702573_V17"
+    },
+    {
+      "list": "Events",
+      "index": 288,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702574_V17"
+    },
+    {
+      "list": "Events",
+      "index": 289,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702575_V17"
+    },
+    {
+      "list": "Events",
+      "index": 290,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702576_V17"
+    },
+    {
+      "list": "Events",
+      "index": 291,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702577_V17"
+    },
+    {
+      "list": "Events",
+      "index": 292,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702578_V17"
+    },
+    {
+      "list": "Events",
+      "index": 293,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702579_V17"
+    },
+    {
+      "list": "Events",
+      "index": 294,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702580_V17"
+    },
+    {
+      "list": "Events",
+      "index": 295,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702581_V17"
+    },
+    {
+      "list": "Events",
+      "index": 296,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702582_V17"
+    },
+    {
+      "list": "Events",
+      "index": 297,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702583_V17"
+    },
+    {
+      "list": "Events",
+      "index": 298,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702584_V17"
+    },
+    {
+      "list": "Events",
+      "index": 299,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702585_V17"
+    },
+    {
+      "list": "Events",
+      "index": 300,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702586_V17"
+    },
+    {
+      "list": "Events",
+      "index": 301,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702587_V17"
+    },
+    {
+      "list": "Events",
+      "index": 302,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702588_V17"
+    },
+    {
+      "list": "Events",
+      "index": 303,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702589_V17"
+    },
+    {
+      "list": "Events",
+      "index": 304,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702590_V17"
+    },
+    {
+      "list": "Events",
+      "index": 305,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702591_V17"
+    },
+    {
+      "list": "Events",
+      "index": 306,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702592_V17"
+    },
+    {
+      "list": "Events",
+      "index": 307,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702593_V17"
+    },
+    {
+      "list": "Events",
+      "index": 308,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702594_V17"
+    },
+    {
+      "list": "Events",
+      "index": 309,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702595_V17"
+    },
+    {
+      "list": "Events",
+      "index": 310,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702596_V17"
+    },
+    {
+      "list": "Events",
+      "index": 311,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702597_V17"
+    },
+    {
+      "list": "Events",
+      "index": 312,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702598_V17"
+    },
+    {
+      "list": "Events",
+      "index": 313,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702599_V17"
+    },
+    {
+      "list": "Events",
+      "index": 314,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702701_V17"
+    },
+    {
+      "list": "Events",
+      "index": 315,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702702_V17"
+    },
+    {
+      "list": "Events",
+      "index": 316,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702703_V17"
+    },
+    {
+      "list": "Events",
+      "index": 317,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702704_V17"
+    },
+    {
+      "list": "Events",
+      "index": 318,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702705_V17"
+    },
+    {
+      "list": "Events",
+      "index": 319,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702706_V17"
+    },
+    {
+      "list": "Events",
+      "index": 320,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702707_V17"
+    },
+    {
+      "list": "Events",
+      "index": 321,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702708_V17"
+    },
+    {
+      "list": "Events",
+      "index": 322,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702709_V17"
+    },
+    {
+      "list": "Events",
+      "index": 323,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702710_V17"
+    },
+    {
+      "list": "Events",
+      "index": 324,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702711_V17"
+    },
+    {
+      "list": "Events",
+      "index": 325,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702712_V17"
+    },
+    {
+      "list": "Events",
+      "index": 326,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702713_V17"
+    },
+    {
+      "list": "Events",
+      "index": 327,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702714_V17"
+    },
+    {
+      "list": "Events",
+      "index": 328,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702715_V17"
+    },
+    {
+      "list": "Events",
+      "index": 329,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702716_V17"
+    },
+    {
+      "list": "Events",
+      "index": 330,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702717_V17"
+    },
+    {
+      "list": "Events",
+      "index": 331,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702718_V17"
+    },
+    {
+      "list": "Events",
+      "index": 332,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702719_V17"
+    },
+    {
+      "list": "Events",
+      "index": 333,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702720_V17"
+    },
+    {
+      "list": "Events",
+      "index": 334,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702721_V17"
+    },
+    {
+      "list": "Events",
+      "index": 335,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702722_V17"
+    },
+    {
+      "list": "Events",
+      "index": 336,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702723_V17"
+    },
+    {
+      "list": "Events",
+      "index": 337,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702724_V17"
+    },
+    {
+      "list": "Events",
+      "index": 338,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702725_V17"
+    },
+    {
+      "list": "Events",
+      "index": 339,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702726_V17"
+    },
+    {
+      "list": "Events",
+      "index": 340,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702727_V17"
+    },
+    {
+      "list": "Events",
+      "index": 341,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702728_V17"
+    },
+    {
+      "list": "Events",
+      "index": 342,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702729_V17"
+    },
+    {
+      "list": "Events",
+      "index": 343,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702730_V17"
+    },
+    {
+      "list": "Events",
+      "index": 344,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702731_V17"
+    },
+    {
+      "list": "Events",
+      "index": 345,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702732_V17"
+    },
+    {
+      "list": "Events",
+      "index": 346,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702733_V17"
+    },
+    {
+      "list": "Events",
+      "index": 347,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702734_V17"
+    },
+    {
+      "list": "Events",
+      "index": 348,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702735_V17"
+    },
+    {
+      "list": "Events",
+      "index": 349,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702736_V17"
+    },
+    {
+      "list": "Events",
+      "index": 350,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702737_V17"
+    },
+    {
+      "list": "Events",
+      "index": 351,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702738_V17"
+    },
+    {
+      "list": "Events",
+      "index": 352,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702739_V17"
+    },
+    {
+      "list": "Events",
+      "index": 353,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702740_V17"
+    },
+    {
+      "list": "Events",
+      "index": 354,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702741_V17"
+    },
+    {
+      "list": "Events",
+      "index": 355,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702742_V17"
+    },
+    {
+      "list": "Events",
+      "index": 356,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702743_V17"
+    },
+    {
+      "list": "Events",
+      "index": 357,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702744_V17"
+    },
+    {
+      "list": "Events",
+      "index": 358,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702745_V17"
+    },
+    {
+      "list": "Events",
+      "index": 359,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702746_V17"
+    },
+    {
+      "list": "Events",
+      "index": 360,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702747_V17"
+    },
+    {
+      "list": "Events",
+      "index": 361,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702748_V17"
+    },
+    {
+      "list": "Events",
+      "index": 362,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702749_V17"
+    },
+    {
+      "list": "Events",
+      "index": 363,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702760_V17"
+    },
+    {
+      "list": "Events",
+      "index": 364,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702761_V17"
+    },
+    {
+      "list": "Events",
+      "index": 365,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702762_V17"
+    },
+    {
+      "list": "Events",
+      "index": 366,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702763_V17"
+    },
+    {
+      "list": "Events",
+      "index": 367,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702764_V17"
+    },
+    {
+      "list": "Events",
+      "index": 368,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702765_V17"
+    },
+    {
+      "list": "Events",
+      "index": 369,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702766_V17"
+    },
+    {
+      "list": "Events",
+      "index": 370,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702767_V17"
+    },
+    {
+      "list": "Events",
+      "index": 371,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702768_V17"
+    },
+    {
+      "list": "Events",
+      "index": 372,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702769_V17"
+    },
+    {
+      "list": "Events",
+      "index": 373,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702770_V17"
+    },
+    {
+      "list": "Events",
+      "index": 374,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702771_V17"
+    },
+    {
+      "list": "Events",
+      "index": 375,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702772_V17"
+    },
+    {
+      "list": "Events",
+      "index": 376,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702773_V17"
+    },
+    {
+      "list": "Events",
+      "index": 377,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702774_V17"
+    },
+    {
+      "list": "Events",
+      "index": 378,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702775_V17"
+    },
+    {
+      "list": "Events",
+      "index": 379,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702776_V17"
+    },
+    {
+      "list": "Events",
+      "index": 380,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702777_V17"
+    },
+    {
+      "list": "Events",
+      "index": 381,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702778_V17"
+    },
+    {
+      "list": "Events",
+      "index": 382,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702779_V17"
+    },
+    {
+      "list": "Events",
+      "index": 383,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702780_V17"
+    },
+    {
+      "list": "Events",
+      "index": 384,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702781_V17"
+    },
+    {
+      "list": "Events",
+      "index": 385,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702782_V17"
+    },
+    {
+      "list": "Events",
+      "index": 386,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702783_V17"
+    },
+    {
+      "list": "Events",
+      "index": 387,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702784_V17"
+    },
+    {
+      "list": "Events",
+      "index": 388,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702785_V17"
+    },
+    {
+      "list": "Events",
+      "index": 389,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702786_V17"
+    },
+    {
+      "list": "Events",
+      "index": 390,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702787_V17"
+    },
+    {
+      "list": "Events",
+      "index": 391,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702788_V17"
+    },
+    {
+      "list": "Events",
+      "index": 392,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702789_V17"
+    },
+    {
+      "list": "Events",
+      "index": 393,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702900_V17"
+    },
+    {
+      "list": "Events",
+      "index": 394,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702901_V17"
+    },
+    {
+      "list": "Events",
+      "index": 395,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702902_V17"
+    },
+    {
+      "list": "Events",
+      "index": 396,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702903_V17"
+    },
+    {
+      "list": "Events",
+      "index": 397,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702904_V17"
+    },
+    {
+      "list": "Events",
+      "index": 398,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702905_V17"
+    },
+    {
+      "list": "Events",
+      "index": 399,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702906_V17"
+    },
+    {
+      "list": "Events",
+      "index": 400,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702907_V17"
+    },
+    {
+      "list": "Events",
+      "index": 401,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702908_V17"
+    },
+    {
+      "list": "Events",
+      "index": 402,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702909_V17"
+    },
+    {
+      "list": "Events",
+      "index": 403,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702910_V17"
+    },
+    {
+      "list": "Events",
+      "index": 404,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702911_V17"
+    },
+    {
+      "list": "Events",
+      "index": 405,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702912_V17"
+    },
+    {
+      "list": "Events",
+      "index": 406,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702913_V17"
+    },
+    {
+      "list": "Events",
+      "index": 407,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702914_V17"
+    },
+    {
+      "list": "Events",
+      "index": 408,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702915_V17"
+    },
+    {
+      "list": "Events",
+      "index": 409,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702916_V17"
+    },
+    {
+      "list": "Events",
+      "index": 410,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702917_V17"
+    },
+    {
+      "list": "Events",
+      "index": 411,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702918_V17"
+    },
+    {
+      "list": "Events",
+      "index": 412,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702919_V17"
+    },
+    {
+      "list": "Events",
+      "index": 413,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702920_V17"
+    },
+    {
+      "list": "Events",
+      "index": 414,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702921_V17"
+    },
+    {
+      "list": "Events",
+      "index": 415,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702922_V17"
+    },
+    {
+      "list": "Events",
+      "index": 416,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702923_V17"
+    },
+    {
+      "list": "Events",
+      "index": 417,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702924_V17"
+    },
+    {
+      "list": "Events",
+      "index": 418,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702925_V17"
+    },
+    {
+      "list": "Events",
+      "index": 419,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702926_V17"
+    },
+    {
+      "list": "Events",
+      "index": 420,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702927_V17"
+    },
+    {
+      "list": "Events",
+      "index": 421,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702928_V17"
+    },
+    {
+      "list": "Events",
+      "index": 422,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702929_V17"
+    },
+    {
+      "list": "Events",
+      "index": 423,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702930_V17"
+    },
+    {
+      "list": "Events",
+      "index": 424,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Gennosuke_1702935_V17"
+    },
+    {
+      "list": "Events",
+      "index": 425,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Tarao_Area_1013170_V19"
+    },
+    {
+      "list": "Events",
+      "index": 426,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Tarao_Area_1013171_V19"
+    },
+    {
+      "list": "Events",
+      "index": 427,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Tarao_Area_1013172_V19"
+    },
+    {
+      "list": "Events",
+      "index": 428,
+      "section": "Regions",
+      "new": true,
+      "name": "InnerDojo_Tarao_Area_1013173_V19"
+    },
+    {
+      "list": "EnvironmentMapEffectBoxes",
+      "index": 142,
+      "section": "Regions",
+      "new": true,
+      "name": "Env_Box250_ボス部屋通路内観_InnerDojo_V8"
+    },
+    {
+      "list": "EnvironmentMapEffectBoxes",
+      "index": 143,
+      "section": "Regions",
+      "new": true,
+      "name": "Env_Box251_ボス部屋内観_InnerDojo_V8"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5403,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5404,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6001_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5405,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6002_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5406,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6003_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5407,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6004_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5408,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6005_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5409,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6006_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5410,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6007_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5411,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6008_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5412,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6009_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5413,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6010_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5414,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6011_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5415,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6012_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5416,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6013_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5417,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6014_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5418,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6015_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5419,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6016_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5420,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6017_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5421,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6018_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5422,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6019_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5423,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6020_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5424,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6021_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5425,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6022_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5426,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6023_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5427,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6024_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5428,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6025_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5429,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6026_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5430,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6027_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5431,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6028_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5432,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6029_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5433,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6030_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5434,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6031_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5435,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6032_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5436,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6033_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5437,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6034_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5438,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6035_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5439,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6036_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5440,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6037_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5441,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6038_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5442,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6039_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5443,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6040_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5444,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6041_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5445,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6043_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5446,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6044_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5447,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6045_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5448,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6046_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5449,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6047_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5450,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6048_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5451,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6049_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5452,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6050_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5453,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6051_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5454,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6052_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5455,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6053_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5456,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6054_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5457,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6055_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5458,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6056_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5459,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6057_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5460,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6058_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5461,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6059_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5462,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6060_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5463,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6061_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5464,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6062_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5465,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6063_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5466,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6064_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5467,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6065_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5468,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6066_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5469,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6067_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5470,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6068_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5471,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6069_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5472,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6070_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5473,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6071_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5474,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6072_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5475,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6073_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5476,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6074_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5477,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6075_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5478,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6076_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5479,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6077_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5480,
+      "section": "Parts",
+      "new": true,
+      "name": "m003700_6078_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5481,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5482,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6001_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5483,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6002_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5484,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6003_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5485,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6004_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5486,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6005_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5487,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6006_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5488,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6007_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5489,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6008_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5490,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6009_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5491,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6010_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5492,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6011_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5493,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6012_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5494,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6013_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5495,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6014_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5496,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6015_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5497,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6016_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5498,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6017_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5499,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6018_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5500,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6019_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5501,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6020_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5502,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6021_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5503,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6022_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5504,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6023_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5505,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6024_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5506,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6025_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5507,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6026_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5508,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6027_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5509,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6028_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5510,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6029_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5511,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6030_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5512,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6031_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5513,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6032_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5514,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6033_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5515,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6034_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5516,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6035_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5517,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6036_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5518,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6037_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5519,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6038_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5520,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6039_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5521,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6040_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5522,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6041_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5523,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6042_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5524,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6043_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5525,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6044_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5526,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6045_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5527,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6046_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5528,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6047_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5529,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6048_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5530,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6049_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5531,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6050_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5532,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6051_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5533,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6052_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5534,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6053_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5535,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6054_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5536,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6055_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5537,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6056_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5538,
+      "section": "Parts",
+      "new": true,
+      "name": "m003710_6057_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5539,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5540,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6001_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5541,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6002_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5542,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6004_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5543,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6005_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5544,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6006_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5545,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6007_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5546,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6008_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5547,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6009_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5548,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6010_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5549,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6011_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5550,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6012_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5551,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6013_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5552,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6014_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5553,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6015_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5554,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6016_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5555,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6017_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5556,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6018_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5557,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6019_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5558,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6020_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5559,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6021_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5560,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6022_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5561,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6024_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5562,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6025_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5563,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6027_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5564,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6028_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5565,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6029_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5566,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6030_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5567,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6031_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5568,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6032_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5569,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6033_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5570,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6034_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5571,
+      "section": "Parts",
+      "new": true,
+      "name": "m003720_6035_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5572,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5573,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6001_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5574,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6003_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5575,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6004_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5576,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6005_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5577,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6006_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5578,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6007_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5579,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6008_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5580,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6009_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5581,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6010_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5582,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6011_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5583,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6012_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5584,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6013_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5585,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6014_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5586,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6015_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5587,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6016_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5588,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6017_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5589,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6018_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5590,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6019_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5591,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6020_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5592,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6021_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5593,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6022_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5594,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6023_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5595,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6024_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5596,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6025_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5597,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6026_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5598,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6027_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5599,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6028_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5600,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6029_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5601,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6030_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5602,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6031_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5603,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6032_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5604,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6033_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5605,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6034_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5606,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6035_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5607,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6036_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5608,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6037_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5609,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6038_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5610,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6039_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5611,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6040_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5612,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6044_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5613,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6045_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5614,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6047_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5615,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6048_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5616,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6050_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5617,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6051_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5618,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6052_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5619,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6053_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5620,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6054_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5621,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6055_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5622,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6056_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5623,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6057_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5624,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6058_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5625,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6060_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5626,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6061_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5627,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6062_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5628,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6063_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5629,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6064_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5630,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6067_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5631,
+      "section": "Parts",
+      "new": true,
+      "name": "m003730_6068_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5632,
+      "section": "Parts",
+      "new": true,
+      "name": "m600000_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5633,
+      "section": "Parts",
+      "new": true,
+      "name": "m600010_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5634,
+      "section": "Parts",
+      "new": true,
+      "name": "m600011_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5635,
+      "section": "Parts",
+      "new": true,
+      "name": "m600050_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5636,
+      "section": "Parts",
+      "new": true,
+      "name": "m600051_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5637,
+      "section": "Parts",
+      "new": true,
+      "name": "m600150_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5638,
+      "section": "Parts",
+      "new": true,
+      "name": "m600151_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5639,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5640,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6003_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5641,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6006_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5642,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6013_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5643,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6016_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5644,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6018_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5645,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6020_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5646,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6023_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5647,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6027_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5648,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6030_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5649,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6032_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5650,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6033_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5651,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6035_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5652,
+      "section": "Parts",
+      "new": true,
+      "name": "m603010_6040_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5653,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5654,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6001_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5655,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6002_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5656,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6003_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5657,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6004_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5658,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6005_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5659,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6006_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5660,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6007_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5661,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6008_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5662,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6009_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5663,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6010_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5664,
+      "section": "Parts",
+      "new": true,
+      "name": "m603011_6011_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5665,
+      "section": "Parts",
+      "new": true,
+      "name": "m603012_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5666,
+      "section": "Parts",
+      "new": true,
+      "name": "m603012_6001_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5667,
+      "section": "Parts",
+      "new": true,
+      "name": "m603012_6002_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5668,
+      "section": "Parts",
+      "new": true,
+      "name": "m603012_6003_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5669,
+      "section": "Parts",
+      "new": true,
+      "name": "m603012_6004_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5670,
+      "section": "Parts",
+      "new": true,
+      "name": "m603012_6005_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5671,
+      "section": "Parts",
+      "new": true,
+      "name": "m603012_6007_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5672,
+      "section": "Parts",
+      "new": true,
+      "name": "m603012_6008_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5673,
+      "section": "Parts",
+      "new": true,
+      "name": "m603013_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5674,
+      "section": "Parts",
+      "new": true,
+      "name": "m603013_6001_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5675,
+      "section": "Parts",
+      "new": true,
+      "name": "m603013_6002_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5676,
+      "section": "Parts",
+      "new": true,
+      "name": "m603013_6003_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5677,
+      "section": "Parts",
+      "new": true,
+      "name": "m603013_6004_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5678,
+      "section": "Parts",
+      "new": true,
+      "name": "m603013_6005_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5679,
+      "section": "Parts",
+      "new": true,
+      "name": "m603013_6006_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5680,
+      "section": "Parts",
+      "new": true,
+      "name": "m603013_6007_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5681,
+      "section": "Parts",
+      "new": true,
+      "name": "m603013_6008_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5682,
+      "section": "Parts",
+      "new": true,
+      "name": "m603013_6009_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5683,
+      "section": "Parts",
+      "new": true,
+      "name": "m603014_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5684,
+      "section": "Parts",
+      "new": true,
+      "name": "m603014_6001_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5685,
+      "section": "Parts",
+      "new": true,
+      "name": "m603014_6002_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5686,
+      "section": "Parts",
+      "new": true,
+      "name": "m603014_6003_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5687,
+      "section": "Parts",
+      "new": true,
+      "name": "m603014_6004_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5688,
+      "section": "Parts",
+      "new": true,
+      "name": "m603014_6005_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5689,
+      "section": "Parts",
+      "new": true,
+      "name": "m603014_6006_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5690,
+      "section": "Parts",
+      "new": true,
+      "name": "m603014_6007_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5691,
+      "section": "Parts",
+      "new": true,
+      "name": "m603014_6008_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5692,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5693,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6001_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5694,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6004_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5695,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6005_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5696,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6007_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5697,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6008_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5698,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6009_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5699,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6012_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5700,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6014_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5701,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6016_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5702,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6018_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5703,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6019_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5704,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6020_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5705,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6024_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5706,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6026_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5707,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6027_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5708,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6030_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5709,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6031_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5710,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6032_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5711,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6033_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5712,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6034_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5713,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6036_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5714,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6037_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5715,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6039_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5716,
+      "section": "Parts",
+      "new": true,
+      "name": "m603020_6040_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5717,
+      "section": "Parts",
+      "new": true,
+      "name": "m603021_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5718,
+      "section": "Parts",
+      "new": true,
+      "name": "m603021_6001_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5719,
+      "section": "Parts",
+      "new": true,
+      "name": "m603021_6002_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5720,
+      "section": "Parts",
+      "new": true,
+      "name": "m603021_6003_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5721,
+      "section": "Parts",
+      "new": true,
+      "name": "m603021_6004_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5722,
+      "section": "Parts",
+      "new": true,
+      "name": "m603021_6005_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5723,
+      "section": "Parts",
+      "new": true,
+      "name": "m603021_6006_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5724,
+      "section": "Parts",
+      "new": true,
+      "name": "m605000_6000_InnerDojo_V5"
+    },
+    {
+      "list": "MapPieces",
+      "index": 5725,
+      "section": "Parts",
+      "new": true,
+      "name": "m612000_6000_InnerDojo_V5"
+    },
+    {
+      "list": "Objects",
+      "index": 1545,
+      "section": "Parts",
+      "new": true,
+      "name": "o101000_6000_InnerDojo_V5"
+    },
+    {
+      "list": "Objects",
+      "index": 1546,
+      "section": "Parts",
+      "new": true,
+      "name": "o108100_6000_InnerDojo_V5"
+    },
+    {
+      "list": "Objects",
+      "index": 1547,
+      "section": "Parts",
+      "new": true,
+      "name": "o109800_6000_InnerDojo_V5"
+    },
+    {
+      "list": "Objects",
+      "index": 1548,
+      "section": "Parts",
+      "new": true,
+      "name": "o109800_6002_InnerDojo_V5"
+    },
+    {
+      "list": "Objects",
+      "index": 1549,
+      "section": "Parts",
+      "new": true,
+      "name": "o109800_6003_InnerDojo_V5"
+    },
+    {
+      "list": "Objects",
+      "index": 1550,
+      "section": "Parts",
+      "new": true,
+      "name": "o109910_6000_InnerDojo_V5"
+    },
+    {
+      "list": "Objects",
+      "index": 1551,
+      "section": "Parts",
+      "new": true,
+      "name": "o109920_6000_InnerDojo_V5"
+    },
+    {
+      "list": "Objects",
+      "index": 1552,
+      "section": "Parts",
+      "new": true,
+      "name": "o109930_6000_InnerDojo_V5"
+    },
+    {
+      "list": "Objects",
+      "index": 1553,
+      "section": "Parts",
+      "new": true,
+      "name": "o005000_0006_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 240,
+      "section": "Parts",
+      "new": true,
+      "name": "c1001_0009_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 241,
+      "section": "Parts",
+      "new": true,
+      "name": "c1191_InnerDojo_Shirafuji_REAL_VANILLA106_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 242,
+      "section": "Parts",
+      "new": true,
+      "name": "c1191_InnerDojo_Shirafuji_SELECTOR_SAFE_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 243,
+      "section": "Parts",
+      "new": true,
+      "name": "c1070_InnerDojo_Juzou_Hirata_REAL_TEST001_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 244,
+      "section": "Parts",
+      "new": true,
+      "name": "c1070_InnerDojo_Juzou_Hirata_SELECTOR_TEST001_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 245,
+      "section": "Parts",
+      "new": true,
+      "name": "c1020_InnerDojo_Matsumoto_REAL_TEST001_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 246,
+      "section": "Parts",
+      "new": true,
+      "name": "c1020_InnerDojo_Matsumoto_SELECTOR_TEST001_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 247,
+      "section": "Parts",
+      "new": true,
+      "name": "c1020_InnerDojo_Kodou_REAL_TEST001_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 248,
+      "section": "Parts",
+      "new": true,
+      "name": "c1020_InnerDojo_Kodou_SELECTOR_TEST001_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 249,
+      "section": "Parts",
+      "new": true,
+      "name": "c1400_InnerDojo_Itousai_REAL_TEST002_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 250,
+      "section": "Parts",
+      "new": true,
+      "name": "c1400_InnerDojo_Itousai_SELECTOR_TEST002_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 251,
+      "section": "Parts",
+      "new": true,
+      "name": "c1310_InnerDojo_Skanda_REAL_TEST003_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 252,
+      "section": "Parts",
+      "new": true,
+      "name": "c1310_InnerDojo_Skanda_SELECTOR_TEST003_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 253,
+      "section": "Parts",
+      "new": true,
+      "name": "c1050_InnerDojo_Sila_REAL_TEST004_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 254,
+      "section": "Parts",
+      "new": true,
+      "name": "c1050_InnerDojo_Sila_SELECTOR_TEST004_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 255,
+      "section": "Parts",
+      "new": true,
+      "name": "c1060_InnerDojo_Vajra_REAL_TEST005_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 256,
+      "section": "Parts",
+      "new": true,
+      "name": "c1060_InnerDojo_Vajra_SELECTOR_TEST005_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 257,
+      "section": "Parts",
+      "new": true,
+      "name": "c1310_InnerDojo_Karma_REAL_TEST006_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 258,
+      "section": "Parts",
+      "new": true,
+      "name": "c1310_InnerDojo_Karma_SELECTOR_TEST006_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 259,
+      "section": "Parts",
+      "new": true,
+      "name": "c1021_InnerDojo_Hirachika_REAL_TEST007_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 260,
+      "section": "Parts",
+      "new": true,
+      "name": "c1021_InnerDojo_Hirachika_SELECTOR_TEST007_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 261,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Ryuya_REAL_TEST008_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 262,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Ryuya_SELECTOR_TEST008_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 263,
+      "section": "Parts",
+      "new": true,
+      "name": "c1700_InnerDojo_Asakura_REAL_TEST008_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 264,
+      "section": "Parts",
+      "new": true,
+      "name": "c1700_InnerDojo_Asakura_SELECTOR_TEST008_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 265,
+      "section": "Parts",
+      "new": true,
+      "name": "c1350_InnerDojo_SadisticHeadless_REAL_TEST010_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 266,
+      "section": "Parts",
+      "new": true,
+      "name": "c1350_InnerDojo_SadisticHeadless_SELECTOR_TEST010_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 267,
+      "section": "Parts",
+      "new": true,
+      "name": "c7400_InnerDojo_Oboro_REAL_TEST011_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 268,
+      "section": "Parts",
+      "new": true,
+      "name": "c7400_InnerDojo_Oboro_SELECTOR_TEST011_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 269,
+      "section": "Parts",
+      "new": true,
+      "name": "c7400_InnerDojo_Oboro_PHASE2_TEST011_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 270,
+      "section": "Parts",
+      "new": true,
+      "name": "c1070_InnerDojo_Terukuni_REAL_TEST012_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 271,
+      "section": "Parts",
+      "new": true,
+      "name": "c1070_InnerDojo_Terukuni_SELECTOR_TEST012_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 272,
+      "section": "Parts",
+      "new": true,
+      "name": "c1400_InnerDojo_Ujinari_REAL_TEST014_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 273,
+      "section": "Parts",
+      "new": true,
+      "name": "c1400_InnerDojo_Ujinari_SELECTOR_TEST014_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 274,
+      "section": "Parts",
+      "new": true,
+      "name": "c7000_InnerDojo_Yukari_REAL_TEST015_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 275,
+      "section": "Parts",
+      "new": true,
+      "name": "c7000_InnerDojo_Yukari_SELECTOR_TEST015_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 276,
+      "section": "Parts",
+      "new": true,
+      "name": "c5060_InnerDojo_Usui_REAL_TEST016_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 277,
+      "section": "Parts",
+      "new": true,
+      "name": "c5060_InnerDojo_Usui_SELECTOR_TEST016_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 278,
+      "section": "Parts",
+      "new": true,
+      "name": "c1700_InnerDojo_Sato_REAL_TEST017_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 279,
+      "section": "Parts",
+      "new": true,
+      "name": "c1700_InnerDojo_Sato_SELECTOR_TEST017_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 280,
+      "section": "Parts",
+      "new": true,
+      "name": "c1191_InnerDojo_Kohaku_REAL_TEST018_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 281,
+      "section": "Parts",
+      "new": true,
+      "name": "c1191_InnerDojo_Kohaku_SELECTOR_TEST018_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 282,
+      "section": "Parts",
+      "new": true,
+      "name": "c1060_InnerDojo_Maheshvara_REAL_TEST019_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 283,
+      "section": "Parts",
+      "new": true,
+      "name": "c1060_InnerDojo_Maheshvara_SELECTOR_TEST019_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 284,
+      "section": "Parts",
+      "new": true,
+      "name": "c1060_InnerDojo_Vajrabhairava_REAL_TEST019_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 285,
+      "section": "Parts",
+      "new": true,
+      "name": "c1060_InnerDojo_Vajrabhairava_SELECTOR_TEST019_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 286,
+      "section": "Parts",
+      "new": true,
+      "name": "c1050_InnerDojo_Kokujou_REAL_TEST020_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 287,
+      "section": "Parts",
+      "new": true,
+      "name": "c1050_InnerDojo_Kokujou_SELECTOR_TEST020_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 288,
+      "section": "Parts",
+      "new": true,
+      "name": "c1180_InnerDojo_Jizo_REAL_TEST020_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 289,
+      "section": "Parts",
+      "new": true,
+      "name": "c1180_InnerDojo_Jizo_SELECTOR_TEST020_InnerDojo_V5"
+    },
+    {
+      "list": "Enemies",
+      "index": 290,
+      "section": "Parts",
+      "new": true,
+      "name": "c7110_InnerDojo_Seigen_REAL_V13"
+    },
+    {
+      "list": "Enemies",
+      "index": 291,
+      "section": "Parts",
+      "new": true,
+      "name": "c7110_InnerDojo_Seigen_SELECTOR_V13"
+    },
+    {
+      "list": "Enemies",
+      "index": 292,
+      "section": "Parts",
+      "new": true,
+      "name": "c1361_InnerDojo_Enenra_REAL_V13"
+    },
+    {
+      "list": "Enemies",
+      "index": 293,
+      "section": "Parts",
+      "new": true,
+      "name": "c1361_InnerDojo_Enenra_SELECTOR_V13"
+    },
+    {
+      "list": "Enemies",
+      "index": 294,
+      "section": "Parts",
+      "new": true,
+      "name": "c1310_InnerDojo_Arashi_REAL_V14"
+    },
+    {
+      "list": "Enemies",
+      "index": 295,
+      "section": "Parts",
+      "new": true,
+      "name": "c1310_InnerDojo_Arashi_SELECTOR_V14"
+    },
+    {
+      "list": "Enemies",
+      "index": 296,
+      "section": "Parts",
+      "new": true,
+      "name": "c5020_InnerDojo_Padma_REAL_V14"
+    },
+    {
+      "list": "Enemies",
+      "index": 297,
+      "section": "Parts",
+      "new": true,
+      "name": "c5020_InnerDojo_Padma_SELECTOR_V14"
+    },
+    {
+      "list": "Enemies",
+      "index": 298,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Masaomi_REAL_V15"
+    },
+    {
+      "list": "Enemies",
+      "index": 299,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Masaomi_SELECTOR_V15"
+    },
+    {
+      "list": "Enemies",
+      "index": 300,
+      "section": "Parts",
+      "new": true,
+      "name": "c1070_InnerDojo_Juzaemon_REAL_V15"
+    },
+    {
+      "list": "Enemies",
+      "index": 301,
+      "section": "Parts",
+      "new": true,
+      "name": "c1070_InnerDojo_Juzaemon_SELECTOR_V15"
+    },
+    {
+      "list": "Enemies",
+      "index": 302,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Masatake_REAL_V16"
+    },
+    {
+      "list": "Enemies",
+      "index": 303,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Masatake_SELECTOR_V16"
+    },
+    {
+      "list": "Enemies",
+      "index": 304,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Hisaya_REAL_V16"
+    },
+    {
+      "list": "Enemies",
+      "index": 305,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Hisaya_SELECTOR_V16"
+    },
+    {
+      "list": "Enemies",
+      "index": 306,
+      "section": "Parts",
+      "new": true,
+      "name": "c1150_InnerDojo_HisayaHelper1_V16"
+    },
+    {
+      "list": "Enemies",
+      "index": 307,
+      "section": "Parts",
+      "new": true,
+      "name": "c1150_InnerDojo_HisayaHelper2_V16"
+    },
+    {
+      "list": "Enemies",
+      "index": 308,
+      "section": "Parts",
+      "new": true,
+      "name": "c1150_InnerDojo_HisayaHelper3_V16"
+    },
+    {
+      "list": "Enemies",
+      "index": 309,
+      "section": "Parts",
+      "new": true,
+      "name": "c1150_InnerDojo_HisayaHelper4_V16"
+    },
+    {
+      "list": "Enemies",
+      "index": 310,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Gennosuke_REAL_V17"
+    },
+    {
+      "list": "Enemies",
+      "index": 311,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Gennosuke_SELECTOR_V17"
+    },
+    {
+      "list": "Enemies",
+      "index": 312,
+      "section": "Parts",
+      "new": true,
+      "name": "c1180_InnerDojo_ForestSeries_REAL_V17"
+    },
+    {
+      "list": "Enemies",
+      "index": 313,
+      "section": "Parts",
+      "new": true,
+      "name": "c1180_InnerDojo_ForestSeries_SELECTOR_V17"
+    },
+    {
+      "list": "Enemies",
+      "index": 314,
+      "section": "Parts",
+      "new": true,
+      "name": "c1070_InnerDojo_Fuki_V17"
+    },
+    {
+      "list": "Enemies",
+      "index": 315,
+      "section": "Parts",
+      "new": true,
+      "name": "c7000_InnerDojo_Suiki_V17"
+    },
+    {
+      "list": "Enemies",
+      "index": 316,
+      "section": "Parts",
+      "new": true,
+      "name": "c1450_InnerDojo_Ongyoki_V17"
+    },
+    {
+      "list": "Enemies",
+      "index": 317,
+      "section": "Parts",
+      "new": true,
+      "name": "c1310_InnerDojo_Sagara_REAL_V18"
+    },
+    {
+      "list": "Enemies",
+      "index": 318,
+      "section": "Parts",
+      "new": true,
+      "name": "c1310_InnerDojo_Sagara_SELECTOR_V18"
+    },
+    {
+      "list": "Enemies",
+      "index": 319,
+      "section": "Parts",
+      "new": true,
+      "name": "c1070_InnerDojo_Kakuryo_REAL_V18"
+    },
+    {
+      "list": "Enemies",
+      "index": 320,
+      "section": "Parts",
+      "new": true,
+      "name": "c1070_InnerDojo_Kakuryo_SELECTOR_V18"
+    },
+    {
+      "list": "Enemies",
+      "index": 321,
+      "section": "Parts",
+      "new": true,
+      "name": "c1021_InnerDojo_Tamura_REAL_V19"
+    },
+    {
+      "list": "Enemies",
+      "index": 322,
+      "section": "Parts",
+      "new": true,
+      "name": "c1021_InnerDojo_Tamura_SELECTOR_V19"
+    },
+    {
+      "list": "Enemies",
+      "index": 323,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Tarao_REAL_V19"
+    },
+    {
+      "list": "Enemies",
+      "index": 324,
+      "section": "Parts",
+      "new": true,
+      "name": "c1470_InnerDojo_Tarao_SELECTOR_V19"
+    },
+    {
+      "list": "Enemies",
+      "index": 325,
+      "section": "Parts",
+      "new": true,
+      "name": "c1360_InnerDojo_Kidomaru_REAL_V20"
+    },
+    {
+      "list": "Enemies",
+      "index": 326,
+      "section": "Parts",
+      "new": true,
+      "name": "c1360_InnerDojo_Kidomaru_SELECTOR_V20"
+    },
+    {
+      "list": "Enemies",
+      "index": 327,
+      "section": "Parts",
+      "new": true,
+      "name": "c1700_InnerDojo_Aimonoya_REAL_V20"
+    },
+    {
+      "list": "Enemies",
+      "index": 328,
+      "section": "Parts",
+      "new": true,
+      "name": "c1700_InnerDojo_Aimonoya_SELECTOR_V20"
+    },
+    {
+      "list": "Collisions",
+      "index": 144,
+      "section": "Parts",
+      "new": true,
+      "name": "h016000_InnerDojo_V6"
+    },
+    {
+      "list": "Collisions",
+      "index": 145,
+      "section": "Parts",
+      "new": true,
+      "name": "h016100_InnerDojo_V6"
+    },
+    {
+      "list": "Collisions",
+      "index": 146,
+      "section": "Parts",
+      "new": true,
+      "name": "h016200_InnerDojo_V6"
+    }
+  ]
+}

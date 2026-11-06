@@ -1,0 +1,267 @@
+[
+  {
+    "hardcoreEvents": 1518,
+    "noobEvents": 1515,
+    "file": "common.emevd.dcx",
+    "changed": [
+      {
+        "added": false,
+        "id": 0
+      },
+      {
+        "added": false,
+        "id": 11701021
+      },
+      {
+        "added": false,
+        "id": 11701036
+      },
+      {
+        "added": true,
+        "id": 11701045
+      },
+      {
+        "added": true,
+        "id": 11701047
+      },
+      {
+        "added": true,
+        "id": 11701048
+      },
+      {
+        "added": false,
+        "id": 11701131
+      },
+      {
+        "added": false,
+        "id": 11701132
+      },
+      {
+        "added": false,
+        "id": 11701133
+      },
+      {
+        "added": false,
+        "id": 11701134
+      }
+    ]
+  },
+  {
+    "hardcoreEvents": 533,
+    "noobEvents": 510,
+    "file": "m10_00_00_00.emevd.dcx",
+    "changed": [
+      {
+        "added": false,
+        "id": 0
+      },
+      {
+        "added": true,
+        "id": 33006829
+      },
+      {
+        "added": false,
+        "id": 33006830
+      },
+      {
+        "added": true,
+        "id": 33006833
+      },
+      {
+        "added": true,
+        "id": 33006834
+      },
+      {
+        "added": true,
+        "id": 33006835
+      },
+      {
+        "added": true,
+        "id": 33006838
+      },
+      {
+        "added": true,
+        "id": 33006839
+      },
+      {
+        "added": false,
+        "id": 33006851
+      },
+      {
+        "added": true,
+        "id": 33006862
+      },
+      {
+        "added": true,
+        "id": 33006863
+      },
+      {
+        "added": true,
+        "id": 33006865
+      },
+      {
+        "added": true,
+        "id": 33006866
+      },
+      {
+        "added": true,
+        "id": 33006867
+      },
+      {
+        "added": true,
+        "id": 33006870
+      },
+      {
+        "added": true,
+        "id": 33006871
+      },
+      {
+        "added": true,
+        "id": 33006874
+      },
+      {
+        "added": true,
+        "id": 33006875
+      },
+      {
+        "added": true,
+        "id": 33006876
+      },
+      {
+        "added": true,
+        "id": 33006877
+      },
+      {
+        "added": false,
+        "id": 33006881
+      },
+      {
+        "added": true,
+        "id": 33449100
+      },
+      {
+        "added": true,
+        "id": 33449101
+      },
+      {
+        "added": true,
+        "id": 33449102
+      },
+      {
+        "added": true,
+        "id": 33449103
+      },
+      {
+        "added": true,
+        "id": 33449160
+      },
+      {
+        "added": true,
+        "id": 33449161
+      }
+    ]
+  },
+  {
+    "hardcoreEvents": 1741,
+    "noobEvents": 1741,
+    "file": "m13_00_00_00.emevd.dcx",
+    "changed": [
+      {
+        "added": false,
+        "id": 11447698
+      },
+      {
+        "added": false,
+        "id": 11447993
+      },
+      {
+        "added": false,
+        "id": 11447994
+      }
+    ]
+  },
+  {
+    "hardcoreEvents": 742,
+    "noobEvents": 742,
+    "file": "m15_00_00_00.emevd.dcx",
+    "changed": [
+      {
+        "added": false,
+        "id": 11520990
+      },
+      {
+        "added": false,
+        "id": 11520991
+      }
+    ]
+  },
+  {
+    "hardcoreEvents": 781,
+    "noobEvents": 781,
+    "file": "m17_00_00_00.emevd.dcx",
+    "changed": [
+      {
+        "added": false,
+        "id": 11562411
+      },
+      {
+        "added": false,
+        "id": 11562412
+      },
+      {
+        "added": false,
+        "id": 11562413
+      },
+      {
+        "added": false,
+        "id": 11562414
+      },
+      {
+        "added": false,
+        "id": 11562415
+      },
+      {
+        "added": false,
+        "id": 11562416
+      },
+      {
+        "added": false,
+        "id": 11562417
+      }
+    ]
+  },
+  {
+    "hardcoreEvents": 1001,
+    "noobEvents": 1000,
+    "file": "m20_00_00_00.emevd.dcx",
+    "changed": [
+      {
+        "added": false,
+        "id": 0
+      },
+      {
+        "added": false,
+        "id": 18512370
+      },
+      {
+        "added": true,
+        "id": 18512371
+      }
+    ]
+  },
+  {
+    "hardcoreEvents": 475,
+    "noobEvents": 475,
+    "file": "m25_00_00_00.emevd.dcx",
+    "changed": [
+      {
+        "added": false,
+        "id": 11504504
+      },
+      {
+        "added": false,
+        "id": 11504505
+      }
+    ]
+  }
+]

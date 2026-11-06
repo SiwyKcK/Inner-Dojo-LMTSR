@@ -1,0 +1,55 @@
+{
+  "gameWritten": false,
+  "otherDojoFilesUnchanged": [
+    "event\\m10_00_00_00.emevd.dcx",
+    "event\\m10_00_50_91.emevd.dcx",
+    "map\\m10_00_00_00\\m10_00_00_00.nva.dcx",
+    "map\\m10_00_00_00\\m10_00_00_00.nvmhktbnd.dcx",
+    "map\\mapstudio\\m10_00_00_00.msb.dcx",
+    "menu\\02_205_bossselect.gfx",
+    "menu\\hi\\menu_boss_11490.tpf.dcx",
+    "msg\\jpnjp\\item.msgbnd.dcx",
+    "msg\\jpnjp\\menu.msgbnd.dcx",
+    "msg\\zhocn\\item.msgbnd.dcx",
+    "msg\\zhocn\\menu.msgbnd.dcx",
+    "msg\\zhotw\\item.msgbnd.dcx",
+    "msg\\zhotw\\menu.msgbnd.dcx",
+    "script\\m10_00_00_00.luabnd.dcx"
+  ],
+  "privateNpcRowAbsent": true,
+  "newRows": 623,
+  "privateWellActorAbsent": true,
+  "authorAndDojoTextsVerified": true,
+  "butterflyDurations": [
+    {
+      "id": 51413,
+      "seconds": 24.0
+    },
+    {
+      "id": 51414,
+      "seconds": 24.0
+    }
+  ],
+  "originalSfxRetained": true,
+  "existingEditedRowCellsChecked": 8022,
+  "authorSfxVerified": true,
+  "status": "STATIC_READBACK_PASS",
+  "privateActivationEventAbsent": true,
+  "paramChangedTables": [
+    "ActionUnlockParam",
+    "AtkParam_Npc",
+    "AtkParam_Pc",
+    "BehaviorParam_PC",
+    "Bullet",
+    "ChrPhysicsVelocityChangeParam",
+    "EquipParamGoods",
+    "EquipParamWeapon",
+    "ShopLineupParam",
+    "SpEffectParam",
+    "SpEffectVfxParam",
+    "WireVariationParam"
+  ],
+  "editedCells": 49,
+  "existingParamRowsChecked": 19628,
+  "runtime": "NOT_TESTED_IN_GAME"
+}

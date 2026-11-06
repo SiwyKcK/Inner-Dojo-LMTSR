@@ -1,0 +1,310 @@
+{
+  "newExplicitEntityIDs": 284,
+  "combatants": [
+    {
+      "think": 10700000,
+      "key": "Juzou",
+      "actor": 1010800,
+      "npc": 10700000,
+      "healthBars": 3
+    },
+    {
+      "think": 11900102,
+      "key": "Shirafuji",
+      "actor": 1010804,
+      "npc": 11910000,
+      "healthBars": 3
+    },
+    {
+      "think": 10203100,
+      "key": "Matsumoto",
+      "actor": 1010808,
+      "npc": 10202000,
+      "healthBars": 3
+    },
+    {
+      "think": 10200010,
+      "key": "Kodou",
+      "actor": 1010812,
+      "npc": 10200015,
+      "healthBars": 3
+    },
+    {
+      "think": 14000020,
+      "key": "Itousai",
+      "actor": 1010816,
+      "npc": 14004500,
+      "healthBars": 3
+    },
+    {
+      "think": 13100000,
+      "key": "Skanda",
+      "actor": 1010820,
+      "npc": 13100288,
+      "healthBars": 3
+    },
+    {
+      "think": 10500000,
+      "key": "Sila",
+      "actor": 1010824,
+      "npc": 10507600,
+      "healthBars": 3
+    },
+    {
+      "think": 10601000,
+      "key": "Vajra",
+      "actor": 1010828,
+      "npc": 10600070,
+      "healthBars": 3
+    },
+    {
+      "think": 13100000,
+      "key": "Karma",
+      "actor": 1010832,
+      "npc": 13100277,
+      "healthBars": 3
+    },
+    {
+      "think": 10204000,
+      "key": "Hirachika",
+      "actor": 1010840,
+      "npc": 10210005,
+      "healthBars": 3
+    },
+    {
+      "think": 14701002,
+      "key": "Ryuya",
+      "actor": 1010844,
+      "npc": 14701014,
+      "healthBars": 3
+    },
+    {
+      "think": 17000100,
+      "key": "Asakura",
+      "actor": 1010848,
+      "npc": 17009543,
+      "healthBars": 3
+    },
+    {
+      "think": 13500000,
+      "key": "Headless",
+      "actor": 1010852,
+      "npc": 13505000,
+      "healthBars": 3
+    },
+    {
+      "think": 74000005,
+      "key": "Oboro",
+      "actor": 1010856,
+      "npc": 74002000,
+      "healthBars": 3
+    },
+    {
+      "think": 10700000,
+      "key": "Terukuni",
+      "actor": 1010862,
+      "npc": 10701700,
+      "healthBars": 3
+    },
+    {
+      "think": 14000200,
+      "key": "Ujinari",
+      "actor": 1010866,
+      "npc": 14004200,
+      "healthBars": 3
+    },
+    {
+      "think": 70009000,
+      "key": "Yukari",
+      "actor": 1010870,
+      "npc": 70009092,
+      "healthBars": 3
+    },
+    {
+      "think": 50630000,
+      "key": "Usui",
+      "actor": 1010874,
+      "npc": 50605000,
+      "healthBars": 3
+    },
+    {
+      "think": 17000000,
+      "key": "Sato",
+      "actor": 1010878,
+      "npc": 17000017,
+      "healthBars": 3
+    },
+    {
+      "think": 11900102,
+      "key": "Kohaku",
+      "actor": 1010882,
+      "npc": 11910005,
+      "healthBars": 3
+    },
+    {
+      "think": 10601000,
+      "key": "Maheshvara",
+      "actor": 1010886,
+      "npc": 10600075,
+      "healthBars": 3
+    },
+    {
+      "think": 10600000,
+      "key": "Vajrabhairava",
+      "actor": 1010890,
+      "npc": 10600085,
+      "healthBars": 3
+    },
+    {
+      "think": 10500000,
+      "key": "Kokujou",
+      "actor": 1010894,
+      "npc": 10505005,
+      "healthBars": 3
+    },
+    {
+      "think": 11800200,
+      "key": "Jizo",
+      "actor": 1010898,
+      "npc": 11801500,
+      "healthBars": 3
+    },
+    {
+      "think": 71130000,
+      "key": "Seigen",
+      "actor": 1010902,
+      "npc": 71105000,
+      "healthBars": 4
+    },
+    {
+      "think": 13600003,
+      "key": "Enenra",
+      "actor": 1010906,
+      "npc": 13611001,
+      "healthBars": 3
+    },
+    {
+      "think": 13100200,
+      "key": "Arashi",
+      "actor": 1010910,
+      "npc": 13100205,
+      "healthBars": 3
+    },
+    {
+      "think": 50200010,
+      "key": "Padma",
+      "actor": 1010914,
+      "npc": 50201700,
+      "healthBars": 3
+    },
+    {
+      "think": 14700003,
+      "key": "Masaomi",
+      "actor": 1010918,
+      "npc": 14701009,
+      "healthBars": 3
+    },
+    {
+      "think": 10700000,
+      "key": "Juzaemon",
+      "actor": 1010922,
+      "npc": 10701500,
+      "healthBars": 3
+    },
+    {
+      "think": 14700003,
+      "key": "Masatake",
+      "actor": 1010926,
+      "npc": 14701915,
+      "healthBars": 3
+    },
+    {
+      "think": 14701000,
+      "key": "Hisaya",
+      "actor": 1010930,
+      "npc": 14701918,
+      "healthBars": 3
+    },
+    {
+      "think": 14701000,
+      "key": "Gennosuke",
+      "actor": 1010938,
+      "npc": 14707700,
+      "healthBars": 3
+    },
+    {
+      "think": 11800100,
+      "key": "Kinki",
+      "actor": 1010942,
+      "npc": 11803600,
+      "healthBars": 2
+    },
+    {
+      "think": 10700000,
+      "key": "Fuki",
+      "actor": 1010944,
+      "npc": 10706000,
+      "healthBars": 2
+    },
+    {
+      "think": 70009000,
+      "key": "Suiki",
+      "actor": 1010946,
+      "npc": 70009500,
+      "healthBars": 2
+    },
+    {
+      "think": 14500000,
+      "key": "Ongyoki",
+      "actor": 1010948,
+      "npc": 14505700,
+      "healthBars": 2
+    },
+    {
+      "think": 13100000,
+      "key": "Sagara",
+      "actor": 1010960,
+      "npc": 13102700,
+      "healthBars": 3
+    },
+    {
+      "think": 10700000,
+      "key": "Kakuryo",
+      "actor": 1010964,
+      "npc": 10707000,
+      "healthBars": 3
+    },
+    {
+      "think": 10204001,
+      "key": "Tamura",
+      "actor": 1010968,
+      "npc": 10218800,
+      "healthBars": 3
+    },
+    {
+      "think": 14701000,
+      "key": "Tarao",
+      "actor": 1010972,
+      "npc": 14708800,
+      "healthBars": 3
+    },
+    {
+      "think": 13600002,
+      "key": "Kidomaru",
+      "actor": 1010976,
+      "npc": 13609700,
+      "healthBars": 3
+    },
+    {
+      "think": 17000100,
+      "key": "Aimonoya",
+      "actor": 1010980,
+      "npc": 17008850,
+      "healthBars": 3
+    }
+  ],
+  "status": "PASS",
+  "introducedEntityCollisions": [],
+  "scope": "MSB explicit EntityIDs against original Hardcore and within additions; all roster NPC/Think references exist",
+  "originalMapEntriesPreserved": 9946
+}

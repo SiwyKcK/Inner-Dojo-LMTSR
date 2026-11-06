@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-24",
+  "requiredMod": "Original LMTSR Hardcore20.43",
+  "archivePath": "E:/PRACA AI CAŁY FOLDER/SEKIRO/VANILLA_WORKFILES_BASE/Nowy folder/Sekiro Long May the Shadows Reflect Mod Hardcore-603-20-43-1720288046.rar",
+  "archiveSHA256": "96A51C6A2EFB7B69A3A19BE88796D4A6C83B25D60CF080CD28D663C31A465D3A",
+  "archiveBytes": 588697623,
+  "nexus": "https://www.nexusmods.com/sekiro/mods/603?tab=files",
+  "nexusHardcoreVersion": "20.43",
+  "nexusHardcoreUpload": "2024-07-06 17:47 (as displayed on Nexus)",
+  "scope": "Pure Hardcore plus Inner Dojo; no LoneWolf, HKS, Enma, bomb or no-grass patch",
+  "historicalDojoLineage": "V20 R4; two source Hardcore Arashi health-bar thresholds adapted",
+  "runtime": "NOT_TESTED_ON_CLEAN_HARDCORE"
+}

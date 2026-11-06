@@ -1,0 +1,24 @@
+{
+  "modFiles": 17,
+  "param": {
+    "otherBinderMembersUnchanged": true,
+    "addedRows": 44,
+    "allOriginalRowsUnchanged": true,
+    "tables": [
+      "ActionButtonParam",
+      "EquipParamGoods",
+      "RematchWarpParam"
+    ]
+  },
+  "runtime": "NOT_TESTED_ON_CLEAN_HARDCORE",
+  "worldChangedEvents": [
+    50
+  ],
+  "unrelatedTextUnchanged": true,
+  "gameWritten": false,
+  "dojoR4PlusHardcoreArashi": true,
+  "worldAddedEvent": 11011983,
+  "saveWritten": false,
+  "textChanges": 193,
+  "status": "STATIC_READBACK_PASS"
+}

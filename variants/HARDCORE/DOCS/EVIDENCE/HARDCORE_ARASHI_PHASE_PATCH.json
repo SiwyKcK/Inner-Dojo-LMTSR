@@ -1,0 +1,24 @@
+[
+  {
+    "event": 11012202,
+    "instruction": 4,
+    "field": "Target Number of Health Bars",
+    "old": 1,
+    "new": 2,
+    "oldHex": "01000000DE6C0F000000000001000000000000000000803F",
+    "newHex": "01000000DE6C0F000000000002000000000000000000803F",
+    "sourceMap": "m25_00_00_00",
+    "sourceEvent": 11504504
+  },
+  {
+    "event": 11012203,
+    "instruction": 4,
+    "field": "Target Number of Health Bars",
+    "old": 2,
+    "new": 3,
+    "oldHex": "01000000DE6C0F000000000002000000000000000000803F",
+    "newHex": "01000000DE6C0F000000000003000000000000000000803F",
+    "sourceMap": "m25_00_00_00",
+    "sourceEvent": 11504505
+  }
+]

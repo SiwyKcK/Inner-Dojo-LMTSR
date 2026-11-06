@@ -1,0 +1,1268 @@
+[
+  {
+    "entries": [
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Boss.layout",
+        "sha": "6E025E109BF4F007CF96983855FC2A2506D7C14C4E589E565B13E12BF4C41F91",
+        "id": 0
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Boss_02.layout",
+        "sha": "E5E40CDFFC281712A9440A014212CBEE0233939B70820A495A99122496C4CA18",
+        "id": 1
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Brightness.layout",
+        "sha": "8B8F53DE0F5E0EF0F35D032B1640CD0EB1B2C6604A0E867866BE1BA4C5F3B38D",
+        "id": 2
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Destruct.layout",
+        "sha": "1FE12FD648F08307B72B7C0B994914F114A9FDF248F03AE9D6CE70C7AABE4A4B",
+        "id": 3
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Destruct_02.layout",
+        "sha": "EA76CD3733A4690997376C1FFAFCF4C57BD3455B953719DD5F60402CBA08813A",
+        "id": 4
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Dialog.layout",
+        "sha": "BCA1C7C5F2BCE840126120C804CA357386D17BCE4BA813F80EDF60F14214FAB6",
+        "id": 5
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Dying.layout",
+        "sha": "121CBC220BD4FCADBE9CB8B8DA3F65F97D59F61A3DA0C80D11C9164E66742E96",
+        "id": 6
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_FE.layout",
+        "sha": "25204614C4634C4FA3B214A3BE513A38D7A8A6772ED88901AD1A20905560DD28",
+        "id": 7
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_FE_02.layout",
+        "sha": "FB72885BEBA56CFFBA5BE18DC08D4018232F8B4CCECE29B6475377936DE3DFAE",
+        "id": 8
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon.layout",
+        "sha": "7520ED72F83283848C79D02647A901CAD9CA592A18329345E17B78098FFD66B4",
+        "id": 9
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_02.layout",
+        "sha": "0EBFB3AC7BC4920B6A2EB5E09CEB39E69EDFD0CAF065D2191201FD43AFDB125A",
+        "id": 10
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_03.layout",
+        "sha": "722D686413BE61E1F6E93605260882D52AB568DF6B85852BC2F6EB9D52CCA1BE",
+        "id": 11
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_04.layout",
+        "sha": "997F20CEC607420EBFC017E6F48A70A237A88C1FBF129E9A7A1A5846E354E679",
+        "id": 12
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_Skill.layout",
+        "sha": "56B181CF7F4DA67EEE282413DD5BA786749CDB3EE1475AE60A54AD1EC1DB190C",
+        "id": 13
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_Skill_02.layout",
+        "sha": "77B727F8E183FF5C996801399F0A4729E8209F985004F2C663D1C47B48E62F35",
+        "id": 14
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_In_Game.layout",
+        "sha": "27E47826B1B1532417DDE99478934F6D3AD0CA600446DD204A1D84D77B05F58E",
+        "id": 15
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KeyTop.layout",
+        "sha": "4A5D7EA9C287238B548A2030E5CF673AF8330F41F1C16B2B1423E5327DC31B10",
+        "id": 16
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KeyTop_02.layout",
+        "sha": "DE8D1DE8DB09C32B8CE7BA80903FC94DFB62D086D27DC155D7CB615003004AFD",
+        "id": 17
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG.layout",
+        "sha": "4531115336EF947B8A0DC2045985C6E2A8844A7F9BA401223B47957455F7B4BF",
+        "id": 18
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG_02.layout",
+        "sha": "AF1A75825C1CF167D8A6BAC40FE59E8374E9CDC62B10C129FCC4E923599B95EA",
+        "id": 19
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG_Big.layout",
+        "sha": "9C550082F6CC49EAF9B747F332D1E00E313FC4084F58BECCFE8773FB888CF273",
+        "id": 20
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG_Big_02.layout",
+        "sha": "59D8C67DA300F1AAD22816CEF2AC12A4B80914B8E4BE59EAA0F4330DA120D7BC",
+        "id": 21
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Loading.layout",
+        "sha": "8D24097A4EC59BC88FEC4403C97811E43D67024551040927C53F72EC82A18A34",
+        "id": 22
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Map.layout",
+        "sha": "95A6A42A49FC7AA0D6AEF01081F8D685D01D72767F25B888B6C3252C177E2D4E",
+        "id": 23
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Map_02.layout",
+        "sha": "77D6300330E7B5E045A8A4D808939A6ABA9C0E700FD9AB4B38E454FD5054C009",
+        "id": 24
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating.layout",
+        "sha": "C0861A3B2957E122DDBEBE900C8346604902CF6E4540F2EF8E8B2338CB40D8BD",
+        "id": 25
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating_02.layout",
+        "sha": "92DD0958CAA62099074A17FFB7EF505FA82E2FD647105A8BBAA27555D0C0651B",
+        "id": 26
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating_03.layout",
+        "sha": "44CD1C11EB1AF47E91333A3D21693898FFAB779229D63E0BF1F72F3D18B654A2",
+        "id": 27
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating_04.layout",
+        "sha": "37792E1EEEAC7E189B94293EC38731A652BD8127B391E1EAB7551C7CB3A76FFD",
+        "id": 28
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Remodeling.layout",
+        "sha": "85233A635546F983FB797A902EC4188EB7B3E232B548F963603E052A57475E34",
+        "id": 29
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Remodeling_02.layout",
+        "sha": "3A0377AA1940F42170BEB54CE5A28005910D499D6300810B2771962856F9E350",
+        "id": 30
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_SaveIcon.layout",
+        "sha": "00EC2314064128DEE07319A3A5F812F0BC943CB00BCB87A2070A4D91F6D51191",
+        "id": 31
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Skill.layout",
+        "sha": "919113D7A68FE2B84123E0752589CF59C9CCB0DAEBA334CC04B563BAAC2DD16C",
+        "id": 32
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Skill_02.layout",
+        "sha": "AE93D3C34AB7D2DBF27A3618EDE5DC8F84AABB0595245866DC760E718A24AFAF",
+        "id": 33
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Status.layout",
+        "sha": "333FF844A9DCB3E17896528E4F86E80E11CFB9E2C33DBFEE49A9289679722660",
+        "id": 34
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Status_02.layout",
+        "sha": "A41CF48E4B88635AC7C1D1A9C1F7FAEB593C4F99D64D8144450348004EA7768A",
+        "id": 35
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_TextEffect.layout",
+        "sha": "C92220E5D3145355AD67D8D0E5F02F0E4C10DEC212F9855A83EBD6C0E2425F96",
+        "id": 36
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_TextEffect_02.layout",
+        "sha": "F6A4776458FC5BEAF631EA8E72C0989455BE70D3934EF55B5E0A41B272BA1083",
+        "id": 37
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Th.layout",
+        "sha": "4E4EDE6AC51833FD3AD3F5FA3AF61A48175CB24ED23A9D43D2240AAAE716D799",
+        "id": 38
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Title.layout",
+        "sha": "FF4FB3776171A831C591A873B3870FB945627541BDBB7FD7ECA02BAAD88118F9",
+        "id": 39
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Title_02.layout",
+        "sha": "44938E7974378BD6D8CC0B67A1A3A1F820C0AF4ADBBBFD11C57591DC39137D1A",
+        "id": 40
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Tutorial.layout",
+        "sha": "AC7F2F63CF5A9167E063DD9AEE260F317044D19B4BE0EFED9736A7235B113300",
+        "id": 41
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Tutorial_02.layout",
+        "sha": "6D58C254209C7B4A6CFD07432D8997BCFF7C88CB92CAA284604F5BED8212277A",
+        "id": 42
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Tutorial_03.layout",
+        "sha": "50941CDC82EF5602937EC4AFE7CDB8BC704650A272F18AA98E9AFB6B1BF22192",
+        "id": 43
+      }
+    ],
+    "kind": "clean",
+    "path": "menu\\hi\\01_common.sblytbnd.dcx"
+  },
+  {
+    "entries": [
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Boss.layout",
+        "sha": "6E025E109BF4F007CF96983855FC2A2506D7C14C4E589E565B13E12BF4C41F91",
+        "id": 0
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Boss_02.layout",
+        "sha": "E5E40CDFFC281712A9440A014212CBEE0233939B70820A495A99122496C4CA18",
+        "id": 1
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Brightness.layout",
+        "sha": "8B8F53DE0F5E0EF0F35D032B1640CD0EB1B2C6604A0E867866BE1BA4C5F3B38D",
+        "id": 2
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Destruct.layout",
+        "sha": "1FE12FD648F08307B72B7C0B994914F114A9FDF248F03AE9D6CE70C7AABE4A4B",
+        "id": 3
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Destruct_02.layout",
+        "sha": "EA76CD3733A4690997376C1FFAFCF4C57BD3455B953719DD5F60402CBA08813A",
+        "id": 4
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Dialog.layout",
+        "sha": "BCA1C7C5F2BCE840126120C804CA357386D17BCE4BA813F80EDF60F14214FAB6",
+        "id": 5
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Dying.layout",
+        "sha": "121CBC220BD4FCADBE9CB8B8DA3F65F97D59F61A3DA0C80D11C9164E66742E96",
+        "id": 6
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_FE.layout",
+        "sha": "25204614C4634C4FA3B214A3BE513A38D7A8A6772ED88901AD1A20905560DD28",
+        "id": 7
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_FE_02.layout",
+        "sha": "FB72885BEBA56CFFBA5BE18DC08D4018232F8B4CCECE29B6475377936DE3DFAE",
+        "id": 8
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon.layout",
+        "sha": "7520ED72F83283848C79D02647A901CAD9CA592A18329345E17B78098FFD66B4",
+        "id": 9
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_02.layout",
+        "sha": "0EBFB3AC7BC4920B6A2EB5E09CEB39E69EDFD0CAF065D2191201FD43AFDB125A",
+        "id": 10
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_03.layout",
+        "sha": "722D686413BE61E1F6E93605260882D52AB568DF6B85852BC2F6EB9D52CCA1BE",
+        "id": 11
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_04.layout",
+        "sha": "997F20CEC607420EBFC017E6F48A70A237A88C1FBF129E9A7A1A5846E354E679",
+        "id": 12
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_Skill.layout",
+        "sha": "56B181CF7F4DA67EEE282413DD5BA786749CDB3EE1475AE60A54AD1EC1DB190C",
+        "id": 13
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_Skill_02.layout",
+        "sha": "77B727F8E183FF5C996801399F0A4729E8209F985004F2C663D1C47B48E62F35",
+        "id": 14
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_In_Game.layout",
+        "sha": "27E47826B1B1532417DDE99478934F6D3AD0CA600446DD204A1D84D77B05F58E",
+        "id": 15
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KeyTop.layout",
+        "sha": "4A5D7EA9C287238B548A2030E5CF673AF8330F41F1C16B2B1423E5327DC31B10",
+        "id": 16
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KeyTop_02.layout",
+        "sha": "DE8D1DE8DB09C32B8CE7BA80903FC94DFB62D086D27DC155D7CB615003004AFD",
+        "id": 17
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG.layout",
+        "sha": "4531115336EF947B8A0DC2045985C6E2A8844A7F9BA401223B47957455F7B4BF",
+        "id": 18
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG_02.layout",
+        "sha": "AF1A75825C1CF167D8A6BAC40FE59E8374E9CDC62B10C129FCC4E923599B95EA",
+        "id": 19
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG_Big.layout",
+        "sha": "9C550082F6CC49EAF9B747F332D1E00E313FC4084F58BECCFE8773FB888CF273",
+        "id": 20
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG_Big_02.layout",
+        "sha": "59D8C67DA300F1AAD22816CEF2AC12A4B80914B8E4BE59EAA0F4330DA120D7BC",
+        "id": 21
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Loading.layout",
+        "sha": "8D24097A4EC59BC88FEC4403C97811E43D67024551040927C53F72EC82A18A34",
+        "id": 22
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Map.layout",
+        "sha": "95A6A42A49FC7AA0D6AEF01081F8D685D01D72767F25B888B6C3252C177E2D4E",
+        "id": 23
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Map_02.layout",
+        "sha": "77D6300330E7B5E045A8A4D808939A6ABA9C0E700FD9AB4B38E454FD5054C009",
+        "id": 24
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating.layout",
+        "sha": "C0861A3B2957E122DDBEBE900C8346604902CF6E4540F2EF8E8B2338CB40D8BD",
+        "id": 25
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating_02.layout",
+        "sha": "92DD0958CAA62099074A17FFB7EF505FA82E2FD647105A8BBAA27555D0C0651B",
+        "id": 26
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating_03.layout",
+        "sha": "44CD1C11EB1AF47E91333A3D21693898FFAB779229D63E0BF1F72F3D18B654A2",
+        "id": 27
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating_04.layout",
+        "sha": "37792E1EEEAC7E189B94293EC38731A652BD8127B391E1EAB7551C7CB3A76FFD",
+        "id": 28
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Remodeling.layout",
+        "sha": "85233A635546F983FB797A902EC4188EB7B3E232B548F963603E052A57475E34",
+        "id": 29
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Remodeling_02.layout",
+        "sha": "3A0377AA1940F42170BEB54CE5A28005910D499D6300810B2771962856F9E350",
+        "id": 30
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_SaveIcon.layout",
+        "sha": "00EC2314064128DEE07319A3A5F812F0BC943CB00BCB87A2070A4D91F6D51191",
+        "id": 31
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Skill.layout",
+        "sha": "919113D7A68FE2B84123E0752589CF59C9CCB0DAEBA334CC04B563BAAC2DD16C",
+        "id": 32
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Skill_02.layout",
+        "sha": "AE93D3C34AB7D2DBF27A3618EDE5DC8F84AABB0595245866DC760E718A24AFAF",
+        "id": 33
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Status.layout",
+        "sha": "333FF844A9DCB3E17896528E4F86E80E11CFB9E2C33DBFEE49A9289679722660",
+        "id": 34
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Status_02.layout",
+        "sha": "A41CF48E4B88635AC7C1D1A9C1F7FAEB593C4F99D64D8144450348004EA7768A",
+        "id": 35
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_TextEffect.layout",
+        "sha": "C92220E5D3145355AD67D8D0E5F02F0E4C10DEC212F9855A83EBD6C0E2425F96",
+        "id": 36
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_TextEffect_02.layout",
+        "sha": "F6A4776458FC5BEAF631EA8E72C0989455BE70D3934EF55B5E0A41B272BA1083",
+        "id": 37
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Th.layout",
+        "sha": "4E4EDE6AC51833FD3AD3F5FA3AF61A48175CB24ED23A9D43D2240AAAE716D799",
+        "id": 38
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Title.layout",
+        "sha": "FF4FB3776171A831C591A873B3870FB945627541BDBB7FD7ECA02BAAD88118F9",
+        "id": 39
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Title_02.layout",
+        "sha": "44938E7974378BD6D8CC0B67A1A3A1F820C0AF4ADBBBFD11C57591DC39137D1A",
+        "id": 40
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Tutorial.layout",
+        "sha": "AC7F2F63CF5A9167E063DD9AEE260F317044D19B4BE0EFED9736A7235B113300",
+        "id": 41
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Tutorial_02.layout",
+        "sha": "6D58C254209C7B4A6CFD07432D8997BCFF7C88CB92CAA284604F5BED8212277A",
+        "id": 42
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Tutorial_03.layout",
+        "sha": "50941CDC82EF5602937EC4AFE7CDB8BC704650A272F18AA98E9AFB6B1BF22192",
+        "id": 43
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_05.layout",
+        "sha": "BE496E9E9A37000E1DACDF50D50E83C1377E08526DD00EF142E6D26A40C59449",
+        "id": 44
+      }
+    ],
+    "kind": "donor",
+    "path": "menu\\hi\\01_common.sblytbnd.dcx"
+  },
+  {
+    "entries": [
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Boss.layout",
+        "sha": "6E025E109BF4F007CF96983855FC2A2506D7C14C4E589E565B13E12BF4C41F91",
+        "id": 0
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Boss_02.layout",
+        "sha": "E5E40CDFFC281712A9440A014212CBEE0233939B70820A495A99122496C4CA18",
+        "id": 1
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Brightness.layout",
+        "sha": "8B8F53DE0F5E0EF0F35D032B1640CD0EB1B2C6604A0E867866BE1BA4C5F3B38D",
+        "id": 2
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Destruct.layout",
+        "sha": "1FE12FD648F08307B72B7C0B994914F114A9FDF248F03AE9D6CE70C7AABE4A4B",
+        "id": 3
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Destruct_02.layout",
+        "sha": "EA76CD3733A4690997376C1FFAFCF4C57BD3455B953719DD5F60402CBA08813A",
+        "id": 4
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Dialog.layout",
+        "sha": "BCA1C7C5F2BCE840126120C804CA357386D17BCE4BA813F80EDF60F14214FAB6",
+        "id": 5
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Dying.layout",
+        "sha": "121CBC220BD4FCADBE9CB8B8DA3F65F97D59F61A3DA0C80D11C9164E66742E96",
+        "id": 6
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_FE.layout",
+        "sha": "25204614C4634C4FA3B214A3BE513A38D7A8A6772ED88901AD1A20905560DD28",
+        "id": 7
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_FE_02.layout",
+        "sha": "FB72885BEBA56CFFBA5BE18DC08D4018232F8B4CCECE29B6475377936DE3DFAE",
+        "id": 8
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon.layout",
+        "sha": "7520ED72F83283848C79D02647A901CAD9CA592A18329345E17B78098FFD66B4",
+        "id": 9
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_02.layout",
+        "sha": "0EBFB3AC7BC4920B6A2EB5E09CEB39E69EDFD0CAF065D2191201FD43AFDB125A",
+        "id": 10
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_03.layout",
+        "sha": "722D686413BE61E1F6E93605260882D52AB568DF6B85852BC2F6EB9D52CCA1BE",
+        "id": 11
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_04.layout",
+        "sha": "997F20CEC607420EBFC017E6F48A70A237A88C1FBF129E9A7A1A5846E354E679",
+        "id": 12
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_Skill.layout",
+        "sha": "56B181CF7F4DA67EEE282413DD5BA786749CDB3EE1475AE60A54AD1EC1DB190C",
+        "id": 13
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_Skill_02.layout",
+        "sha": "77B727F8E183FF5C996801399F0A4729E8209F985004F2C663D1C47B48E62F35",
+        "id": 14
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_In_Game.layout",
+        "sha": "27E47826B1B1532417DDE99478934F6D3AD0CA600446DD204A1D84D77B05F58E",
+        "id": 15
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KeyTop.layout",
+        "sha": "4A5D7EA9C287238B548A2030E5CF673AF8330F41F1C16B2B1423E5327DC31B10",
+        "id": 16
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KeyTop_02.layout",
+        "sha": "DE8D1DE8DB09C32B8CE7BA80903FC94DFB62D086D27DC155D7CB615003004AFD",
+        "id": 17
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG.layout",
+        "sha": "4531115336EF947B8A0DC2045985C6E2A8844A7F9BA401223B47957455F7B4BF",
+        "id": 18
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG_02.layout",
+        "sha": "AF1A75825C1CF167D8A6BAC40FE59E8374E9CDC62B10C129FCC4E923599B95EA",
+        "id": 19
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG_Big.layout",
+        "sha": "9C550082F6CC49EAF9B747F332D1E00E313FC4084F58BECCFE8773FB888CF273",
+        "id": 20
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_KG_Big_02.layout",
+        "sha": "59D8C67DA300F1AAD22816CEF2AC12A4B80914B8E4BE59EAA0F4330DA120D7BC",
+        "id": 21
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Loading.layout",
+        "sha": "8D24097A4EC59BC88FEC4403C97811E43D67024551040927C53F72EC82A18A34",
+        "id": 22
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Map.layout",
+        "sha": "95A6A42A49FC7AA0D6AEF01081F8D685D01D72767F25B888B6C3252C177E2D4E",
+        "id": 23
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Map_02.layout",
+        "sha": "77D6300330E7B5E045A8A4D808939A6ABA9C0E700FD9AB4B38E454FD5054C009",
+        "id": 24
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating.layout",
+        "sha": "C0861A3B2957E122DDBEBE900C8346604902CF6E4540F2EF8E8B2338CB40D8BD",
+        "id": 25
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating_02.layout",
+        "sha": "92DD0958CAA62099074A17FFB7EF505FA82E2FD647105A8BBAA27555D0C0651B",
+        "id": 26
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating_03.layout",
+        "sha": "44CD1C11EB1AF47E91333A3D21693898FFAB779229D63E0BF1F72F3D18B654A2",
+        "id": 27
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Operating_04.layout",
+        "sha": "37792E1EEEAC7E189B94293EC38731A652BD8127B391E1EAB7551C7CB3A76FFD",
+        "id": 28
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Remodeling.layout",
+        "sha": "85233A635546F983FB797A902EC4188EB7B3E232B548F963603E052A57475E34",
+        "id": 29
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Remodeling_02.layout",
+        "sha": "3A0377AA1940F42170BEB54CE5A28005910D499D6300810B2771962856F9E350",
+        "id": 30
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_SaveIcon.layout",
+        "sha": "00EC2314064128DEE07319A3A5F812F0BC943CB00BCB87A2070A4D91F6D51191",
+        "id": 31
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Skill.layout",
+        "sha": "919113D7A68FE2B84123E0752589CF59C9CCB0DAEBA334CC04B563BAAC2DD16C",
+        "id": 32
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Skill_02.layout",
+        "sha": "AE93D3C34AB7D2DBF27A3618EDE5DC8F84AABB0595245866DC760E718A24AFAF",
+        "id": 33
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Status.layout",
+        "sha": "333FF844A9DCB3E17896528E4F86E80E11CFB9E2C33DBFEE49A9289679722660",
+        "id": 34
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Status_02.layout",
+        "sha": "A41CF48E4B88635AC7C1D1A9C1F7FAEB593C4F99D64D8144450348004EA7768A",
+        "id": 35
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_TextEffect.layout",
+        "sha": "C92220E5D3145355AD67D8D0E5F02F0E4C10DEC212F9855A83EBD6C0E2425F96",
+        "id": 36
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_TextEffect_02.layout",
+        "sha": "F6A4776458FC5BEAF631EA8E72C0989455BE70D3934EF55B5E0A41B272BA1083",
+        "id": 37
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Th.layout",
+        "sha": "4E4EDE6AC51833FD3AD3F5FA3AF61A48175CB24ED23A9D43D2240AAAE716D799",
+        "id": 38
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Title.layout",
+        "sha": "FF4FB3776171A831C591A873B3870FB945627541BDBB7FD7ECA02BAAD88118F9",
+        "id": 39
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Title_02.layout",
+        "sha": "44938E7974378BD6D8CC0B67A1A3A1F820C0AF4ADBBBFD11C57591DC39137D1A",
+        "id": 40
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Tutorial.layout",
+        "sha": "AC7F2F63CF5A9167E063DD9AEE260F317044D19B4BE0EFED9736A7235B113300",
+        "id": 41
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Tutorial_02.layout",
+        "sha": "6D58C254209C7B4A6CFD07432D8997BCFF7C88CB92CAA284604F5BED8212277A",
+        "id": 42
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Tutorial_03.layout",
+        "sha": "50941CDC82EF5602937EC4AFE7CDB8BC704650A272F18AA98E9AFB6B1BF22192",
+        "id": 43
+      },
+      {
+        "name": "N:\\NTC\\data\\Menu\\ScaleForm\\SBLayout\\01_Common\\Hi\\SB_Icon_05.layout",
+        "sha": "BE496E9E9A37000E1DACDF50D50E83C1377E08526DD00EF142E6D26A40C59449",
+        "id": 44
+      }
+    ],
+    "kind": "dojo",
+    "path": "menu\\hi\\01_common.sblytbnd.dcx"
+  },
+  {
+    "entries": [
+      {
+        "name": "MENU_BG_Base1",
+        "sha": "8042A036E547FAFE5E5431B646A04ED61A9CF518AD127573517CDB64A30A4FC7"
+      },
+      {
+        "name": "MENU_BG_Base2",
+        "sha": "4736D7DF7883476D2C9D028F8842B7431A0509B8D549D96B59E4D0DDFD4C7508"
+      },
+      {
+        "name": "MENU_BG_KeyGuide1",
+        "sha": "42ADAAB58965C5E8718A45767B7ADE8AFA7B2730505DE5AF7B92C3A78707F3B6"
+      },
+      {
+        "name": "MENU_BG_KeyGuide2",
+        "sha": "B01BEFD1777222BA0AA33A45CC63FA9D39DCB0D32225B2DBE58760BBE409183C"
+      },
+      {
+        "name": "MENU_BG_Line1",
+        "sha": "399EFA4212A5CDFE9D16E37B47F6F8AF23413C41C2DCF03221533426868DA9AD"
+      },
+      {
+        "name": "MENU_Boss",
+        "sha": "B9D799E577FC98A016125FCC2255FF5C5C7964FB6D960B945E251B5A4B74C833"
+      },
+      {
+        "name": "MENU_Lockon01",
+        "sha": "F3685BBB35E9BCE5199E1115E1E51A47EB65E6CDC54B6C1E78F238C3291988CD"
+      },
+      {
+        "name": "MENU_MapImageLoading",
+        "sha": "7D6F51FB9F039B95807FE6284AF4A2F4249E1472F5464B68D7226F0CC1F11FED"
+      },
+      {
+        "name": "MENU_MapName_Underline",
+        "sha": "E96310481EE5D5588078C26E94C6E1B4B371E710F529FA5869172B2644824CD2"
+      },
+      {
+        "name": "MENU_Proto",
+        "sha": "DEE2C382D5898DFD02EAA086DA350CE27DD9314C2669870E99C423CC515D594B"
+      },
+      {
+        "name": "MENU_Proto_UI_00",
+        "sha": "5E395E2CE2FB9837096FF6E37033A478BE097F2643A89B31959CC3F3C8139DBA"
+      },
+      {
+        "name": "SB_Boss",
+        "sha": "B573389DE77E6D5B07D5F1EA8C3B17D2D913A975B8FA9B7BC018CBB956F47238"
+      },
+      {
+        "name": "SB_Boss_02",
+        "sha": "35CB358F7E14533D6CDACA5D7D75EED675B26F7EEEAADBF747B45CDFE2449F63"
+      },
+      {
+        "name": "SB_Dialog",
+        "sha": "9D677A98C7F709F71397139730F317A4766B3B3BD2390183719D705559F0E46A"
+      },
+      {
+        "name": "SB_Dying",
+        "sha": "023FA945879BECC09304F351F9C6C6445C2E95FA5B3F8105D0E63A0E10F09383"
+      },
+      {
+        "name": "SB_FE",
+        "sha": "BDBA21BAE426052CC78A7BBDFCFA95F0457184F0961D53A95E9DFC79D4EEE45E"
+      },
+      {
+        "name": "SB_FE_02",
+        "sha": "6298394A4492EC8C499A18787F54C31042046FDE47082B66BF5507E68BEEEC30"
+      },
+      {
+        "name": "SB_Icon",
+        "sha": "E4270BC702F1EF3F2C70F670640DEC710FABA3B54C8315A629607C05BD9AA879"
+      },
+      {
+        "name": "SB_Icon_02",
+        "sha": "73C29BBFCD4E61E8879B26E82E03EB66C1AFF36720A84849382E264EBE61A276"
+      },
+      {
+        "name": "SB_Icon_03",
+        "sha": "8C6389C1D4AEBA637B995D1A16BE2A115A71B5F9514C2CD972377ADA3F2D2C23"
+      },
+      {
+        "name": "SB_Icon_04",
+        "sha": "ACF1E4F756683C02B728E2AA9E6AB2C9917BCA8D96D8A964943D6ADB30F9B748"
+      },
+      {
+        "name": "SB_Icon_Skill",
+        "sha": "383365263249A082BE95A1515ACFC2431828B102985840C99F661092EB2AC388"
+      },
+      {
+        "name": "SB_Icon_Skill_02",
+        "sha": "9961DF6F197126D4960989FF855E29C24DF854C4F697130C149B23D85633F4C6"
+      },
+      {
+        "name": "SB_In_Game",
+        "sha": "8C7F34336E597EB5A10F79F5A5F1BF9425617E5CEC6DD25D7DB41E9740388D49"
+      },
+      {
+        "name": "SB_KeyTop",
+        "sha": "0E392F7571743EE28A56DC57CDDC5B10416E67FF8D58087E11046FEE8C858F17"
+      },
+      {
+        "name": "SB_KeyTop_02",
+        "sha": "58A02476F35772CB52E5196F00EF8FF2A94315AABCBF9474DD1C7EBF0BD75085"
+      },
+      {
+        "name": "SB_KG",
+        "sha": "4187F24B584CD69B2386591AB2566E642160256B5088037E61AB181BF9F08E27"
+      },
+      {
+        "name": "SB_KG_02",
+        "sha": "AE35A2D2090BE01A5AE5AF36975E3A5523E0DFE276ED917E5DEDC459279EE61E"
+      },
+      {
+        "name": "SB_KG_Big",
+        "sha": "2A267D38BF78C155276F1E01CFAC3A55C0015F8EDA2351F04FEE78FEAC0E1A16"
+      },
+      {
+        "name": "SB_KG_Big_02",
+        "sha": "727F8382D3E4B7919225B7A8C3ED4E8AC7A39599711E61729C83523E1C45FE66"
+      },
+      {
+        "name": "SB_Map",
+        "sha": "B6D960C3885A6197E34C98F7295504B5A8627223F016339448F995AE1530A80F"
+      },
+      {
+        "name": "SB_Map_02",
+        "sha": "566180CE2757EF41B691D26ECBF505C745E84AE5E51F175EBBCF101E2E6124EA"
+      },
+      {
+        "name": "SB_Operating",
+        "sha": "A18A7C7048DF4E0FC54012764F4CB3BFED633871B86B711D1EBF4013F65F330E"
+      },
+      {
+        "name": "SB_Operating_03",
+        "sha": "B8FAE5702DF6009A613EFB3B0EBA430FA2048EBC21E1A00588AC70099E381EAF"
+      },
+      {
+        "name": "SB_Operating_04",
+        "sha": "0485D0CA8C87D5BBF5AF40DEAD19E2BF8F5CDC0D841C645406D4C73F84EEEBD4"
+      },
+      {
+        "name": "SB_Remodeling",
+        "sha": "6EDE1C17D80CD2F0DF85027DD3FC5D96CD859C3060818A8AF20BA1288DE17578"
+      },
+      {
+        "name": "SB_Remodeling_02",
+        "sha": "49C94623E50B510C22E13018ABDDAA14C2DAC95408EDF6D24E98EE0593783200"
+      },
+      {
+        "name": "SB_SaveIcon",
+        "sha": "925628258E277ED3AE13C715674A354F5EB61C992C2157C76D06F734F787E1D1"
+      },
+      {
+        "name": "SB_Status",
+        "sha": "BE3CD5B6570AAF3D1AC636A6499E8A9377DC215B100AE8A9C5EB0A5FD4746448"
+      },
+      {
+        "name": "SB_Status_02",
+        "sha": "201CB1A7477EC568659C44B40EE25D5BD984D2EFC3FFC78A4AC728261CD9B00D"
+      },
+      {
+        "name": "SB_TextEffect",
+        "sha": "B24F530AB3FC7E4C83B732C10455025C847B4DF397836B0F79EC1EAA99371224"
+      },
+      {
+        "name": "SB_TextEffect_02",
+        "sha": "6D2CF8745CEF7185C56D5D2AE6011FBB8E5BD973FFADAAFCA35F95358916F12F"
+      },
+      {
+        "name": "SB_Title",
+        "sha": "83E5593C4774DC6B078CDF0857B340164D7D5CE8A72E8E12B2B3D5852C7077B4"
+      },
+      {
+        "name": "SB_Title_02",
+        "sha": "1A214C9303A4BB5FC4A9624BB4F7479741BDC8DF411869140F93D8094F677100"
+      },
+      {
+        "name": "SB_Tutorial",
+        "sha": "906B06820F04C32A9EDEBC835BC0E7163C9D6C13FF9BE2DD10F03B6310BF9C3E"
+      },
+      {
+        "name": "SB_Tutorial_02",
+        "sha": "395CBFA85F9ED74F4F8250B601CB1C67E2C4F843612A23D97698A18CA67C0A14"
+      }
+    ],
+    "kind": "clean",
+    "path": "menu\\hi\\01_common.tpf.dcx"
+  },
+  {
+    "entries": [
+      {
+        "name": "MENU_BG_Base1",
+        "sha": "8042A036E547FAFE5E5431B646A04ED61A9CF518AD127573517CDB64A30A4FC7"
+      },
+      {
+        "name": "MENU_BG_Base2",
+        "sha": "4736D7DF7883476D2C9D028F8842B7431A0509B8D549D96B59E4D0DDFD4C7508"
+      },
+      {
+        "name": "MENU_BG_KeyGuide1",
+        "sha": "42ADAAB58965C5E8718A45767B7ADE8AFA7B2730505DE5AF7B92C3A78707F3B6"
+      },
+      {
+        "name": "MENU_BG_KeyGuide2",
+        "sha": "B01BEFD1777222BA0AA33A45CC63FA9D39DCB0D32225B2DBE58760BBE409183C"
+      },
+      {
+        "name": "MENU_BG_Line1",
+        "sha": "399EFA4212A5CDFE9D16E37B47F6F8AF23413C41C2DCF03221533426868DA9AD"
+      },
+      {
+        "name": "MENU_Boss",
+        "sha": "B9D799E577FC98A016125FCC2255FF5C5C7964FB6D960B945E251B5A4B74C833"
+      },
+      {
+        "name": "MENU_Lockon01",
+        "sha": "F3685BBB35E9BCE5199E1115E1E51A47EB65E6CDC54B6C1E78F238C3291988CD"
+      },
+      {
+        "name": "MENU_MapImageLoading",
+        "sha": "7D6F51FB9F039B95807FE6284AF4A2F4249E1472F5464B68D7226F0CC1F11FED"
+      },
+      {
+        "name": "MENU_MapName_Underline",
+        "sha": "E96310481EE5D5588078C26E94C6E1B4B371E710F529FA5869172B2644824CD2"
+      },
+      {
+        "name": "MENU_Proto",
+        "sha": "DEE2C382D5898DFD02EAA086DA350CE27DD9314C2669870E99C423CC515D594B"
+      },
+      {
+        "name": "MENU_Proto_UI_00",
+        "sha": "5E395E2CE2FB9837096FF6E37033A478BE097F2643A89B31959CC3F3C8139DBA"
+      },
+      {
+        "name": "SB_Boss",
+        "sha": "B573389DE77E6D5B07D5F1EA8C3B17D2D913A975B8FA9B7BC018CBB956F47238"
+      },
+      {
+        "name": "SB_Boss_02",
+        "sha": "35CB358F7E14533D6CDACA5D7D75EED675B26F7EEEAADBF747B45CDFE2449F63"
+      },
+      {
+        "name": "SB_Dialog",
+        "sha": "9D677A98C7F709F71397139730F317A4766B3B3BD2390183719D705559F0E46A"
+      },
+      {
+        "name": "SB_Dying",
+        "sha": "023FA945879BECC09304F351F9C6C6445C2E95FA5B3F8105D0E63A0E10F09383"
+      },
+      {
+        "name": "SB_FE",
+        "sha": "BDBA21BAE426052CC78A7BBDFCFA95F0457184F0961D53A95E9DFC79D4EEE45E"
+      },
+      {
+        "name": "SB_FE_02",
+        "sha": "6298394A4492EC8C499A18787F54C31042046FDE47082B66BF5507E68BEEEC30"
+      },
+      {
+        "name": "SB_Icon",
+        "sha": "E4270BC702F1EF3F2C70F670640DEC710FABA3B54C8315A629607C05BD9AA879"
+      },
+      {
+        "name": "SB_Icon_02",
+        "sha": "73C29BBFCD4E61E8879B26E82E03EB66C1AFF36720A84849382E264EBE61A276"
+      },
+      {
+        "name": "SB_Icon_03",
+        "sha": "8C6389C1D4AEBA637B995D1A16BE2A115A71B5F9514C2CD972377ADA3F2D2C23"
+      },
+      {
+        "name": "SB_Icon_04",
+        "sha": "ACF1E4F756683C02B728E2AA9E6AB2C9917BCA8D96D8A964943D6ADB30F9B748"
+      },
+      {
+        "name": "SB_Icon_Skill",
+        "sha": "383365263249A082BE95A1515ACFC2431828B102985840C99F661092EB2AC388"
+      },
+      {
+        "name": "SB_Icon_Skill_02",
+        "sha": "9961DF6F197126D4960989FF855E29C24DF854C4F697130C149B23D85633F4C6"
+      },
+      {
+        "name": "SB_In_Game",
+        "sha": "8C7F34336E597EB5A10F79F5A5F1BF9425617E5CEC6DD25D7DB41E9740388D49"
+      },
+      {
+        "name": "SB_KeyTop",
+        "sha": "0E392F7571743EE28A56DC57CDDC5B10416E67FF8D58087E11046FEE8C858F17"
+      },
+      {
+        "name": "SB_KeyTop_02",
+        "sha": "58A02476F35772CB52E5196F00EF8FF2A94315AABCBF9474DD1C7EBF0BD75085"
+      },
+      {
+        "name": "SB_KG",
+        "sha": "4187F24B584CD69B2386591AB2566E642160256B5088037E61AB181BF9F08E27"
+      },
+      {
+        "name": "SB_KG_02",
+        "sha": "AE35A2D2090BE01A5AE5AF36975E3A5523E0DFE276ED917E5DEDC459279EE61E"
+      },
+      {
+        "name": "SB_KG_Big",
+        "sha": "2A267D38BF78C155276F1E01CFAC3A55C0015F8EDA2351F04FEE78FEAC0E1A16"
+      },
+      {
+        "name": "SB_KG_Big_02",
+        "sha": "727F8382D3E4B7919225B7A8C3ED4E8AC7A39599711E61729C83523E1C45FE66"
+      },
+      {
+        "name": "SB_Map",
+        "sha": "B6D960C3885A6197E34C98F7295504B5A8627223F016339448F995AE1530A80F"
+      },
+      {
+        "name": "SB_Map_02",
+        "sha": "566180CE2757EF41B691D26ECBF505C745E84AE5E51F175EBBCF101E2E6124EA"
+      },
+      {
+        "name": "SB_Operating",
+        "sha": "A18A7C7048DF4E0FC54012764F4CB3BFED633871B86B711D1EBF4013F65F330E"
+      },
+      {
+        "name": "SB_Operating_03",
+        "sha": "B8FAE5702DF6009A613EFB3B0EBA430FA2048EBC21E1A00588AC70099E381EAF"
+      },
+      {
+        "name": "SB_Operating_04",
+        "sha": "0485D0CA8C87D5BBF5AF40DEAD19E2BF8F5CDC0D841C645406D4C73F84EEEBD4"
+      },
+      {
+        "name": "SB_Remodeling",
+        "sha": "6EDE1C17D80CD2F0DF85027DD3FC5D96CD859C3060818A8AF20BA1288DE17578"
+      },
+      {
+        "name": "SB_Remodeling_02",
+        "sha": "49C94623E50B510C22E13018ABDDAA14C2DAC95408EDF6D24E98EE0593783200"
+      },
+      {
+        "name": "SB_SaveIcon",
+        "sha": "925628258E277ED3AE13C715674A354F5EB61C992C2157C76D06F734F787E1D1"
+      },
+      {
+        "name": "SB_Status",
+        "sha": "BE3CD5B6570AAF3D1AC636A6499E8A9377DC215B100AE8A9C5EB0A5FD4746448"
+      },
+      {
+        "name": "SB_Status_02",
+        "sha": "201CB1A7477EC568659C44B40EE25D5BD984D2EFC3FFC78A4AC728261CD9B00D"
+      },
+      {
+        "name": "SB_TextEffect",
+        "sha": "B24F530AB3FC7E4C83B732C10455025C847B4DF397836B0F79EC1EAA99371224"
+      },
+      {
+        "name": "SB_TextEffect_02",
+        "sha": "6D2CF8745CEF7185C56D5D2AE6011FBB8E5BD973FFADAAFCA35F95358916F12F"
+      },
+      {
+        "name": "SB_Title",
+        "sha": "83E5593C4774DC6B078CDF0857B340164D7D5CE8A72E8E12B2B3D5852C7077B4"
+      },
+      {
+        "name": "SB_Title_02",
+        "sha": "1A214C9303A4BB5FC4A9624BB4F7479741BDC8DF411869140F93D8094F677100"
+      },
+      {
+        "name": "SB_Tutorial",
+        "sha": "906B06820F04C32A9EDEBC835BC0E7163C9D6C13FF9BE2DD10F03B6310BF9C3E"
+      },
+      {
+        "name": "SB_Tutorial_02",
+        "sha": "395CBFA85F9ED74F4F8250B601CB1C67E2C4F843612A23D97698A18CA67C0A14"
+      },
+      {
+        "name": "SB_Icon_05",
+        "sha": "3A6E0528019429FBA71816E833221CBA3B27AE96C9184B8EF419AE7417AB5C48"
+      }
+    ],
+    "kind": "donor",
+    "path": "menu\\hi\\01_common.tpf.dcx"
+  },
+  {
+    "entries": [
+      {
+        "name": "MENU_BG_Base1",
+        "sha": "8042A036E547FAFE5E5431B646A04ED61A9CF518AD127573517CDB64A30A4FC7"
+      },
+      {
+        "name": "MENU_BG_Base2",
+        "sha": "4736D7DF7883476D2C9D028F8842B7431A0509B8D549D96B59E4D0DDFD4C7508"
+      },
+      {
+        "name": "MENU_BG_KeyGuide1",
+        "sha": "42ADAAB58965C5E8718A45767B7ADE8AFA7B2730505DE5AF7B92C3A78707F3B6"
+      },
+      {
+        "name": "MENU_BG_KeyGuide2",
+        "sha": "B01BEFD1777222BA0AA33A45CC63FA9D39DCB0D32225B2DBE58760BBE409183C"
+      },
+      {
+        "name": "MENU_BG_Line1",
+        "sha": "399EFA4212A5CDFE9D16E37B47F6F8AF23413C41C2DCF03221533426868DA9AD"
+      },
+      {
+        "name": "MENU_Boss",
+        "sha": "B9D799E577FC98A016125FCC2255FF5C5C7964FB6D960B945E251B5A4B74C833"
+      },
+      {
+        "name": "MENU_Lockon01",
+        "sha": "F3685BBB35E9BCE5199E1115E1E51A47EB65E6CDC54B6C1E78F238C3291988CD"
+      },
+      {
+        "name": "MENU_MapImageLoading",
+        "sha": "7D6F51FB9F039B95807FE6284AF4A2F4249E1472F5464B68D7226F0CC1F11FED"
+      },
+      {
+        "name": "MENU_MapName_Underline",
+        "sha": "E96310481EE5D5588078C26E94C6E1B4B371E710F529FA5869172B2644824CD2"
+      },
+      {
+        "name": "MENU_Proto",
+        "sha": "DEE2C382D5898DFD02EAA086DA350CE27DD9314C2669870E99C423CC515D594B"
+      },
+      {
+        "name": "MENU_Proto_UI_00",
+        "sha": "5E395E2CE2FB9837096FF6E37033A478BE097F2643A89B31959CC3F3C8139DBA"
+      },
+      {
+        "name": "SB_Boss",
+        "sha": "B573389DE77E6D5B07D5F1EA8C3B17D2D913A975B8FA9B7BC018CBB956F47238"
+      },
+      {
+        "name": "SB_Boss_02",
+        "sha": "35CB358F7E14533D6CDACA5D7D75EED675B26F7EEEAADBF747B45CDFE2449F63"
+      },
+      {
+        "name": "SB_Dialog",
+        "sha": "9D677A98C7F709F71397139730F317A4766B3B3BD2390183719D705559F0E46A"
+      },
+      {
+        "name": "SB_Dying",
+        "sha": "023FA945879BECC09304F351F9C6C6445C2E95FA5B3F8105D0E63A0E10F09383"
+      },
+      {
+        "name": "SB_FE",
+        "sha": "BDBA21BAE426052CC78A7BBDFCFA95F0457184F0961D53A95E9DFC79D4EEE45E"
+      },
+      {
+        "name": "SB_FE_02",
+        "sha": "6298394A4492EC8C499A18787F54C31042046FDE47082B66BF5507E68BEEEC30"
+      },
+      {
+        "name": "SB_Icon",
+        "sha": "E4270BC702F1EF3F2C70F670640DEC710FABA3B54C8315A629607C05BD9AA879"
+      },
+      {
+        "name": "SB_Icon_02",
+        "sha": "73C29BBFCD4E61E8879B26E82E03EB66C1AFF36720A84849382E264EBE61A276"
+      },
+      {
+        "name": "SB_Icon_03",
+        "sha": "8C6389C1D4AEBA637B995D1A16BE2A115A71B5F9514C2CD972377ADA3F2D2C23"
+      },
+      {
+        "name": "SB_Icon_04",
+        "sha": "ACF1E4F756683C02B728E2AA9E6AB2C9917BCA8D96D8A964943D6ADB30F9B748"
+      },
+      {
+        "name": "SB_Icon_Skill",
+        "sha": "383365263249A082BE95A1515ACFC2431828B102985840C99F661092EB2AC388"
+      },
+      {
+        "name": "SB_Icon_Skill_02",
+        "sha": "9961DF6F197126D4960989FF855E29C24DF854C4F697130C149B23D85633F4C6"
+      },
+      {
+        "name": "SB_In_Game",
+        "sha": "8C7F34336E597EB5A10F79F5A5F1BF9425617E5CEC6DD25D7DB41E9740388D49"
+      },
+      {
+        "name": "SB_KeyTop",
+        "sha": "0E392F7571743EE28A56DC57CDDC5B10416E67FF8D58087E11046FEE8C858F17"
+      },
+      {
+        "name": "SB_KeyTop_02",
+        "sha": "58A02476F35772CB52E5196F00EF8FF2A94315AABCBF9474DD1C7EBF0BD75085"
+      },
+      {
+        "name": "SB_KG",
+        "sha": "4187F24B584CD69B2386591AB2566E642160256B5088037E61AB181BF9F08E27"
+      },
+      {
+        "name": "SB_KG_02",
+        "sha": "AE35A2D2090BE01A5AE5AF36975E3A5523E0DFE276ED917E5DEDC459279EE61E"
+      },
+      {
+        "name": "SB_KG_Big",
+        "sha": "2A267D38BF78C155276F1E01CFAC3A55C0015F8EDA2351F04FEE78FEAC0E1A16"
+      },
+      {
+        "name": "SB_KG_Big_02",
+        "sha": "727F8382D3E4B7919225B7A8C3ED4E8AC7A39599711E61729C83523E1C45FE66"
+      },
+      {
+        "name": "SB_Map",
+        "sha": "B6D960C3885A6197E34C98F7295504B5A8627223F016339448F995AE1530A80F"
+      },
+      {
+        "name": "SB_Map_02",
+        "sha": "566180CE2757EF41B691D26ECBF505C745E84AE5E51F175EBBCF101E2E6124EA"
+      },
+      {
+        "name": "SB_Operating",
+        "sha": "A18A7C7048DF4E0FC54012764F4CB3BFED633871B86B711D1EBF4013F65F330E"
+      },
+      {
+        "name": "SB_Operating_03",
+        "sha": "B8FAE5702DF6009A613EFB3B0EBA430FA2048EBC21E1A00588AC70099E381EAF"
+      },
+      {
+        "name": "SB_Operating_04",
+        "sha": "0485D0CA8C87D5BBF5AF40DEAD19E2BF8F5CDC0D841C645406D4C73F84EEEBD4"
+      },
+      {
+        "name": "SB_Remodeling",
+        "sha": "6EDE1C17D80CD2F0DF85027DD3FC5D96CD859C3060818A8AF20BA1288DE17578"
+      },
+      {
+        "name": "SB_Remodeling_02",
+        "sha": "49C94623E50B510C22E13018ABDDAA14C2DAC95408EDF6D24E98EE0593783200"
+      },
+      {
+        "name": "SB_SaveIcon",
+        "sha": "925628258E277ED3AE13C715674A354F5EB61C992C2157C76D06F734F787E1D1"
+      },
+      {
+        "name": "SB_Status",
+        "sha": "BE3CD5B6570AAF3D1AC636A6499E8A9377DC215B100AE8A9C5EB0A5FD4746448"
+      },
+      {
+        "name": "SB_Status_02",
+        "sha": "201CB1A7477EC568659C44B40EE25D5BD984D2EFC3FFC78A4AC728261CD9B00D"
+      },
+      {
+        "name": "SB_TextEffect",
+        "sha": "B24F530AB3FC7E4C83B732C10455025C847B4DF397836B0F79EC1EAA99371224"
+      },
+      {
+        "name": "SB_TextEffect_02",
+        "sha": "6D2CF8745CEF7185C56D5D2AE6011FBB8E5BD973FFADAAFCA35F95358916F12F"
+      },
+      {
+        "name": "SB_Title",
+        "sha": "83E5593C4774DC6B078CDF0857B340164D7D5CE8A72E8E12B2B3D5852C7077B4"
+      },
+      {
+        "name": "SB_Title_02",
+        "sha": "1A214C9303A4BB5FC4A9624BB4F7479741BDC8DF411869140F93D8094F677100"
+      },
+      {
+        "name": "SB_Tutorial",
+        "sha": "906B06820F04C32A9EDEBC835BC0E7163C9D6C13FF9BE2DD10F03B6310BF9C3E"
+      },
+      {
+        "name": "SB_Tutorial_02",
+        "sha": "395CBFA85F9ED74F4F8250B601CB1C67E2C4F843612A23D97698A18CA67C0A14"
+      },
+      {
+        "name": "SB_Icon_05",
+        "sha": "3A6E0528019429FBA71816E833221CBA3B27AE96C9184B8EF419AE7417AB5C48"
+      }
+    ],
+    "kind": "dojo",
+    "path": "menu\\hi\\01_common.tpf.dcx"
+  }
+]
