@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-06",
+  "variants": [
+    {
+      "variant": "NOOB",
+      "result": "PASS",
+      "files": 17
+    },
+    {
+      "variant": "HARDCORE",
+      "result": "PASS",
+      "files": 17
+    },
+    {
+      "variant": "LONEWOLF",
+      "result": "PASS",
+      "files": 18
+    }
+  ],
+  "exactGameFilesReproduced": 52,
+  "originalUploadsModified": false,
+  "publishedToGitHub": false,
+  "messageSent": false,
+  "newGameplayTest": false,
+  "schemaXmlFiles": 160,
+  "limitations": [
+    "Offline reconstruction from code, event/delta data and inherited binary source assets; not a full original-art/Flash/Lua project repository.",
+    "Input mod downloads and external parsing/Oodle libraries are required.",
+    "No malware clearance is asserted."
+  ],
+  "result": "PASS"
+}
