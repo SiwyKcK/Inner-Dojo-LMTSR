@@ -1,0 +1,25 @@
+{
+  "testedHost": "PowerShell 7.6.9 x64",
+  "externalLibraries": {
+    "soulsFormats": {
+      "filename": "Andre.SoulsFormats.dll",
+      "sha256": "306D6021B9BB8EC7F169951077AD6DFBBDA2FCE1CB35EB20C583F783F4DD9912",
+      "bytes": 2746368,
+      "redistributed": false
+    },
+    "oodle": {
+      "filename": "oo2core_6_win64.dll",
+      "sha256": "988E8226D129B03011A96F51B476E86D38C0C3E817266375A78A7CF3B85D93C4",
+      "bytes": 1085952,
+      "redistributed": false
+    }
+  },
+  "soulsFormatsAssemblyVersion": "1.0.0.0",
+  "schemaManifest": "schemas/MANIFEST.json",
+  "schemaCount": 160,
+  "upstreams": [
+    "https://github.com/vawser/Smithbox",
+    "https://github.com/soulsmods/SoulsFormatsNEXT",
+    "https://github.com/soulsmods/Paramdex"
+  ]
+}

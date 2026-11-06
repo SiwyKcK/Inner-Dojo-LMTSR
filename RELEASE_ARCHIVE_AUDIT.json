@@ -1,0 +1,1616 @@
+{
+  "archives": [
+    {
+      "archive": "Inner_Dojo_for_LMTSR_Hardcore_20.43.zip",
+      "sha256": "2D75E1944FCDABE55484F378FE3DC6F875777E1BFADD730DDE3394B009BE7095",
+      "bytes": 9325713,
+      "files": [
+        {
+          "path": "MANIFEST_SHA256.json",
+          "bytes": 10285,
+          "sha256": "D374AC1551BEB71C5582E9ECA5EDE1D765367BDE51EF3B0C47D7C83BACF1A27C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "README_PL.txt",
+          "bytes": 3261,
+          "sha256": "357C20B8DE725E49CE1E6076E0FDDCF0D5295189672B8AA2E9BB4F7C8E93D784",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".txt"
+        },
+        {
+          "path": "SHA256_MODS.txt",
+          "bytes": 1634,
+          "sha256": "43A295E9CCA5B69C858239F5DB51C43DC7ACE6D3286A91E654363E6BAAE9B15C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".txt"
+        },
+        {
+          "path": "DOCS/BUILD_EVENT_IR.json",
+          "bytes": 6371921,
+          "sha256": "7B2AD7FABDA078C213E41F862BDB3EED3D22E8783ABAB04F4DEAB8DC7214FE7B",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/BUILD_STATUS_EN.md",
+          "bytes": 2129,
+          "sha256": "85A945980E2672FFE869C97C748D1667E7079A60CBB804FBD59959608A8160E4",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/COMBATANT_ROSTER.json",
+          "bytes": 8337,
+          "sha256": "F1A7D7959D50BEA9115C6B0BC4009DA461231EBF69AE61BCAA6BBDEF5CDB515C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EMEDF.json",
+          "bytes": 540948,
+          "sha256": "E845C419D19A27CFF2753917536A1A2A1B23206E0D4252CCB67913D2C35F276C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/HARDCORE_ADAPTATION_EN.md",
+          "bytes": 4266,
+          "sha256": "E2DD0AFE0960B20B4C437E7A11D3D8B57A4C4C5E2BE96613A2BD907744AE6B8E",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/INSTALL_MANIFEST.json",
+          "bytes": 4009,
+          "sha256": "7054D6D077C41CECFD9E5516AFA7F360B209F311D20D608D0BD57873D0318516",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/MODDING_GUIDE_EN.md",
+          "bytes": 13167,
+          "sha256": "886AD307AE0129557A488376CA9066EF5F441BFC02DCE607466AFB5AD99312FE",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/ROSTER.json",
+          "bytes": 7885,
+          "sha256": "36EDA3EC6799D69661101D7F6B9A99694BEFFB1E925EDECB8A68EC0AC477C128",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/ROSTER_EN.md",
+          "bytes": 3138,
+          "sha256": "C2F157DF243C117FC3CB84208AB1666B351AC949A3D8C784B6E02DBE3B1FF67F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/SOURCE_PROVENANCE.json",
+          "bytes": 754,
+          "sha256": "E3366DD55CA67F2178CDCACEB968C8EB7C4C713C27AF1742EBE23B59F8F97E85",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/UNINSTALL_EN.md",
+          "bytes": 742,
+          "sha256": "6BA541DE58D95841748BF9F764BA49C30472D98057F88117C2BB1A28C121E686",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/AuditHardcore.ps1",
+          "bytes": 3021,
+          "sha256": "34F9872E97857DFBE5222CA02921FB67D957F942CC2420A03B51B6D38A85D3C6",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/BuildCore.ps1",
+          "bytes": 4179,
+          "sha256": "CF4B56360B6FEBEE48A939690EAC7216981B0ACD6D88B25FF175054D8E419751",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/BuildMap.ps1",
+          "bytes": 3376,
+          "sha256": "695489B431A4DD931E47CA3C24F46ADF37135802E13174768DD7C651BFA85FAB",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/CheckReferences.ps1",
+          "bytes": 3315,
+          "sha256": "371A4C97A472F89AA129568310859BB3ECBF54DE9656C3E2EFAA4254E4C104A5",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/Common.ps1",
+          "bytes": 6068,
+          "sha256": "C9E2AD9320B1CD22F7C4C1C4A629599DD3AA8A196DA161C75AD201142AD5B6E6",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/PatchHardcorePhases.ps1",
+          "bytes": 1662,
+          "sha256": "E5C4730DF5ED79295CCFDE35F7F51E8545DBD29C89BBB036D06AE76D0072789F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/Raw.ps1",
+          "bytes": 472,
+          "sha256": "5B0E1584373633493DF54589E759C8A5F6615FB3FCAE2EFD07336F33C0999FEC",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/Readback.ps1",
+          "bytes": 4015,
+          "sha256": "DA527731E4874EEEEB1B8E203513FEACBCC440C28636A01771E1EAE59E2AB9A6",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/README_EN.md",
+          "bytes": 2547,
+          "sha256": "9A90F82DB31BCDAE26A234CF992F3AA3AA77F67213E8E5ABA187A3B060A28C6D",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/WriteDojoEvent.ps1",
+          "bytes": 1832,
+          "sha256": "5ECEC0269D9FE62539AB8A4D2EBED18C6A4313C2FB6416D01FAE1FCDE9D688C1",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/EVIDENCE/ARASHI_DOJO.txt",
+          "bytes": 7616,
+          "sha256": "74E8B2CDC6DFDE306D095DA6DD9AD33F8DCB17D2564CFA895B65A7EB59CDDE36",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".txt"
+        },
+        {
+          "path": "DOCS/EVIDENCE/ARASHI_hardcore.txt",
+          "bytes": 2047,
+          "sha256": "688E3166BDDD158BA9088670AA41489A0F82957F622A0216054B1DB74AB3AEAE",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".txt"
+        },
+        {
+          "path": "DOCS/EVIDENCE/ARASHI_noob.txt",
+          "bytes": 2047,
+          "sha256": "C03384E06EEDB2EDD1AA6322E00702DECDA98B3B0C8750357937AF63DE852DFF",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".txt"
+        },
+        {
+          "path": "DOCS/EVIDENCE/ENTITY_AND_PARAM_REFERENCES.json",
+          "bytes": 6196,
+          "sha256": "A738BE9F919FB328D27F524241A39B38AE094935553D805CA1483BDC3657CCD4",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/HARDCORE_ARASHI_PHASE_PATCH.json",
+          "bytes": 642,
+          "sha256": "8D3D593BB35E1EE1C36702442BAD64FB3DE43487329598B98A84828C6B153C6C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/HARDCORE_CHANGED_PORT_SOURCES.json",
+          "bytes": 419,
+          "sha256": "992BB8A28C095203855C62731CB24EA8A4D85713F393DB3A0BAAD404744C992B",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/HARDCORE_DOJO_READBACK.json",
+          "bytes": 627,
+          "sha256": "7895D47DFE367B548ACF7DFB4F43A63025996C47303D98D9FB8030807348A822",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/HARDCORE_VS_NOOB_EVENTS.json",
+          "bytes": 4511,
+          "sha256": "D676A42829EB194A1BB2205BC787ABCE9BFBC529DC4A7B893A2FADD3DE028800",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/HARDCORE_VS_NOOB_FILES.json",
+          "bytes": 24055,
+          "sha256": "190D4747C6D76AE4D592A68FE91D9F06B1899171ED9430B2CEF4B4F3E4789774",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/HARDCORE_VS_NOOB_MAP.json",
+          "bytes": 96,
+          "sha256": "1764540E63845D00A6FACFF2AF924523269FD4DDABD687E6702222EC348DF0F8",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/HARDCORE_VS_NOOB_PARAM_TABLES.json",
+          "bytes": 157,
+          "sha256": "83BF2F4564B85010FE6652E6AD6A0183C97948EC7803AD678C5A329DE412C129",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/MAP_SEMANTIC_DELTA.json",
+          "bytes": 106421,
+          "sha256": "C625770307E2B46CB4E908E3C8AB4F869462A86CC0BB8D562BE6781E59A3C2A1",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/MSG_DOJO_DELTA.json",
+          "bytes": 30638,
+          "sha256": "FC8705D501D8463BADD323ABDB48F20118C1D797DB587EF62F82DC7823A3F764",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/PARAM_DOJO_DELTA.json",
+          "bytes": 5501,
+          "sha256": "E40997DF403FC629B01CDE445F9DED289266CFC8D7ABE8B4A838857B1D90D2E3",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/PORTABLE_WRITER_READBACK.json",
+          "bytes": 181,
+          "sha256": "CE13D79A6017015E4C2CF71DBE94B2D214FF8497C92C1CBBE7BE89E651792DD6",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/READBACK_CLEAN.json",
+          "bytes": 552,
+          "sha256": "A0E45FF493BBF2E55AA5B32FECE721275989D9D3444E70E9AB3345D5BD5EF20B",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "mods/event/m10_00_00_00.emevd.dcx",
+          "bytes": 51064,
+          "sha256": "EA9A9FC6FA12318012BF030BA49DC00685223F2978652FFD877C5534630817CB",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/event/m10_00_50_91.emevd.dcx",
+          "bytes": 426495,
+          "sha256": "22904BAEA6BCDEE86F4AC11274132892CB9343D0E7E4EDF9EC5247928A944F4C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/menu/02_205_bossselect.gfx",
+          "bytes": 140796,
+          "sha256": "B8476527A62FB0860A7EAEFEF56481311608943F7431A8A3708D4A970DC04028",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".gfx"
+        },
+        {
+          "path": "mods/script/m10_00_00_00.luabnd.dcx",
+          "bytes": 386722,
+          "sha256": "6073A0440C40EE35BA3B6901A6B2FAEC6FD78209E7A24045FCC14A17E47BA1DA",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/map/m10_00_00_00/m10_00_00_00.nva.dcx",
+          "bytes": 22096,
+          "sha256": "5399455AC385E146E343D1303DEFC38C4E959AAC228BB272E21C27305DEA5EE4",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/map/m10_00_00_00/m10_00_00_00.nvmhktbnd.dcx",
+          "bytes": 1743584,
+          "sha256": "BA8D824D0131ACCDF60A33A256D23EAE696BEF81A35D649AA1A27F8209322D2A",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/map/mapstudio/m10_00_00_00.msb.dcx",
+          "bytes": 441560,
+          "sha256": "547B9D8B96A6CA0EBFE605FF79D3571E970B54CC043FE78DE500BCB3E11815CC",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/menu/hi/menu_boss_11490.tpf.dcx",
+          "bytes": 917200,
+          "sha256": "8E79C583B2A1F87BFBDF5E66018B7868C5043F92D9A840537E3B73643C9D0409",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/engus/item.msgbnd.dcx",
+          "bytes": 106691,
+          "sha256": "BA51798E81F6A38D7A81FFE21A7E6EBBB02388B347570006A65F2C2FC13888C5",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/engus/menu.msgbnd.dcx",
+          "bytes": 298550,
+          "sha256": "941976BFB69409E9AA30E56643DD5890690A94866C1F3FA9983BB1B9394B7D30",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/jpnjp/item.msgbnd.dcx",
+          "bytes": 69276,
+          "sha256": "E221067B991B99648FC7D49FE21200354D3BB2B03F1869EDA355D85B41EF0811",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/jpnjp/menu.msgbnd.dcx",
+          "bytes": 253626,
+          "sha256": "80C8D46E971C91AD6D9871E729A1BCE3B5D274164BF3B90818F477DC6E43873C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhocn/item.msgbnd.dcx",
+          "bytes": 69149,
+          "sha256": "06E820A6D43623B3D748E2D4AEB295CEA31346A7176FAFA9A637C50ECA4302FE",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhocn/menu.msgbnd.dcx",
+          "bytes": 217742,
+          "sha256": "24CC87062EAC312E3DFF4DA858666B6E36145A0FD95AE56F6B432ACB15162108",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhotw/item.msgbnd.dcx",
+          "bytes": 70543,
+          "sha256": "A2B9B80213E0EC25ABEFA9137E0897ADD9B0225E5A28DEDF1D782E3190101B2D",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhotw/menu.msgbnd.dcx",
+          "bytes": 221159,
+          "sha256": "FBA5859A66F035C43E912117F06C3C035AE8F39526F262CDF73D189C8E2E314C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/param/gameparam/gameparam.parambnd.dcx",
+          "bytes": 965791,
+          "sha256": "F5C46A8F3D2EB6961F606CFF1B43047EABB3A131C3AFCA94D1BAFBD5C37FA03B",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/event/m10_00_00_00.emevd.dcx",
+          "bytes": 51112,
+          "sha256": "97E10B24D8043EA0224E74E31848C7DA04BAF7F30D0E892F4B0100EE01356B62",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/script/m10_00_00_00.luabnd.dcx",
+          "bytes": 371447,
+          "sha256": "627B4F82C457A7A40F2FD44DDF3FEC12F522BF4D47905066C6B2421CDCB0A76F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/map/mapstudio/m10_00_00_00.msb.dcx",
+          "bytes": 424906,
+          "sha256": "22196673F7E5ADCF7B8277D85A138E4D2B22D2EA4ADEFEBAA71CE159E6A56DC0",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/engus/item.msgbnd.dcx",
+          "bytes": 108865,
+          "sha256": "4516A7572F74E75870E829E5C465D8722CE1AA3EC90C691361346E2DF0EB28A9",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/engus/menu.msgbnd.dcx",
+          "bytes": 301798,
+          "sha256": "16EF1B842923EDE0A153C576F7F18082B97A1552968AA259F45FF8340569DE0F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/jpnjp/item.msgbnd.dcx",
+          "bytes": 68709,
+          "sha256": "D3557ADF38A86A7856573DFC57B7CD890A4AADB17FF414AE0E91142A00B6A346",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/jpnjp/menu.msgbnd.dcx",
+          "bytes": 250449,
+          "sha256": "ABFAEE2C2BF1CE2165B75F2394ADE871633EDC6316154F48F1B4A21FF4BF231B",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhocn/item.msgbnd.dcx",
+          "bytes": 68331,
+          "sha256": "94ECB8AEFC62040ED2F24866480969EB893E29ED31805DF2909500BFD4E82745",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhocn/menu.msgbnd.dcx",
+          "bytes": 215803,
+          "sha256": "9ABB2DAD3AC13622F1F50A7C6EE6B6B243572BFA026555FBADABFD0A1F2EDD77",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhotw/item.msgbnd.dcx",
+          "bytes": 69851,
+          "sha256": "13650DC4918AD84AB8FB41640FCDCB7BE0BAB051448907A5114D05B085136282",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhotw/menu.msgbnd.dcx",
+          "bytes": 218411,
+          "sha256": "F30B8C97918C7ECEC555A3823D77337CE63EFAF47DE0DF646CC0AAC189712F40",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/param/gameparam/gameparam.parambnd.dcx",
+          "bytes": 1041257,
+          "sha256": "FEDD09AB11DA2F6F71750CF760C0D0CE408BC706D7636DDC4922321EA1620C23",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        }
+      ],
+      "modFiles": 17,
+      "peCandidates": [],
+      "nestedArchives": [],
+      "powershellScripts": [
+        "DOCS/BUILD_SOURCE/AuditHardcore.ps1",
+        "DOCS/BUILD_SOURCE/BuildCore.ps1",
+        "DOCS/BUILD_SOURCE/BuildMap.ps1",
+        "DOCS/BUILD_SOURCE/CheckReferences.ps1",
+        "DOCS/BUILD_SOURCE/Common.ps1",
+        "DOCS/BUILD_SOURCE/PatchHardcorePhases.ps1",
+        "DOCS/BUILD_SOURCE/Raw.ps1",
+        "DOCS/BUILD_SOURCE/Readback.ps1",
+        "DOCS/BUILD_SOURCE/WriteDojoEvent.ps1"
+      ],
+      "extensions": {
+        ".json": 20,
+        ".txt": 5,
+        ".md": 6,
+        ".ps1": 9,
+        ".dcx": 28,
+        ".gfx": 1
+      }
+    },
+    {
+      "archive": "Inner_Dojo_for_LMTSR_NOOB_20.43.zip",
+      "sha256": "428DE63A1F5A5F11350BB6409B60BDFEC64F573B3DFFF1F3151AB7B4E885AC83",
+      "bytes": 9306352,
+      "files": [
+        {
+          "path": "MANIFEST_SHA256.json",
+          "bytes": 8407,
+          "sha256": "D230D82A57540B557E04CC3C889E7093668C3BBF9E3DCDDF7F5509C79D19D906",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "README_PL.txt",
+          "bytes": 3245,
+          "sha256": "D2A88F2E83B03B73B6608239AC0064261274106E9CC0D18B20591982A116953E",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".txt"
+        },
+        {
+          "path": "SHA256_MODS.txt",
+          "bytes": 1634,
+          "sha256": "9B6B26C10393D532CD8FE8D649D2633179305C8CE2B2336F3C0B83412E51EE96",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".txt"
+        },
+        {
+          "path": "DOCS/BUILD_EVENT_IR.json",
+          "bytes": 6371296,
+          "sha256": "E2AAA50C2757D5D6551C9439A33787101FA0016220729021A26E83105A7FBDC9",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/BUILD_STATUS_EN.md",
+          "bytes": 1349,
+          "sha256": "FFC4E06A5F3314AA3918A0CE59BD8AEC94B0AC6F3D0EE02A126BDE93F2EC533C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/COMBATANT_ROSTER.json",
+          "bytes": 8337,
+          "sha256": "F1A7D7959D50BEA9115C6B0BC4009DA461231EBF69AE61BCAA6BBDEF5CDB515C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EMEDF.json",
+          "bytes": 540948,
+          "sha256": "E845C419D19A27CFF2753917536A1A2A1B23206E0D4252CCB67913D2C35F276C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/INSTALL_MANIFEST.json",
+          "bytes": 4009,
+          "sha256": "F53BA30E037FD6F025505735EB41E249C8EF00D11033B1C613F551B090060CD3",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/MODDING_GUIDE_EN.md",
+          "bytes": 12431,
+          "sha256": "99E35A10C4F47DDD6692171FB1EAF4CBF258426954C1990B2504B0283CF9E2E5",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/ROSTER.json",
+          "bytes": 7885,
+          "sha256": "36EDA3EC6799D69661101D7F6B9A99694BEFFB1E925EDECB8A68EC0AC477C128",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/ROSTER_EN.md",
+          "bytes": 3138,
+          "sha256": "C2F157DF243C117FC3CB84208AB1666B351AC949A3D8C784B6E02DBE3B1FF67F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/SOURCE_PROVENANCE.json",
+          "bytes": 872,
+          "sha256": "FC82973EABCFEF8790F83BBC9000759B7E8E02DC4B87C9CCC64B350A4D9F09A1",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/UNINSTALL_EN.md",
+          "bytes": 769,
+          "sha256": "13884F8A04A5AB8CD81422408D48DBBB3B1BF8FBEBD610ACE272EDD8085C0939",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/BuildCore.ps1",
+          "bytes": 4181,
+          "sha256": "1E311E3BBC23C8A76F82F9659651FA429598A90A27D48338A2F27FDAB4E7B0B1",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/BuildMap.ps1",
+          "bytes": 3378,
+          "sha256": "A1091C716DFAB56AB380FB865AE931E137671F7257E57E5A62555FA6543FBC31",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/Common.ps1",
+          "bytes": 6068,
+          "sha256": "C9E2AD9320B1CD22F7C4C1C4A629599DD3AA8A196DA161C75AD201142AD5B6E6",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/Raw.ps1",
+          "bytes": 472,
+          "sha256": "5B0E1584373633493DF54589E759C8A5F6615FB3FCAE2EFD07336F33C0999FEC",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/Readback.ps1",
+          "bytes": 3882,
+          "sha256": "8C584A05A976C43960BC024179DC14FE67E7383D493AC04D8A5A5DFD1EB836FF",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/README_EN.md",
+          "bytes": 1644,
+          "sha256": "119DFDE29955CE711D6F97C3F56C440163965790058DCB77E30E579E05EC711E",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/WriteDojoEvent.ps1",
+          "bytes": 1832,
+          "sha256": "5ECEC0269D9FE62539AB8A4D2EBED18C6A4313C2FB6416D01FAE1FCDE9D688C1",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/EVIDENCE/FILE_PROVENANCE.json",
+          "bytes": 18894,
+          "sha256": "82F2885E287FEF93B30976765D793E22FB159B8ED3C37C702328026270C5F21E",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/MAP_SEMANTIC_DELTA.json",
+          "bytes": 106421,
+          "sha256": "2528E4B9E33221EF16569E2FF6AC48244D447B365895C01960AB6C8A1AA7A1F2",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/MSG_DOJO_DELTA.json",
+          "bytes": 30638,
+          "sha256": "CD2989C25BDBDD606F39FE27845012E8C6930C415987E66CE0881487809478D0",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/PARAM_DOJO_DELTA.json",
+          "bytes": 5501,
+          "sha256": "E40997DF403FC629B01CDE445F9DED289266CFC8D7ABE8B4A838857B1D90D2E3",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/PORTABLE_WRITER_READBACK.json",
+          "bytes": 315,
+          "sha256": "7C78DE60960521B2B727ED24A3D4ED8ED8A363E0A5DA2590DDCBE6C5DBF92148",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/READBACK_CLEAN.json",
+          "bytes": 539,
+          "sha256": "AA650C9F264ECEF769156A7CBF22020E10A454FC672C71790C507C2F4DD05889",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/UI_CONTENTS.json",
+          "bytes": 48464,
+          "sha256": "32855E445B70267DF921D318E0C705463C43287040FDD8AD432CD9B8C5A0BC7C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/WORLD_DOJO_DELTA.json",
+          "bytes": 216,
+          "sha256": "8882A372EE97E69EACB34496BED5CD7CD67699AC81E26E555DB4E0FCD7B5FDBE",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "mods/event/m10_00_00_00.emevd.dcx",
+          "bytes": 46400,
+          "sha256": "C478B97945D43E6ED340EE2B5160DB99CE091A8DCF5C5E263D323FA8D90BAB89",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/event/m10_00_50_91.emevd.dcx",
+          "bytes": 426488,
+          "sha256": "693085D2D5BF0D9C4964EA5F4538BF86B12D27CEAFD70AAA24243E90F3B51F35",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/menu/02_205_bossselect.gfx",
+          "bytes": 140796,
+          "sha256": "B8476527A62FB0860A7EAEFEF56481311608943F7431A8A3708D4A970DC04028",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".gfx"
+        },
+        {
+          "path": "mods/script/m10_00_00_00.luabnd.dcx",
+          "bytes": 386722,
+          "sha256": "6073A0440C40EE35BA3B6901A6B2FAEC6FD78209E7A24045FCC14A17E47BA1DA",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/map/m10_00_00_00/m10_00_00_00.nva.dcx",
+          "bytes": 22096,
+          "sha256": "5399455AC385E146E343D1303DEFC38C4E959AAC228BB272E21C27305DEA5EE4",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/map/m10_00_00_00/m10_00_00_00.nvmhktbnd.dcx",
+          "bytes": 1743584,
+          "sha256": "BA8D824D0131ACCDF60A33A256D23EAE696BEF81A35D649AA1A27F8209322D2A",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/map/mapstudio/m10_00_00_00.msb.dcx",
+          "bytes": 441440,
+          "sha256": "CE51024723E6E7B52059FD2D2582BE08B7D997B1CB41F0860FB0815B085E4C10",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/menu/hi/menu_boss_11490.tpf.dcx",
+          "bytes": 917200,
+          "sha256": "8E79C583B2A1F87BFBDF5E66018B7868C5043F92D9A840537E3B73643C9D0409",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/engus/item.msgbnd.dcx",
+          "bytes": 106691,
+          "sha256": "BA51798E81F6A38D7A81FFE21A7E6EBBB02388B347570006A65F2C2FC13888C5",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/engus/menu.msgbnd.dcx",
+          "bytes": 298550,
+          "sha256": "941976BFB69409E9AA30E56643DD5890690A94866C1F3FA9983BB1B9394B7D30",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/jpnjp/item.msgbnd.dcx",
+          "bytes": 69276,
+          "sha256": "E221067B991B99648FC7D49FE21200354D3BB2B03F1869EDA355D85B41EF0811",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/jpnjp/menu.msgbnd.dcx",
+          "bytes": 253626,
+          "sha256": "80C8D46E971C91AD6D9871E729A1BCE3B5D274164BF3B90818F477DC6E43873C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhocn/item.msgbnd.dcx",
+          "bytes": 69149,
+          "sha256": "06E820A6D43623B3D748E2D4AEB295CEA31346A7176FAFA9A637C50ECA4302FE",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhocn/menu.msgbnd.dcx",
+          "bytes": 217742,
+          "sha256": "24CC87062EAC312E3DFF4DA858666B6E36145A0FD95AE56F6B432ACB15162108",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhotw/item.msgbnd.dcx",
+          "bytes": 70543,
+          "sha256": "A2B9B80213E0EC25ABEFA9137E0897ADD9B0225E5A28DEDF1D782E3190101B2D",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhotw/menu.msgbnd.dcx",
+          "bytes": 221159,
+          "sha256": "FBA5859A66F035C43E912117F06C3C035AE8F39526F262CDF73D189C8E2E314C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/param/gameparam/gameparam.parambnd.dcx",
+          "bytes": 965069,
+          "sha256": "3B56BF2BE2824EBEC3BFC63C8518C76466E4D8DCDA4F004F150ED69DAFDDC970",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/event/m10_00_00_00.emevd.dcx",
+          "bytes": 46340,
+          "sha256": "3815BC837E52691116483891EAEC3175BAE13F7914542DE4DF355E568A535C96",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/script/m10_00_00_00.luabnd.dcx",
+          "bytes": 371447,
+          "sha256": "627B4F82C457A7A40F2FD44DDF3FEC12F522BF4D47905066C6B2421CDCB0A76F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/map/mapstudio/m10_00_00_00.msb.dcx",
+          "bytes": 424761,
+          "sha256": "F31890D64DAA7AB5A1312C60B68E0EAE8FE5B64B71DC6B641C5B248483BE0821",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/engus/item.msgbnd.dcx",
+          "bytes": 108865,
+          "sha256": "4516A7572F74E75870E829E5C465D8722CE1AA3EC90C691361346E2DF0EB28A9",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/engus/menu.msgbnd.dcx",
+          "bytes": 301798,
+          "sha256": "16EF1B842923EDE0A153C576F7F18082B97A1552968AA259F45FF8340569DE0F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/jpnjp/item.msgbnd.dcx",
+          "bytes": 68709,
+          "sha256": "D3557ADF38A86A7856573DFC57B7CD890A4AADB17FF414AE0E91142A00B6A346",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/jpnjp/menu.msgbnd.dcx",
+          "bytes": 250449,
+          "sha256": "ABFAEE2C2BF1CE2165B75F2394ADE871633EDC6316154F48F1B4A21FF4BF231B",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhocn/item.msgbnd.dcx",
+          "bytes": 68331,
+          "sha256": "94ECB8AEFC62040ED2F24866480969EB893E29ED31805DF2909500BFD4E82745",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhocn/menu.msgbnd.dcx",
+          "bytes": 215803,
+          "sha256": "9ABB2DAD3AC13622F1F50A7C6EE6B6B243572BFA026555FBADABFD0A1F2EDD77",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhotw/item.msgbnd.dcx",
+          "bytes": 69851,
+          "sha256": "13650DC4918AD84AB8FB41640FCDCB7BE0BAB051448907A5114D05B085136282",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhotw/menu.msgbnd.dcx",
+          "bytes": 218411,
+          "sha256": "F30B8C97918C7ECEC555A3823D77337CE63EFAF47DE0DF646CC0AAC189712F40",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/param/gameparam/gameparam.parambnd.dcx",
+          "bytes": 1039219,
+          "sha256": "3F768D73697F7CB3E76B5280DC6C73F3B49BFB75F38E2F2BA18C4E6EC0C7F2BC",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        }
+      ],
+      "modFiles": 17,
+      "peCandidates": [],
+      "nestedArchives": [],
+      "powershellScripts": [
+        "DOCS/BUILD_SOURCE/BuildCore.ps1",
+        "DOCS/BUILD_SOURCE/BuildMap.ps1",
+        "DOCS/BUILD_SOURCE/Common.ps1",
+        "DOCS/BUILD_SOURCE/Raw.ps1",
+        "DOCS/BUILD_SOURCE/Readback.ps1",
+        "DOCS/BUILD_SOURCE/WriteDojoEvent.ps1"
+      ],
+      "extensions": {
+        ".json": 15,
+        ".txt": 2,
+        ".md": 5,
+        ".ps1": 6,
+        ".dcx": 28,
+        ".gfx": 1
+      }
+    },
+    {
+      "archive": "Inner_Dojo_for_LMTSR_NOOB_20.43_Lone_Wolf_Compatibility.zip",
+      "sha256": "5AB39FCFC344E6552EDF665AEEBD6E5AC18947BB26C5071BE85C53C5B9B6F4FF",
+      "bytes": 203471359,
+      "files": [
+        {
+          "path": "MANIFEST_SHA256.json",
+          "bytes": 9780,
+          "sha256": "3D92711E16E4C4F895C6D7368098EFF909E95F7907ECE65FB12D761234528CFA",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "README_PL.txt",
+          "bytes": 3431,
+          "sha256": "4F39799ABEC11157FF7F632BFC8F06F2B3B9373CC6938196CB81BF59D972E166",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".txt"
+        },
+        {
+          "path": "SHA256_MODS.txt",
+          "bytes": 1736,
+          "sha256": "F48AB74D5F633548F84AD4904A3308CE8F6CE8F41583C98CD232C6D821F7E547",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".txt"
+        },
+        {
+          "path": "DOCS/BUILD_EVENT_IR.json",
+          "bytes": 6371296,
+          "sha256": "E2AAA50C2757D5D6551C9439A33787101FA0016220729021A26E83105A7FBDC9",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/CLEAN_MERGE_EN.md",
+          "bytes": 4716,
+          "sha256": "EE0E91DF6AD373262C7F597D6FAD5E8826753BA2528AD467847F2359923CF0BC",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/COMBATANT_ROSTER.json",
+          "bytes": 8337,
+          "sha256": "F1A7D7959D50BEA9115C6B0BC4009DA461231EBF69AE61BCAA6BBDEF5CDB515C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EMEDF.json",
+          "bytes": 540948,
+          "sha256": "E845C419D19A27CFF2753917536A1A2A1B23206E0D4252CCB67913D2C35F276C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/INSTALL_MANIFEST.json",
+          "bytes": 4270,
+          "sha256": "5EF9964D9F454DAEF1D8BB07A6D3FE802D686664926EDAB9B113F9A6B9D2074D",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/MODDING_GUIDE_EN.md",
+          "bytes": 12828,
+          "sha256": "F066CF88E01758D91B5F3B45967E1812AD5867100E39A25F09002F42B3F7C462",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/REQUIRED_LONEWOLF_FILES_SHA256.json",
+          "bytes": 3136,
+          "sha256": "06627A173BE5089F8BB4AEDD7C20ACA5147F4BC2AFEBD252D0118291D0C6D7D8",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/ROSTER.json",
+          "bytes": 7885,
+          "sha256": "36EDA3EC6799D69661101D7F6B9A99694BEFFB1E925EDECB8A68EC0AC477C128",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/ROSTER_EN.md",
+          "bytes": 3138,
+          "sha256": "C2F157DF243C117FC3CB84208AB1666B351AC949A3D8C784B6E02DBE3B1FF67F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/SOURCE_GAPS_EN.md",
+          "bytes": 1245,
+          "sha256": "81AB71C50AEEAB887B509D824039A7ACE8727E99DC09F2B980921B84D34C412B",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/SOURCE_PROVENANCE.json",
+          "bytes": 2476,
+          "sha256": "0474E9B949FA16AA6D7688C5EBEAD342F59684533954B8E239A22897FAEC02BC",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/UNINSTALL_EN.md",
+          "bytes": 902,
+          "sha256": "42EA0BF3B9F8EEB785432E042AC6727A86FCDCF2EFF314B5D8B029CDF66424ED",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/AuditReferences.ps1",
+          "bytes": 4223,
+          "sha256": "BA12990C57F57CEA1A6C597EDF38838FEAB433BC101F76F717AF8F52D58FF218",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/BuildCleanVariantV2.ps1",
+          "bytes": 6144,
+          "sha256": "0EA0F2714DA270769E702F1B3DAB24CA4CD6AB8D0F86918C4D59BB00A55E2B07",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/Common.ps1",
+          "bytes": 6068,
+          "sha256": "C9E2AD9320B1CD22F7C4C1C4A629599DD3AA8A196DA161C75AD201142AD5B6E6",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/InspectAuthorDelta.ps1",
+          "bytes": 3658,
+          "sha256": "059B96A9C632F4E5139F1CEA33306DCFF7B0D85F6F36BD1307796A5ECFC9DA66",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/InspectExcludedPatch.ps1",
+          "bytes": 1732,
+          "sha256": "F3E7F8EE8DDAD7342860A4D5E861DDDE94308E9401E9C00BC7CCD7EA2727978E",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/Raw.ps1",
+          "bytes": 472,
+          "sha256": "5B0E1584373633493DF54589E759C8A5F6615FB3FCAE2EFD07336F33C0999FEC",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/ReadbackCleanVariantV2.ps1",
+          "bytes": 7131,
+          "sha256": "49A67CB3B211A310A1B07C217A92EC04883873AEE4DE7A579E5BFEA39C2F9E49",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/README_EN.md",
+          "bytes": 1232,
+          "sha256": "72A246BC8327F6602724C75154BC22AAAC53B37572C138BFE43D4F7CE4471EDA",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".md"
+        },
+        {
+          "path": "DOCS/BUILD_SOURCE/WriteDojoEvent.ps1",
+          "bytes": 1832,
+          "sha256": "5ECEC0269D9FE62539AB8A4D2EBED18C6A4313C2FB6416D01FAE1FCDE9D688C1",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".ps1"
+        },
+        {
+          "path": "DOCS/EVIDENCE/AUTHOR_LONEWOLF_DELTA.json",
+          "bytes": 144863,
+          "sha256": "79DC0DAB14F910916E539574D9D99DF6A711E01AC24C881F2C1D54B38CEFF4D7",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/AUTHOR_NOOB_CONFLICTS.json",
+          "bytes": 25,
+          "sha256": "BABD8340F2CC5C219A37F4F8797C082ED1D792BE121C7C599421A074F29CD221",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/BUILD_REPORT.json",
+          "bytes": 123450,
+          "sha256": "A21FB6D197AF442260E25843FF354CC3C0366F4EA8446B689982EB63E0E2025C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/EXCLUDED_OLD_PATCH_DELTA.json",
+          "bytes": 5478,
+          "sha256": "92A90724453B6080D5BF15D32872606E35F3FD77BB637520A8712C2A2F575675",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/FINAL_AUTHOR_SOURCE_HASHES.json",
+          "bytes": 2384,
+          "sha256": "68E72F76905E61E03C2A1DD0F74F50734556C10904C4E0B32755D30164E128BC",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/FINAL_READBACK.json",
+          "bytes": 1499,
+          "sha256": "3EA32229389D70B13BD8AE7CE331FC93467BF071541573BDE94175A8FAB786E0",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/FIXES_ALREADY_APPLIED.json",
+          "bytes": 526,
+          "sha256": "86C302702F5E2761BB5A580AB1209C07A24966FAA229B0B55CAE8FB58295CADA",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/INCOMING_AUTHOR_FILES.json",
+          "bytes": 467,
+          "sha256": "C6773830E3ACBB533F3D46A70CDDCAABC0E441E1EA8EC3FFF3A34E870C0A3D1F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/OLD_PATCH_ARCHIVE_COMPARISON.json",
+          "bytes": 759,
+          "sha256": "BB9A3E928E0B80B03E5E05A1AF23D6E06027024881DA712085B160F5C0AD21B0",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "DOCS/EVIDENCE/PARAM_REFERENCE_AUDIT.json",
+          "bytes": 3663,
+          "sha256": "B7EFFB301061E1A325142CA236DD0EEF4EA3C311051005A2E85079C74C0E000A",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".json"
+        },
+        {
+          "path": "mods/event/m10_00_00_00.emevd.dcx",
+          "bytes": 46400,
+          "sha256": "C478B97945D43E6ED340EE2B5160DB99CE091A8DCF5C5E263D323FA8D90BAB89",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/event/m10_00_50_91.emevd.dcx",
+          "bytes": 426488,
+          "sha256": "693085D2D5BF0D9C4964EA5F4538BF86B12D27CEAFD70AAA24243E90F3B51F35",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/menu/02_205_bossselect.gfx",
+          "bytes": 140796,
+          "sha256": "B8476527A62FB0860A7EAEFEF56481311608943F7431A8A3708D4A970DC04028",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".gfx"
+        },
+        {
+          "path": "mods/script/m10_00_00_00.luabnd.dcx",
+          "bytes": 386722,
+          "sha256": "6073A0440C40EE35BA3B6901A6B2FAEC6FD78209E7A24045FCC14A17E47BA1DA",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/sfx/sfxbnd_commoneffects.ffxbnd.dcx",
+          "bytes": 98994828,
+          "sha256": "3317F96F1037814C24F7D3CFEBDFC4936FC17C201FCE76FBD5FE21336948750C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/map/m10_00_00_00/m10_00_00_00.nva.dcx",
+          "bytes": 22096,
+          "sha256": "5399455AC385E146E343D1303DEFC38C4E959AAC228BB272E21C27305DEA5EE4",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/map/m10_00_00_00/m10_00_00_00.nvmhktbnd.dcx",
+          "bytes": 1743584,
+          "sha256": "BA8D824D0131ACCDF60A33A256D23EAE696BEF81A35D649AA1A27F8209322D2A",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/map/mapstudio/m10_00_00_00.msb.dcx",
+          "bytes": 441440,
+          "sha256": "CE51024723E6E7B52059FD2D2582BE08B7D997B1CB41F0860FB0815B085E4C10",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/menu/hi/menu_boss_11490.tpf.dcx",
+          "bytes": 917200,
+          "sha256": "8E79C583B2A1F87BFBDF5E66018B7868C5043F92D9A840537E3B73643C9D0409",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/engus/item.msgbnd.dcx",
+          "bytes": 107655,
+          "sha256": "7F1826BCC52C6FA0936C600732D5B56D7B518CF7F07E4F8EC490D686F607225D",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/engus/menu.msgbnd.dcx",
+          "bytes": 298550,
+          "sha256": "941976BFB69409E9AA30E56643DD5890690A94866C1F3FA9983BB1B9394B7D30",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/jpnjp/item.msgbnd.dcx",
+          "bytes": 69276,
+          "sha256": "E221067B991B99648FC7D49FE21200354D3BB2B03F1869EDA355D85B41EF0811",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/jpnjp/menu.msgbnd.dcx",
+          "bytes": 253626,
+          "sha256": "80C8D46E971C91AD6D9871E729A1BCE3B5D274164BF3B90818F477DC6E43873C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhocn/item.msgbnd.dcx",
+          "bytes": 69149,
+          "sha256": "06E820A6D43623B3D748E2D4AEB295CEA31346A7176FAFA9A637C50ECA4302FE",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhocn/menu.msgbnd.dcx",
+          "bytes": 217742,
+          "sha256": "24CC87062EAC312E3DFF4DA858666B6E36145A0FD95AE56F6B432ACB15162108",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhotw/item.msgbnd.dcx",
+          "bytes": 70543,
+          "sha256": "A2B9B80213E0EC25ABEFA9137E0897ADD9B0225E5A28DEDF1D782E3190101B2D",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/msg/zhotw/menu.msgbnd.dcx",
+          "bytes": 221159,
+          "sha256": "FBA5859A66F035C43E912117F06C3C035AE8F39526F262CDF73D189C8E2E314C",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "mods/param/gameparam/gameparam.parambnd.dcx",
+          "bytes": 969933,
+          "sha256": "E4FD6BA001B096ECE367569917B1A18B8841AF74C0F337CEE0D347BE543CAA31",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/event/m10_00_00_00.emevd.dcx",
+          "bytes": 46340,
+          "sha256": "3815BC837E52691116483891EAEC3175BAE13F7914542DE4DF355E568A535C96",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/script/m10_00_00_00.luabnd.dcx",
+          "bytes": 371447,
+          "sha256": "627B4F82C457A7A40F2FD44DDF3FEC12F522BF4D47905066C6B2421CDCB0A76F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/sfx/sfxbnd_commoneffects.ffxbnd.dcx",
+          "bytes": 96055963,
+          "sha256": "16CFB396D6232087E49C23F85BF50A0F11F4CF4D7BEDC78CE892AAF40DAB73A5",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/map/mapstudio/m10_00_00_00.msb.dcx",
+          "bytes": 424761,
+          "sha256": "F31890D64DAA7AB5A1312C60B68E0EAE8FE5B64B71DC6B641C5B248483BE0821",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/engus/item.msgbnd.dcx",
+          "bytes": 107925,
+          "sha256": "34362174B9F20A5BB87D4E6E02E0F5D2CEE060FA592946292A670BC3CB1DE6E7",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/engus/menu.msgbnd.dcx",
+          "bytes": 301798,
+          "sha256": "16EF1B842923EDE0A153C576F7F18082B97A1552968AA259F45FF8340569DE0F",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/jpnjp/item.msgbnd.dcx",
+          "bytes": 68709,
+          "sha256": "D3557ADF38A86A7856573DFC57B7CD890A4AADB17FF414AE0E91142A00B6A346",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/jpnjp/menu.msgbnd.dcx",
+          "bytes": 250449,
+          "sha256": "ABFAEE2C2BF1CE2165B75F2394ADE871633EDC6316154F48F1B4A21FF4BF231B",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhocn/item.msgbnd.dcx",
+          "bytes": 68331,
+          "sha256": "94ECB8AEFC62040ED2F24866480969EB893E29ED31805DF2909500BFD4E82745",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhocn/menu.msgbnd.dcx",
+          "bytes": 215803,
+          "sha256": "9ABB2DAD3AC13622F1F50A7C6EE6B6B243572BFA026555FBADABFD0A1F2EDD77",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhotw/item.msgbnd.dcx",
+          "bytes": 69851,
+          "sha256": "13650DC4918AD84AB8FB41640FCDCB7BE0BAB051448907A5114D05B085136282",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/msg/zhotw/menu.msgbnd.dcx",
+          "bytes": 218411,
+          "sha256": "F30B8C97918C7ECEC555A3823D77337CE63EFAF47DE0DF646CC0AAC189712F40",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        },
+        {
+          "path": "DOCS/ROLLBACK/mods/param/gameparam/gameparam.parambnd.dcx",
+          "bytes": 1604292,
+          "sha256": "5D9D25AA0139C40EF9D966F458086AE2DAEF3298FDB1F5F247B6BC7C8A9A352D",
+          "mzHeader": false,
+          "zipHeader": false,
+          "suffix": ".dcx"
+        }
+      ],
+      "modFiles": 18,
+      "peCandidates": [],
+      "nestedArchives": [],
+      "powershellScripts": [
+        "DOCS/BUILD_SOURCE/AuditReferences.ps1",
+        "DOCS/BUILD_SOURCE/BuildCleanVariantV2.ps1",
+        "DOCS/BUILD_SOURCE/Common.ps1",
+        "DOCS/BUILD_SOURCE/InspectAuthorDelta.ps1",
+        "DOCS/BUILD_SOURCE/InspectExcludedPatch.ps1",
+        "DOCS/BUILD_SOURCE/Raw.ps1",
+        "DOCS/BUILD_SOURCE/ReadbackCleanVariantV2.ps1",
+        "DOCS/BUILD_SOURCE/WriteDojoEvent.ps1"
+      ],
+      "extensions": {
+        ".json": 18,
+        ".txt": 2,
+        ".md": 6,
+        ".ps1": 8,
+        ".dcx": 30,
+        ".gfx": 1
+      }
+    }
+  ],
+  "testScope": "ZIP CRC, member SHA against original manifest, filename and header inventory; not malware clearance"
+}

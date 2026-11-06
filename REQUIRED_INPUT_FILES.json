@@ -1,0 +1,170 @@
+[
+  {
+    "profile": "NOOB",
+    "path": "param/gameparam/gameparam.parambnd.dcx",
+    "sha256": "3F768D73697F7CB3E76B5280DC6C73F3B49BFB75F38E2F2BA18C4E6EC0C7F2BC",
+    "bytes": 1039219
+  },
+  {
+    "profile": "NOOB",
+    "path": "map/mapstudio/m10_00_00_00.msb.dcx",
+    "sha256": "F31890D64DAA7AB5A1312C60B68E0EAE8FE5B64B71DC6B641C5B248483BE0821",
+    "bytes": 424761
+  },
+  {
+    "profile": "NOOB",
+    "path": "event/m10_00_00_00.emevd.dcx",
+    "sha256": "3815BC837E52691116483891EAEC3175BAE13F7914542DE4DF355E568A535C96",
+    "bytes": 46340
+  },
+  {
+    "profile": "NOOB",
+    "path": "msg/engus/item.msgbnd.dcx",
+    "sha256": "4516A7572F74E75870E829E5C465D8722CE1AA3EC90C691361346E2DF0EB28A9",
+    "bytes": 108865
+  },
+  {
+    "profile": "NOOB",
+    "path": "msg/engus/menu.msgbnd.dcx",
+    "sha256": "16EF1B842923EDE0A153C576F7F18082B97A1552968AA259F45FF8340569DE0F",
+    "bytes": 301798
+  },
+  {
+    "profile": "NOOB",
+    "path": "msg/jpnjp/item.msgbnd.dcx",
+    "sha256": "D3557ADF38A86A7856573DFC57B7CD890A4AADB17FF414AE0E91142A00B6A346",
+    "bytes": 68709
+  },
+  {
+    "profile": "NOOB",
+    "path": "msg/jpnjp/menu.msgbnd.dcx",
+    "sha256": "ABFAEE2C2BF1CE2165B75F2394ADE871633EDC6316154F48F1B4A21FF4BF231B",
+    "bytes": 250449
+  },
+  {
+    "profile": "NOOB",
+    "path": "msg/zhocn/item.msgbnd.dcx",
+    "sha256": "94ECB8AEFC62040ED2F24866480969EB893E29ED31805DF2909500BFD4E82745",
+    "bytes": 68331
+  },
+  {
+    "profile": "NOOB",
+    "path": "msg/zhocn/menu.msgbnd.dcx",
+    "sha256": "9ABB2DAD3AC13622F1F50A7C6EE6B6B243572BFA026555FBADABFD0A1F2EDD77",
+    "bytes": 215803
+  },
+  {
+    "profile": "NOOB",
+    "path": "msg/zhotw/item.msgbnd.dcx",
+    "sha256": "13650DC4918AD84AB8FB41640FCDCB7BE0BAB051448907A5114D05B085136282",
+    "bytes": 69851
+  },
+  {
+    "profile": "NOOB",
+    "path": "msg/zhotw/menu.msgbnd.dcx",
+    "sha256": "F30B8C97918C7ECEC555A3823D77337CE63EFAF47DE0DF646CC0AAC189712F40",
+    "bytes": 218411
+  },
+  {
+    "profile": "NOOB",
+    "path": "sfx/sfxbnd_commoneffects.ffxbnd.dcx",
+    "sha256": "46EA1766BD568BEAC411A344DCB16CBED4D03FB031C28FDAC16182BF69BFA12A",
+    "bytes": 98428529
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "param/gameparam/gameparam.parambnd.dcx",
+    "sha256": "FEDD09AB11DA2F6F71750CF760C0D0CE408BC706D7636DDC4922321EA1620C23",
+    "bytes": 1041257
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "map/mapstudio/m10_00_00_00.msb.dcx",
+    "sha256": "22196673F7E5ADCF7B8277D85A138E4D2B22D2EA4ADEFEBAA71CE159E6A56DC0",
+    "bytes": 424906
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "event/m10_00_00_00.emevd.dcx",
+    "sha256": "97E10B24D8043EA0224E74E31848C7DA04BAF7F30D0E892F4B0100EE01356B62",
+    "bytes": 51112
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "msg/engus/item.msgbnd.dcx",
+    "sha256": "4516A7572F74E75870E829E5C465D8722CE1AA3EC90C691361346E2DF0EB28A9",
+    "bytes": 108865
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "msg/engus/menu.msgbnd.dcx",
+    "sha256": "16EF1B842923EDE0A153C576F7F18082B97A1552968AA259F45FF8340569DE0F",
+    "bytes": 301798
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "msg/jpnjp/item.msgbnd.dcx",
+    "sha256": "D3557ADF38A86A7856573DFC57B7CD890A4AADB17FF414AE0E91142A00B6A346",
+    "bytes": 68709
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "msg/jpnjp/menu.msgbnd.dcx",
+    "sha256": "ABFAEE2C2BF1CE2165B75F2394ADE871633EDC6316154F48F1B4A21FF4BF231B",
+    "bytes": 250449
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "msg/zhocn/item.msgbnd.dcx",
+    "sha256": "94ECB8AEFC62040ED2F24866480969EB893E29ED31805DF2909500BFD4E82745",
+    "bytes": 68331
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "msg/zhocn/menu.msgbnd.dcx",
+    "sha256": "9ABB2DAD3AC13622F1F50A7C6EE6B6B243572BFA026555FBADABFD0A1F2EDD77",
+    "bytes": 215803
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "msg/zhotw/item.msgbnd.dcx",
+    "sha256": "13650DC4918AD84AB8FB41640FCDCB7BE0BAB051448907A5114D05B085136282",
+    "bytes": 69851
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "msg/zhotw/menu.msgbnd.dcx",
+    "sha256": "F30B8C97918C7ECEC555A3823D77337CE63EFAF47DE0DF646CC0AAC189712F40",
+    "bytes": 218411
+  },
+  {
+    "profile": "LONEWOLF",
+    "path": "param/gameparam/gameparam.parambnd.dcx",
+    "sha256": "5D9D25AA0139C40EF9D966F458086AE2DAEF3298FDB1F5F247B6BC7C8A9A352D",
+    "bytes": 1604292
+  },
+  {
+    "profile": "LONEWOLF",
+    "path": "sfx/sfxbnd_commoneffects.ffxbnd.dcx",
+    "sha256": "16CFB396D6232087E49C23F85BF50A0F11F4CF4D7BEDC78CE892AAF40DAB73A5",
+    "bytes": 96055963
+  },
+  {
+    "profile": "LONEWOLF",
+    "path": "msg/engus/item.msgbnd.dcx",
+    "sha256": "34362174B9F20A5BB87D4E6E02E0F5D2CEE060FA592946292A670BC3CB1DE6E7",
+    "bytes": 107925
+  },
+  {
+    "profile": "LONEWOLF",
+    "path": "msg/engus/menu.msgbnd.dcx",
+    "sha256": "16EF1B842923EDE0A153C576F7F18082B97A1552968AA259F45FF8340569DE0F",
+    "bytes": 301798
+  },
+  {
+    "profile": "HARDCORE",
+    "path": "sfx/sfxbnd_commoneffects.ffxbnd.dcx",
+    "sha256": "46EA1766BD568BEAC411A344DCB16CBED4D03FB031C28FDAC16182BF69BFA12A",
+    "bytes": 98428529
+  }
+]
